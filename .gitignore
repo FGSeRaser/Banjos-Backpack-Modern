@@ -1,0 +1,11 @@
+﻿*.exe
+Backup
+bin
+obj
+Debug
+UpgradeLog.htm
+Banjo-s-Backpack.7z
+Core.cs.old
+.vs
+# Modern Edition: Hilfsdateien gehören ins Repo
+!Laufzeit/**

@@ -1,0 +1,1619 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object name="Entry Point 1" id="01" script="190C" pointer="1" modelfile=".\resources\entry.mw" />
+
+  <object name="Entry Point 2" id="02" script="190C" pointer="1" modelfile=".\resources\entry.mw" />
+
+  <object name="Bull" id="4" script="190C" pointer="7930" />
+
+  <object name="Ticker" id="5" script="190C" pointer="7918" />
+
+  <object name="Grublin" id="6" script="190C" pointer="7CC0" />
+
+  <object name="Mumbo" id="7" script="190C" pointer="7CC8" />
+
+  <object name="Conga" id="8" script="190C" pointer="7978" jiggyID="0"/>
+
+  <object name="MM Hut" id="9" script="190C" pointer="9D50" />
+
+  <object name="Piranha Fish" id="A" script="190C" pointer="79F0" />
+
+  <object name="Jump Pad" id="B" script="190C" pointer="7580" />
+
+  <object name="BGS Hut" id="C" script="190C" pointer="9D58" />
+
+  <object name="Wood Demolished" id="D" script="190C"/>
+
+  <object name="Bull 2" id="E" script="190C" pointer="7930" />
+
+  <object name="Chimpy" id="F" script="190C" pointer="7980" jiggyID="0"/>
+  <object name="Ju-Ju" id="11" script="190C" pointer="75C8" />
+
+  <object name="Bee Hive" id="12" script="190C" pointer="79B8" />
+
+  <object name="Toxic Barrel Effect" id="13" script="190C" />
+  
+  <object name="Orange Attack" id="14" script="190C" pointer="7528" />
+
+  <object name="Entry Point 3" id="15" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Camera Path Trigger 1" id="16" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 2" id="17" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 3" id="18" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 4" id="19" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 5" id="1A" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 6" id="1B" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 7" id="1C" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 8" id="1D" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 9" id="1E" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 10" id="1F" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 11" id="20" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 12" id="21" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 13" id="22" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 14" id="23" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 15" id="24" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 16" id="25" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 17" id="26" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 18" id="27" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 19" id="28" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Path Trigger 20" id="29" script="4B08" pointer="1" modelfile=".\resources\cam_start.mw"/>
+  <object name="Camera Release" id="2A" script="4B08" pointer="1" modelfile=".\resources\cam_end.mw"/>
+
+
+
+  <object name="Shadow" id="17" script="190C" pointer="7C90" />
+
+  <object name="Leaky" id="1E" script="190C" pointer="8768" cameraID="24" />
+  <object name="Pumpkin Transformation" id="20" script="190C" pointer="1" modelfile=".\resources\pumpkin.mw"/>
+
+  <object name="Croc Transformation" id="21" script="190C" pointer="1" modelfile=".\resources\croc.mw"/>
+
+  <object name="Walrus Transformation" id="22" script="190C" pointer="1" modelfile=".\resources\walrus.mw"/>
+
+  <object name="Bee Transformation" id="23" script="190C" pointer="1" modelfile=".\resources\bee.mw"/>
+
+  <object name="Yum-Yum_" id="24" script="190C" pointer="7920" />
+
+  <object name="Cemetary Pot" id="25" script="190C" pointer="7C08" />
+
+  <object name="Start Climb" id="26" script="190C" pointer="1" modelfile=".\resources\climb_start.mw"/>
+
+  <object name="End Climb Can't Go Higher" id="27" script="190C" pointer="1" modelfile=".\resources\climb_start.mw"/>
+
+  <object name="End Climb" id="28" script="190C" pointer="1" modelfile=".\resources\climb_end.mw"/>
+
+  <object name="Orange" id="29" script="190C" pointer="7528" />
+
+  <object name="Blubber's Gold" id="2A" script="190C" pointer="7CD0" />
+
+  <object name="Running Shoes" id="2C" script="190C" pointer="79D0" />
+
+  <object name="Mumbo Token" id="2D" script="190C" pointer="1" modelfile=".\resources\mumboToken.mw"/>
+
+  <object name="School of Fish" id="31" script="190C"/>
+
+  <object name="Wooden Crate Script" id="37" script="190C"/>
+
+  <object name="Tumblar" id="38" script="190C" pointer="7620" />
+
+  <object name="Napper" id="39" script="190C" pointer="8988" />
+
+  <object name="Motzand" id="3A" script="190C" pointer="A2F8" />
+
+  <object name="Big Key" id="3C" script="190C" pointer="7FE0" />
+
+  <object name="Black Propeller" id="3D" script="190C" pointer="8068" />
+
+  <object name="Propeller 2" id="3E" script="190C" pointer="8068" />
+
+  <object name="Propeller 3" id="3F" script="190C" pointer="8068" />
+
+  <object name="Propeller 4" id="40" script="190C" pointer="8068" />
+
+  <object name="Propeller 5" id="41" script="190C" pointer="8068" />
+
+  <object name="Propeller 6" id="42" script="190C" pointer="8068" />
+
+  <object name="Screw" id="43" script="190C" pointer="A318" />
+
+  <object name="Rock" id="44" script="190C" pointer="A348" />
+
+  <object name="Jiggy" id="46" script="190C" pointer="7990" />
+
+  <object name="Empty Honeycomb" id="47" script="190C" pointer="79B0" />
+
+  <object name="1-up" id="49" script="190C" pointer="1" modelfile=".\resources\life.mw"/>
+
+  
+  
+  
+  <object name="Wood Explosion" id="4A" script="190C"/>
+
+  <object name="Explosion 2" id="4B" script="190C"/>
+
+  <object name="Steam" id="4C" script="190C"/>
+
+  <object name="Steam 2" id="4D" script="190C"/>
+
+  <object name="Sparkles" id="4E" script="190C"/>
+
+  <object name="Sparkles" id="4F" script="190C"/>
+
+
+  <object name="Honeycomb" id="50" script="190C" pointer="79B0" />
+
+  <object name="Note" id="51" script="190C" pointer="1" modelfile=".\resources\note.mw"/>
+
+  <object name="Egg" id="52" script="190C" pointer="1" modelfile=".\resources\egg.mw"/>
+
+  <object name="Red Arrow" id="53" script="190C" pointer="7DE0" />
+
+  <object name="Red Question Mark" id="54" script="190C" pointer="7DF0" />
+
+  <object name="Red Cross" id="55" script="190C" pointer="7DE8" />
+
+  <object name="Shrapnel" id="56" script="190C" pointer="7DF8" />
+
+  <object name="Orange Pad" id="57" script="190C" pointer="75F0" />
+
+  <object name="Ju-Ju Totem Pole" id="59" script="190C" pointer="75C8" />
+
+  <object name="Jiggy Podium" id="5A" script="190C" pointer="8858" />
+
+  <object name="BGS Egg 1" id="5B" script="190C" pointer="7A98" />
+
+  <object name="Yellow Jinjo" id="5E" script="190C" pointer="7C70" />
+
+  <object name="Orange Jinjo" id="5F" script="190C" pointer="7C78" />
+
+  <object name="Blue Jinjo" id="60" script="190C" pointer="7C98" />
+
+  <object name="Purple Jinjo" id="61" script="190C" pointer="7CA0" />
+
+  <object name="Green Jinjo" id="62" script="190C" pointer="7CA8" />
+
+  <object name="Where Banjo throw's Chimpy's Orange" id="63" script="190C"/>
+
+  <object name="Water Level Switch" id="64" script="190C" pointer="8440" />
+  <object name="Wading Boots" id="65" script="190C" pointer="79C8" />
+
+  <object name="Cutscene Camera Controller" id="66" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+
+  <object name="Snippet" id="67" script="190C" pointer="7958" />
+
+  <object name="Snacker" id="68" script="190C" pointer="7C18" />
+
+  <object name="Yum-Yum" id="69" script="190C" pointer="7920" />
+
+  <object name="?" id="6C" script="190C"/>
+
+  <object name="Banjo Door" id="6D" script="190C" pointer="7D58" />
+
+  <object name="Camera Entry 17" id="6E" script="190C" />
+
+  <object name="Camera Entry 16" id="6F" script="190C" />
+  
+  <object name="Camera Entry 15" id="70" script="190C" />
+    
+  <object name="Camera Entry 14" id="71" script="190C" />
+  
+  <object name="Entry Point 17" id="72" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 16" id="73" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 15" id="74" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 14" id="75" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+
+  <object name="Entry Point 4" id="76" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 5" id="77" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 6" id="78" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 7" id="79" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 8" id="7A" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 9" id="7B" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 10" id="7C" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 11" id="7D" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 12" id="7E" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 13" id="7F" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Camera Entry 1" id="81" script="190C"/>
+  <object name="Camera Entry 2" id="82" script="190C"/>
+  <object name="Camera Entry 3" id="83" script="190C"/>
+  <object name="Camera Entry 4" id="84" script="190C"/>
+  <object name="Camera Entry 5" id="85" script="190C"/>
+  <object name="Camera Entry 6" id="86" script="190C"/>
+  <object name="Camera Entry 7" id="87" script="190C"/>
+  <object name="Camera Entry 8" id="88" script="190C"/>
+  <object name="Camera Entry 9" id="89" script="190C"/>
+  <object name="Camera Entry 10" id="8A" script="190C"/>
+  <object name="Camera Entry 11" id="8B" script="190C"/>
+  <object name="Camera Entry 12" id="8C" script="190C"/>
+  <object name="Camera Entry 13" id="8D" script="190C"/>
+  
+  <object name="Concert Banjo and Kazooie" id="8E" script="190C" pointer="7940" />
+
+  <object name="Concert Mumbo" id="8F" script="190C" pointer="7C20" />
+
+  <object name="Yellow Jinjo" id="90" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="91" script="190C" pointer="7C70" />
+
+  <object name="Concert Tooty" id="92" script="190C" pointer="7968" />
+
+  <object name="Nintendo Cube" id="93" script="190C" pointer="7BC8" />
+
+
+  <object name="Rareware Logo" id="94" script="190C" pointer="7BD0" />
+
+  <object name="Yellow Jinjo" id="95" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="96" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="97" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="98" script="190C" pointer="7C70" />
+
+  <object name="?" id="99" script="190C"/>
+
+  <object name="?" id="9A" script="190C"/>
+
+  <object name="Concert Bull" id="9B" script="190C" pointer="7938" />
+
+  <object name="Concert Frog" id="9C" script="190C" pointer="79E0" />
+
+  <object name="Bull" id="9D" script="190C" pointer="7930" />
+
+  <object name="Grunty" id="9E" script="190C" pointer="8120" />
+
+  <object name="Yellow Jinjo" id="9F" script="190C" pointer="7C70" />
+
+  <object name="Banjo-Kazooie Sign" id="A0" script="190C" pointer="8900" />
+
+  <object name="?" id="A1" script="190C"/>
+
+  <object name="Fire Sparkle" id="A2" script="190C"/>
+
+  <object name="Yellow Jinjo" id="A3" script="190C" pointer="7C70" />
+
+  <object name="?" id="A4" script="190C"/>
+
+  <struct name="Toxic Barrel 1" id="A2" script="0" pointer="7570"/>
+  <struct name="Toxic Barrel 2" id="A3" script="0" pointer="7570"/>
+  <struct name="Toxic Barrel 3" id="A4" script="0" pointer="7570"/>
+  <struct name="Yellow Toxic Barrel" id="B4" script="0" pointer="7578"/>
+
+  <object name="Dragon Fly" id="A5" script="190C" pointer="7E00" />
+
+  <!--object name="Red Yumblie" id="A6" script="190C" pointer="7E48" -->
+
+  <object name="Intro Spider" id="A6" script="190C" pointer="7B58" />
+  
+
+  <object name="BBQ Mumbo" id="A7" script="190C" pointer="8230" />
+
+  <object name="BBQ" id="A8" script="190C" pointer="8238" />
+
+  <object name="BBQ" id="A9" script="190C" pointer="8238" />
+
+  <object name="Dingpot" id="AA" script="190C" pointer="8118" />
+
+  <object name="Grunty's Arms" id="AB" script="190C" pointer="8128" />
+
+  <object name="Grunty" id="AC" script="190C" pointer="8120" />
+
+  <object name="Bat" id="AD" script="190C" pointer="7CE8" />
+
+  <object name="Dingpot" id="AE" script="190C" pointer="8118" />
+
+  <object name="Green Mist" id="AF" script="190C" pointer="8110" />
+
+  <object name="Bottles" id="B0" script="190C" pointer="7AD0" />
+
+  <object name="Bottles Mound" id="B1" script="190C" pointer="7AD8" />
+
+  <object name="Machine Room Door" id="B2" script="190C" pointer="78D0" />
+
+  <object name="Tooty" id="B4" script="190C" pointer="7970" />
+
+  <object name="Grunty's Broomstick" id="B5" script="190C" pointer="8148" />
+
+  <object name="Grunty on Broomstick" id="B6" script="190C" pointer="8150" />
+
+  <object name="Yellow Jinjo" id="B7" script="190C" pointer="7C70" />
+
+
+  <object name="Yellow Jinjo" id="B7" script="190C" pointer="7C70" />
+
+  <object name="Banjo Sleeping" id="B8" script="190C"/>
+
+  <object name="Banjo's Bed" id="B9" script="190C" pointer="8818" />
+
+  <object name="Yellow Jinjo" id="BA" script="190C" pointer="7C70" />
+
+  <object name="Kazooie in Backpack Stand" id="BB" script="190C" pointer="8170" />
+
+  <object name="Banjo's Curtains" id="BC" script="190C" pointer="8178" />
+
+  <object name="Banjo's Door" id="BD" script="190C" pointer="8188" />
+
+  <object name="Yellow Jinjo" id="BE" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="BF" script="190C" pointer="7C70" />
+
+  <object name="???" id="C0" script="190C"/>
+
+  <object name="Jiggy Cutout Board" id="C1" script="190C"/>
+
+  <object name="Sexy Grunty" id="C2" script="190C" pointer="81D8" />
+
+  <object name="Ugly Tooty" id="C3" script="190C" pointer="81E0" />
+
+  <object name="Chimpy's Tree Stump" id="C5" script="190C" pointer="7CD8" />
+
+  <object name="RIP Tombstone" id="C7" script="190C" pointer="7658" />
+
+  <object name="Boggy on Sled 2" id="C8" script="190C" pointer="7AE8" />
+
+  <object name="Tee-Hee" id="CA" script="190C" pointer="7CF0" />
+
+  <object name="Normal Barrel Top" id="CB" script="190C" pointer="7CF8" />
+
+  <object name="Camera Controller 1" id="CC" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 2" id="CD" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 3" id="CE" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 4" id="CF" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 5" id="D0" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 6" id="D1" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 7" id="D2" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 8" id="D3" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 9" id="D4" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 10" id="D5" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 11" id="D6" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 12" id="D7" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 13" id="D8" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 14" id="D9" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 15" id="DA" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 16" id="DB" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 17" id="DC" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 18" id="DD" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 19" id="DE" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+  <object name="Camera Controller 20" id="DF" script="190C" pointer="1" modelfile=".\resources\cam_controller.mw"/>
+
+
+
+  <object name="Flight Pad" id="E4" script="190C" pointer="75D8" />
+
+  <object name="Gloop" id="E6" script="190C" pointer="7A28" />
+
+  <object name="Gloop Bubbles" id="E7" script="190C"/>
+
+  <object name="Tanktup" id="E8" script="190C" pointer="7E08" />
+
+  <object name="Tanktup Leg 4" id="E9" script="190C" pointer="7E10" />
+
+  <object name="Tanktup Leg 1" id="EA" script="190C" pointer="7E18" />
+
+  <object name="Tanktup Leg 2" id="EB" script="190C" pointer="7E20" />
+
+  <object name="Tanktup Leg 3" id="EC" script="190C" pointer="7E28" />
+
+  <object name="Egg 2" id="EE" script="190C" pointer="7AA0" />
+
+  <object name="Egg 3" id="EF" script="190C" pointer="7AA8" />
+
+  <object name="Egg 4" id="F0" script="190C" pointer="7AB0" />
+
+  <object name="Leaf" id="F1" script="190C" pointer="7700" />
+
+  <object name="Black Snippet" id="F2" script="190C" pointer="89C8" />
+
+  <object name="?" id="F3" script="190C"/>
+
+  <object name="Gold Chest" id="F4" script="190C" pointer="7FF8" />
+
+  <object name="Mutant Snippet" id="F5" script="190C" pointer="7958" />
+
+  <object name="Big Alligator" id="F6" script="190C" pointer="7B50" />
+  <object name="Honeycomb Spawn" id="F7" script="190C" />
+  
+
+  <object name="Gold Tooth" id="101" script="190C" pointer="A320" />
+
+  <object name="Gold Tooth" id="102" script="190C" pointer="A348" />
+
+  <object name="Entry Point 18" id="103" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 19" id="104" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Entry Point 20" id="105" script="190C" pointer="1" modelfile=".\resources\entry.mw"/>
+
+  <object name="Shadow" id="108" script="190C" pointer="88A8" />
+
+  <object name="MMM - Big Door" id="109" script="190C" pointer="7D00" />  
+  
+
+  <object name="MMM - Main Door" id="10A" script="190C" pointer="7D08" />
+
+  <object name="Basement Door" id="10B" script="190C"/>
+
+  <object name="Locked Gate" id="10C" script="190C" pointer="7D18" />
+
+  <object name="Gate" id="10D" script="190C" pointer="7D20" />
+
+  <object name="Hatch" id="10E" script="190C" pointer="7D28" />
+
+  <object name="Camera Entry 19" id="110" script="190C"/>
+
+  <object name="Camera Entry 20" id="111" script="190C"/>
+
+  <object name="Church Door" id="114" script="190C" pointer="7D30" />
+
+  <object name="Blubber" id="115" script="190C" pointer="7A18" jiggyID="0"/>
+
+  <object name="Bullseye" id="116" script="190C" pointer="7FA0" />
+
+  <object name="Nipper's Shell" id="117" script="190C" pointer="7D40" />
+
+  <object name="Grey Slappa" id="118" script="190C" pointer="7A20" />
+
+  <object name="Magic Carpet Triggered" id="119" script="190C" pointer="7D78" />
+
+  <object name="Sarcophagus" id="11A" script="190C" pointer="7880" />
+
+  <object name="Rubee" id="11B" script="190C" pointer="7D80" />
+
+  <object name="Histup" id="11C" script="190C" pointer="7D88" />
+
+  <object name="Pot" id="11D" script="190C" pointer="7DA0" />
+
+  <object name="Hand Shadows" id="11E" script="190C" pointer="7DC0" />
+
+  <object name="Dirt flies up" id="11F" script="190C"/>
+
+  <object name="Purple Slappa" id="120" script="190C" pointer="7A48" />
+
+  <object name="Big Jinxy Head" id="121" script="190C" pointer="7DC8" />
+
+  <object name="Square Shadow" id="122" script="190C" pointer="7DD0" />
+
+  <object name="Magic Carpet" id="123" script="190C" pointer="7D78" />
+
+  <object name="Snowman" id="124" script="190C" pointer="7A50" />
+
+  <object name="Snowball" id="125" script="190C" pointer="7A58" />
+
+  <object name="Snowman's Hat" id="126" script="190C" pointer="7A60" />
+
+  <object name="Red Feather" id="129" script="190C" pointer="1" modelfile=".\resources\red_feather.mw"/>
+
+  <object name="Bottles Mound" id="12C" script="190C" pointer="7AD8" />
+
+  <object name="Gobi" id="12E" script="190C" pointer="7D98" />
+
+  <object name="Gobi's Rope" id="12F" script="190C" pointer="7DB0" />
+
+  <object name="Gobi's Rock" id="130" script="190C" pointer="7DB8" />
+
+  <object name="Gobi 2" id="131" script="190C" pointer="7D98" />
+
+  <object name="Trunker" id="132" script="190C" pointer="7D90" />
+
+  <object name="Flibbit" id="133" script="190C" pointer="7A40" />
+
+  <object name="Dragon Fly" id="134" script="190C" pointer="7E00" />
+
+  <object name="Gobi 3" id="135" script="190C" pointer="7D98" />
+
+  <object name="Yellow Flibbit" id="137" script="190C" pointer="7AC0" />
+
+  <object name="Yumblie" id="139" script="190C" pointer="7E50" />
+
+  <object name="Mr. Vile" id="13A" script="190C" pointer="7A30" />
+
+
+  <object name="Floatsam" id="13B" script="190C" pointer="7EA0" />
+
+  <object name="Sun Switch" id="13F" script="190C" pointer="7E98" />
+
+  <object name="Sun Door" id="140" script="190C" pointer="7E90" />
+
+  <object name="Star Hatch" id="142" script="190C" pointer="7D70" />
+
+  <object name="Kazooie Door" id="143" script="190C" pointer="7D60" />
+
+  <object name="Star Switch" id="144" script="190C" pointer="7D50" />
+
+  <object name="Gold Honeycomb Switch" id="145" script="190C" pointer="8058" />
+
+  <object name="Kazooie Target" id="146" script="190C" pointer="7DA8" />
+
+  <object name="Green Jiggy Switch" id="14E" script="190C" pointer="7E40" />
+
+  <object name="Destroyed Jiggy" id="14F" script="190C"/>
+
+  <object name="Conga (required)" id="150" script="640C"/>
+
+  <object name="Lockup" id="151" script="190C" pointer="7D38" />
+
+  <object name="Lockup" id="152" script="190C" pointer="7D38" />
+
+  <object name="Lockup" id="153" script="190C" pointer="7D38" />
+
+  <object name="Christmas Tree" id="15F" script="190C" pointer="82D8" />
+
+  <object name="Boggy on Sled" id="160" script="190C" pointer="7AE8" />
+
+  <object name="Boggy's Gate (Right)" id="161" script="190C" pointer="7640" />
+
+  <object name="Boggy's Gate (Left)" id="162" script="190C" pointer="7640" />
+
+  <object name="Bat" id="163" script="190C" pointer="7CE8" />
+
+  <object name="Cauliwobble" id="164" script="190C" pointer="8608" />
+
+  <object name="Bawl" id="165" script="190C" pointer="8610" />
+
+  <object name="Topper" id="166" script="190C" pointer="8600" />
+
+  <object name="Coliwobble /extra honeycomb" id="167" script="190C" pointer="8608" />
+
+  <object name="Winter Switch" id="168" script="190C" pointer="8658" />
+
+  <object name="Door" id="169" script="190C" pointer="8568" />
+
+  <object name="Autumn Switch" id="16A" script="190C" pointer="8650" />
+
+  <object name="Door" id="16B" script="190C" pointer="8568" />
+
+  <object name="Summer Switch" id="16C" script="190C" pointer="8648" />
+
+  <object name="Door" id="16D" script="190C" pointer="8568" />
+
+  <object name="SM Boulder" id="16F" script="190C" pointer="8000" />
+
+  <object name="Move Trigger" id="172" script="190C" pointer="9C78" />
+
+  <object name="Move Trigger" id="173" script="190C" pointer="9C78" />
+
+  <object name="Move Trigger" id="174" script="190C" pointer="9C78" />
+
+  <object name="Ship Propeller" id="175" script="190C" pointer="7EB0" />
+
+  <object name="Green Propeller Switch" id="176" script="190C" pointer="7EB8" />
+
+  <object name="Spinning Platform 1" id="178" script="190C" pointer="7EF8" />
+
+  <object name="Spinning Platform 2" id="179" script="190C" pointer="7F00" />
+
+  <object name="Spinning Platform 3" id="17A" script="190C" pointer="7F08" />
+
+  <object name="Grey Cog 1" id="17B" script="190C" pointer="7EE0" />
+
+  <object name="Grey Cog 2" id="17C" script="190C" pointer="7EE8" />
+
+  <object name="Grey Cog 3" id="17D" script="190C" pointer="7EF0" />
+
+  <object name="Shaft 1" id="177" script="190C" pointer="7EC8" />
+
+  <object name="Shaft 2" id="17E" script="190C" pointer="7EC8" />
+
+  <object name="Shaft 3" id="17F" script="190C" pointer="7ED0" />
+
+  <object name="Shaft 4" id="180" script="190C" pointer="7ED8" />
+
+  <object name="Sled" id="181" script="190C" pointer="7928" />
+
+  <object name="Sled 2" id="182" script="190C" pointer="7928" />
+
+  <object name="Place near warp, makes Banjo walk in" id="185" script="190C" pointer="1" modelfile=".\resources\walkin.mw"/>
+
+  <object name="Lava Floor" id="18B" script="190C" pointer="1" modelfile=".\resources\lava.mw"/>
+
+  <object name="Honeycomb Switch" id="18F" script="190C" pointer="8010" />
+
+  <object name="Witch Switch Jiggy (CC)" id="190" script="190C" pointer="7990" />
+
+  <object name="Secret X Barrel Top" id="191" script="190C" pointer="86F0" />
+  
+  <object name="Reverb" id="192" script="190C"  pointer="1" modelfile=".\resources\reverb.mw"/>
+
+  <object name="Banjo Sleeping" id="195" script="190C" pointer="8818" />
+
+  <object name="Banjo playing Gameboy" id="196" script="190C"/>
+
+  <object name="Banjo cooking" id="197" script="190C" pointer="7928" />
+
+  <object name="Banjo's Bed" id="198" script="190C" pointer="8818" />
+
+  <object name="Banjo's Chair" id="199" script="190C" pointer="7818" />
+
+  <object name="Banjo's Kitchen" id="19A" script="190C" pointer="7850" />
+
+  <object name="Another Secret can get in desert" id="19B" script="190C"/>
+
+  <object name="The End" id="19C" script="190C"/>
+
+  <object name="Place near warp, makes Banjo walk in" id="19E" script="190C" pointer="1" modelfile=".\resources\walkin.mw"/>
+
+  <object name="TTC - Lighthouse Door" id="1A9" script="190C" pointer="8758" />
+
+  <object name="RBB Propeller 1" id="1BB" script="190C" pointer="7F10" />
+
+  <object name="RBB Propeller 2" id="1BC" script="190C" pointer="7F18" />
+
+  <object name="RBB Propeller 3" id="1BD" script="190C" pointer="7F20" />
+
+  <object name="Boat Propeller Switch" id="1BE" script="190C" pointer="7F28" />
+
+  <object name="1 Switch" id="1BF" script="190C" pointer="7F30" />
+
+  <object name="2 Switch" id="1C0" script="190C" pointer="7F38" />
+
+  <object name="3 Switch" id="1C1" script="190C" pointer="7F40" />
+
+  <object name="Gold Whistle 1" id="1C2" script="190C" pointer="7F48" />
+
+  <object name="Gold Whistle 2" id="1C3" script="190C" pointer="7F50" />
+
+  <object name="Gold Whistle 3" id="1C4" script="190C" pointer="7F58" />
+
+  <object name="Pipe" id="1C6" script="190C" pointer="7F60" />
+
+  <object name="Anchor Switch" id="1C7" script="190C" pointer="7F70" />
+
+  <object name="Snorkel" id="1C8" script="190C" pointer="7F78" />
+
+  <object name="Anchor and Chain" id="1C9" script="190C" pointer="7F80" />
+
+  <object name="Rareware Flag Pole" id="1CA" script="190C" pointer="7F88" />
+
+  <object name="Chompa" id="1CC" script="190C" pointer="8018" />
+
+  <object name="Bottles Puzzle Start Point" id="1CD" script="190C"/>
+
+  <object name="Demo Start Point" id="1CE" script="190C"/>
+
+  <object name="Cheato 1" id="1D5" script="190C" pointer="8910" />
+
+  <object name="Cheato 2" id="1D6" script="190C" pointer="8910" />
+
+  <object name="Cheato 3" id="1D7" script="190C" pointer="8910" />
+
+  <object name="Blue Egg Upgrade" id="1D8" script="190C" pointer="88D0" />
+
+  <object name="Red Feather Upgrade" id="1D9" script="190C" pointer="88D8" />
+
+  <object name="Gold Feather Upgrade" id="1DA" script="190C" pointer="88E0" />
+
+  <object name="Game Over" id="1DB" script="190C" pointer="88F8" />
+
+  <object name="Banjo Kazooie Sign" id="1DC" script="190C" pointer="8900" />
+
+  <object name="Copyright" id="1DD" script="190C" pointer="8908" />
+
+  <object name="Press Start" id="1DE" script="190C" pointer="8978" />
+
+  <object name="No Controller" id="1DF" script="190C" pointer="8980" />
+
+  <object name="Bottles Bonus" id="1E0" script="190C"/>
+
+  <object name="Iron Gate" id="1E1" script="190C" pointer="8750" />
+
+  <object name="Spring Switch" id="1E2" script="190C" pointer="8640" />
+
+  <object name="CCW Door" id="1E3" script="190C" pointer="8808" />
+
+  <object name="Toots" id="1E4" script="190C" pointer="8038" />
+
+  <object name="Firecrackers" id="1E5" script="190C" pointer="7C00" />
+
+
+
+  <object name="Emitter: Green Bubbles" id="1E7" script="18C"/>
+  <object name="Emitter: Snow Explosion" id="1E7" script="38C"/>
+  <object name="Emitter: Leaves" id="1E7" script="40C"/>
+  <object name="Emitter: Green Smoke" id="1E7" script="50C"/>
+  <object name="Emitter: Green Balls" id="1E7" script="60C"/>
+  <object name="Emitter: White Smoke" id="1E7" script="80C"/>
+  <object name="Emitter: Black Smoke" id="1E7" script="88C"/>
+  <object name="Emitter: White Smoke (small)" id="1E7" script="90C"/>
+  <object name="Emitter: Dust Cloud" id="1E7" script="98C"/>
+
+  <object name="Venus Flytrap" id="1E9" script="190C" pointer="8098" />
+
+  <object name="Polar bear kid 1" id="1EA" script="190C" pointer="80F8" />
+
+  <object name="Polar bear kid 2" id="1EB" script="190C" pointer="8100" />
+
+  <object name="Polar bear kid 3" id="1EC" script="190C" pointer="8108" />
+
+  <object name="Blue Present (static)" id="1ED" script="190C" pointer="7540" />
+
+  <object name="Green Present (static)" id="1EF" script="190C" pointer="7550" />
+
+  <object name="Red Present (static)" id="1F1" script="190C" pointer="82A0" />
+
+  <object name="Wozza" id="1F3" script="190C" pointer="8338" />
+
+  <object name="Kazooie Door 2" id="1F5" script="190C" pointer="7D60" />
+
+
+  <object name="Jinxy" id="1F7" script="190C" pointer="7FA8" />
+
+  <object name="?" id="1F8" script="190C"/>
+
+  <object name="Cactus" id="1F9" script="190C" pointer="7FB8" />
+
+  <object name="Croctus" id="1FA" script="190C" pointer="7FC0" />
+
+  <object name="Croctus 1" id="1FA" script="8C" pointer="7FC0" />
+
+  <object name="Croctus 2" id="1FA" script="10C" pointer="7FC0" />
+
+  <object name="Croctus 3" id="1FA" script="18C" pointer="7FC0" />
+
+  <object name="Croctus 4" id="1FA" script="20C" pointer="7FC0" />
+
+  <object name="Croctus 5" id="1FA" script="28C" pointer="7FC0" />
+  
+  <object name="Green Jiggy Switch" id="1FB" script="190C" pointer="7E40" />
+
+  <object name="Clock Switch" id="1FD" script="190C" pointer="8080" />
+
+  <object name="Gate" id="1FE" script="190C" pointer="8088" />
+
+  <object name="Red Feather" id="1FF" script="190C" pointer="1" modelfile=".\resources\red_feather.mw"/>
+
+  <object name="Gold Feather_" id="200" script="190C" pointer="1" modelfile=".\resources\gold_feather.mw"/>
+
+  <object name="Note Door" id="203" script="190C" pointer="8320" />
+
+  <object name="Witch Switch (MM)" id="204" script="190C" pointer="8578" />
+
+  <object name="Witch Switch Jiggy (MM)" id="205" script="190C" pointer="7990" />
+
+  <object name="Witch Switch (MMM)" id="206" script="190C" pointer="8578" />
+
+  <object name="Witch Switch Jiggy (MMM)" id="207" script="190C" pointer="7990" />
+
+  <object name="Witch Switch (TTC)" id="208" script="190C" pointer="8578" />
+
+  <object name="Witch Switch Jiggy (TTC)" id="209" script="190C" pointer="7990" />
+
+  <object name="Witch Switch (RBB)" id="20B" script="190C" pointer="8578" />
+
+  <object name="Witch Switch Jiggy (RBB)" id="20C" script="190C" pointer="7990" />
+
+  <object name="Brick wall" id="20D" script="190C" pointer="83A0" />
+
+  <object name="Entrance door to MM" id="20E" script="190C" pointer="83A8" />
+
+  <object name="RBB Entrance Door" id="20F" script="190C" pointer="8438" />
+
+  <object name="BGS Entrance Door" id="210" script="190C" pointer="8408" />
+
+  <object name="Chest Lid" id="211" script="190C" pointer="83B0" />
+
+  <object name="Big Iron Bars" id="212" script="190C" pointer="83D0" />
+
+  <object name="Circular Grate" id="213" script="190C" pointer="83D8" />
+
+  <object name="Grate Switch" id="214" script="190C" pointer="83F0" />
+
+  <object name="Tall Pipe" id="215" script="190C" pointer="83B8" />
+
+  <object name="Tall Pipe 2" id="216" script="190C" pointer="83C0" />
+
+  <object name="Pipe Switch" id="217" script="190C" pointer="83E0" />
+
+  <object name="Pipe" id="218" script="190C" pointer="83C8" />
+
+  <object name="Pipe Switch 2" id="219" script="190C" pointer="83E8" />
+
+  <object name="CC Entrance grates" id="21A" script="190C"/>
+
+  <object name="Yum-Yum" id="21B" script="190C" pointer="7920" />
+
+  <object name="Wooden Door" id="21C" script="190C" pointer="8328" />
+
+  <object name="Steel Door" id="21D" script="190C" pointer="8330" />
+
+  <object name="Circular Green Grate" id="21E" script="190C" pointer="8420" />
+
+  <object name="Circular Brown Grate" id="21F" script="190C" pointer="8420" />
+
+  <object name="RBB Jigsaw grate" id="220" script="190C" pointer="8450" />
+
+  <object name="Water Switch" id="221" script="190C" pointer="8440" />
+
+  <object name="Water Switch 2" id="222" script="190C" pointer="8428" />
+
+  <object name="Water Switch 3" id="223" script="190C" pointer="8418" />
+
+  <object name="Ice Ball" id="224" script="190C" pointer="8410" />
+
+  <object name="Rareware box" id="225" script="190C" pointer="8430" />
+
+  <object name="GV Entrance" id="226" script="190C" pointer="8478" />
+
+  <object name="Phantom Glow" id="227" script="190C" pointer="8480" />
+
+  <object name="Invisible Wall" id="228" script="190C"/>
+
+  <object name="House" id="229" script="190C" pointer="84B0" />
+
+  <object name="Frozen Mumbo Hut" id="22B" script="190C" pointer="84B8" />
+
+  <object name="Christmas Present Stack" id="22C" script="190C" pointer="84C0" />
+
+  <object name="Snowy Bridge" id="22D" script="190C" pointer="84C8" />
+
+  <object name="Snowy Bridge 2" id="22E" script="190C" pointer="84C8" />
+
+  <object name="Snowy Bridge 3" id="22F" script="190C" pointer="84C8" />
+
+  <object name="Cobweb" id="230" script="190C" pointer="7810" />
+
+  <object name="Big yellow cobweb" id="231" script="190C" pointer="8540" />
+
+  <object name="Mumbo's Hut" id="233" script="190C" pointer="7C30" />
+
+  <object name="CCW Entrance Door" id="234" script="190C" pointer="8548" />
+
+  <object name="FP Entrance Door" id="235" script="190C" pointer="8550" />
+
+  <object name="FP Entrance Door 2" id="236" script="190C" pointer="8558" />
+
+  <object name="Witch Switch (CCW)" id="237" script="190C" pointer="8578" />
+
+  <object name="Witch Switch Jiggy (CCW)" id="238" script="190C" pointer="7990" />
+
+  <object name="Witch Switch (FP)" id="239" script="190C" pointer="8578" />
+
+  <object name="Wooden snow drift texture" id="23A" script="190C" pointer="8560" />
+
+  <object name="CCW Switch" id="23C" script="190C" pointer="8458" />
+
+  <object name="Mumbo Pad" id="23D" script="190C" pointer="8580" />
+
+  <object name="Empty wooden coffin" id="23E" script="190C" pointer="85A0" />
+
+  <object name="Skylights" id="23F" script="190C" pointer="85A8" />
+
+  <object name="?" id="242" script="190C"/>
+
+  <object name="Wooden Panel" id="243" script="190C" pointer="8738" />
+
+  <object name="Sarcophagus" id="244" script="190C" pointer="7880" />
+
+  <object name="Sarcophagus switch" id="245" script="190C" pointer="8740" />
+
+  <object name="Flying Pad Switch" id="246" script="190C"/>
+
+  <object name="Kazooie Fly Disk" id="247" script="190C" pointer="75D8" />
+
+  <object name="Shock jump switch" id="248" script="190C"/>
+
+  <object name="Kazooie Shock Spring disc" id="249" script="190C" pointer="7580" />
+
+  <object name="Piece of glass panel" id="253" script="190C" pointer="8728" />
+
+  <object name="Piece of glass panel 2" id="254" script="190C" pointer="8728" />
+
+  <object name="Tomb" id="255" script="190C" pointer="86E0" />
+
+  <object name="Witch Switch (GV)" id="256" script="190C" pointer="8578" />
+
+  <object name="Witch Switch (BGS)" id="257" script="190C" pointer="8578" />
+
+  <object name="Tomb Top" id="258" script="190C" pointer="8720"/>
+
+  <object name="Grunty eye switch" id="259" script="190C" pointer="86D0" />
+
+  <object name="Grunty eye switch 2" id="25A" script="190C" pointer="86D8" />
+
+  <object name="Witch Switch (CC)" id="25B" script="190C" pointer="8578" />
+
+  <object name="Sharkfood Island" id="25C" script="190C" pointer="86E8" />
+
+  <object name="Ice Key" id="25D" script="190C" pointer="86F8" />
+
+  <object name="SNS Egg" id="25E" script="190C" pointer="8700" />
+
+  <object name="Nabnut's Window Spring" id="25F" script="190C" pointer="8668" />
+
+  <object name="Nabnut's Window Summer" id="260" script="190C" pointer="8660" />
+
+  <object name="Nabnut's Window Fall" id="261" script="190C" pointer="8668" />
+
+  <object name="Nabnut's Window Winter" id="262" script="190C" pointer="8670" />
+
+  <object name="Safety Boat" id="263" script="190C" pointer="8588" />
+
+  <object name="Safety Boat" id="264" script="190C" pointer="8588" />
+
+  <object name="Door" id="265" script="190C" pointer="8598" />
+
+  <object name="Window" id="266" script="190C" pointer="8498" />
+
+  <object name="Window" id="267" script="190C" pointer="8498" />
+
+  <object name="Clanker" id="269" script="190C"/>
+
+  <object name="Tiptup" id="27A" script="190C" pointer="7E58" />
+
+  <object name="Choir Member" id="27B" script="190C" pointer="7E60" />
+
+  <object name="Choir Member" id="27C" script="190C" pointer="7E60" />
+
+  <object name="Choir Member" id="27D" script="190C" pointer="7E60" />
+
+  <object name="Choir Member" id="27E" script="190C" pointer="7E60" />
+
+  <object name="Choir Member" id="27F" script="190C" pointer="7E60" />
+
+  <object name="Choir Member" id="280" script="190C" pointer="7E60" />
+
+  <object name="Kaboom Part 1" id="281" script="190C" pointer="7FD8" />
+
+  <object name="Kaboom Part 2" id="282" script="190C" pointer="7FD8" />
+
+  <object name="Kaboom Part 3" id="283" script="190C" pointer="7FD8" />
+
+  <object name="Kaboom Part 4" id="284" script="190C" pointer="7FD8" />
+
+  <object name="Big Jinxy Head" id="285" script="190C" pointer="7698" />
+
+  <object name="Big Jinxy Head 2" id="286" script="190C" pointer="7698" />
+
+  <object name="Big Jinxy Head 3" id="287" script="190C" pointer="7698" />
+
+  <object name="Vent" id="289" script="190C" pointer="8020" />
+
+  <object name="Underwater Whip Crack" id="28A" script="190C" pointer="8028" />
+
+  <object name="Sound Spawner" id="28B" script="190C" pointer="1" />
+  
+  <object name="Green Drain" id="28C" script="190C" pointer="8040" />
+
+  <object name="Green Drain 2" id="28D" script="190C" pointer="8048" />
+
+  <object name="Green Drain 3" id="28E" script="190C" pointer="8050" />
+
+  <object name="Vent" id="28F" script="190C" pointer="8020" />
+
+  <object name="Propeller 7" id="290" script="190C" pointer="8068" />
+
+  <object name="Propeller 8" id="291" script="190C" pointer="7F10" />
+
+  <object name="Propeller 9" id="292" script="190C" pointer="7F18" />
+
+  <object name="Propeller 10" id="293" script="190C" pointer="7F20" />
+
+  <object name="Propeller 11" id="294" script="190C" pointer="7F20" />
+
+  <object name="Propeller 12" id="295" script="190C" pointer="7F20" />
+
+  <object name="Bell Buoy" id="296" script="190C" pointer="8070" />
+
+  <object name="Row Boat" id="297" script="190C" pointer="8078" />
+
+  <object name="Flat Board" id="298" script="190C" pointer="80B8" />
+
+  <object name="Lump of Honey" id="299" script="190C" pointer="80B0" />
+
+  <object name="Flat Board" id="29A" script="190C" pointer="80C0" />
+
+  <object name="Zubba" id="29B" script="190C" pointer="80C8" />
+
+  <object name="Zubba (Attacker)" id="29C" script="190C" pointer="80C8" />
+
+  <object name="Beanstalk" id="29D" script="190C" pointer="80D0" />
+
+  <object name="Gobi" id="29E" script="190C" pointer="7D98" />
+
+  <object name="Big Clucker" id="29F" script="190C" pointer="82A8" />
+
+  <object name="???" id="2A0" script="190C"/>
+
+  <object name="Eyrie" id="2A1" script="190C" pointer="82B8" />
+
+  <object name="Caterpiller" id="2A2" script="190C" pointer="82C0" />
+
+  <object name="Big Eyrie" id="2A3" script="190C" pointer="82D0" />
+
+  <object name="TNT Box Part 1" id="2A4" script="190C" pointer="82F8" />
+
+  <object name="Nabnut" id="2A6" script="190C" pointer="86A8" />
+
+  <object name="Nabnut 2" id="2A7" script="190C" pointer="86B0" />
+
+  <object name="Nabnut 3" id="2A8" script="190C" pointer="86B0" />
+
+  <object name="Acorn" id="2A9" script="190C" pointer="8308" />
+
+  <object name="Gnawty" id="2AA" script="190C" pointer="8310" />
+
+  <object name="Gnawty 2" id="2AB" script="190C" pointer="8310" />
+
+  <object name="Gnawty's Boulder" id="2AC" script="190C" pointer="8318" />
+
+  <object name="Leaves Start" id="2AE" script="190C"/>
+
+  <object name="Leaves End" id="2AF" script="190C"/>
+
+  <object name="Rain Start" id="2B0" script="190C"/>
+
+  <object name="Rain End" id="2B1" script="190C"/>
+
+  <object name="Snow Start" id="2B2" script="190C"/>
+
+  <object name="Snow End" id="2B3" script="190C"/>
+
+  <object name="Nonsense picture" id="2B5" script="190C" pointer="8228" />
+
+  <object name="Dingpot" id="2DB" script="190C" pointer="8130" />
+
+  <object name="X" id="2D9" script="190C"/>
+
+  <object name="X" id="2DA" script="190C"/>
+
+  <object name="Gnawty's Shelves" id="2DC" script="190C" pointer="8890" />
+
+  <object name="Gnawty's Bed" id="2DD" script="190C" pointer="8888" />
+
+  <object name="Gnawty's House" id="2DE" script="190C" pointer="8820" />
+
+  <object name="Lighthouse" id="2DF" script="190C" pointer="7C88" />
+
+  <object name="Stairs" id="2E0" script="190C" pointer="7C48" />
+
+  <object name="Stairs 2" id="2E1" script="190C" pointer="7C50" />
+
+  <object name="Lighthouse" id="2E2" script="668C" pointer="7C80" pointer2="7C88" />
+
+
+  <object name="Mumbo's Mountain sign" id="2E3" script="190C" pointer="89B0" />
+
+  <object name="Warp Disk" id="2E4" script="190C" pointer="8968" />
+
+  <object name="Wooden Door" id="2E5" script="190C" pointer="8918" />
+
+  <object name="Nabnut's Door" id="2E6" script="190C" pointer="8830" />
+
+  <object name="Wooden Door" id="2E7" script="190C" pointer="8758" />
+
+  <object name="Window" id="2E8" script="190C" pointer="8498" />
+
+  <object name="Short Window" id="2E9" script="190C" pointer="84A0" />
+
+  <object name="Tall Window" id="2EA" script="190C" pointer="84A8" />
+  
+  <object name="Banjo's House Dustbin" id="2ED" script="190C" pointer="7600" />
+
+  <object name="Machine Room Booth" id="2ED" script="190C" pointer="7898" />
+
+  <object name="Klungo" id="2EE" script="190C" pointer="81E8" />
+
+  <object name="Tooty" id="2EF" script="190C" pointer="7970" />
+
+  <object name="Machine Room Console" id="2F0" script="190C" pointer="78A0" />
+
+  <object name="Tooty's force field" id="2F1" script="190C" pointer="81F0" />
+
+  <object name="Machine Room booth" id="2F2" script="190C" pointer="7898" />
+
+  <object name="Lightning" id="2F3" script="190C" pointer="8200" />
+
+  <object name="Goldfish Bowl" id="2F4" script="190C" pointer="8208" />
+
+  <object name="Cuckoo Clock" id="2F5" script="190C" pointer="8210" />
+
+  <object name="Yellow Jinjo" id="2F6" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="2F7" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="2F8" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="2F9" script="190C" pointer="7C70" />
+
+  <object name="Klungo" id="2FA" script="190C" pointer="81E8" />
+
+  <object name="Banjo" id="2FB" script="190C" pointer="7900" />
+
+  <object name="Mumbo" id="2FC" script="190C" pointer="7CC8" />
+
+  <object name="Snacker" id="2FD" script="190C" pointer="7C18" />
+
+  <object name="Yellow Jinjo" id="2FE" script="190C" pointer="7C70" />
+
+  <object name="?" id="2FF" script="190C"/>
+
+
+  <object name="?" id="300" script="190C"/>
+
+  <object name="Blubber" id="301" script="190C" pointer="7A18" />
+
+  <object name="Rock" id="302" script="190C" pointer="76E0" />
+
+  <object name="Yellow Jinjo" id="303" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="304" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="305" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="306" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="307" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="308" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="309" script="190C" pointer="7C70" />
+
+  <object name="Yellow Jinjo" id="30A" script="190C" pointer="7C70" />
+
+
+  <object name="Dead Beanstalk" id="30B" script="190C" pointer="85B0" />
+
+  <object name="'Z' Logo" id="30C" script="190C" pointer="85B8" />
+
+  <object name="TNT Box Part 2" id="30D" script="190C" pointer="82F8" />
+
+  <object name="Eyrie Big" id="30E" script="190C" pointer="82D0" />
+
+  <object name="Whip Crack" id="30F" script="190C" pointer="8680" />
+
+  <object name="Acorn mound" id="310" script="190C" pointer="86A0" />
+
+  <object name="Nabnut's Wife" id="311" script="190C" pointer="81A8" />
+
+  <object name="Nabnut's Bed Covers" id="312" script="190C" pointer="81B0" />
+
+  <object name="Nabnut's Duvet" id="313" script="190C" pointer="81B8" />
+
+  <object name="Nabnut 4" id="314" script="190C" pointer="86B0" />
+
+  <object name="Nabnut (Top Half)" id="315" script="190C" pointer="8300" />
+
+  <object name="Gnawty 3" id="31A" script="190C" pointer="8310" />
+
+  <object name="Pyramid" id="31D" script="190C" pointer="89F0" />
+
+  <object name="TTC Tree" id="31E" script="190C" pointer="7568" />
+
+  <object name="Blue Twinkly" id="332" script="190C" pointer="80D8" />
+
+  <object name="Green Twinkly" id="333" script="190C" pointer="80E0" />
+
+  <object name="Orange Twinkly" id="334" script="190C" pointer="80E8" />
+
+  <object name="Red Twinkly" id="335" script="190C" pointer="80F0" />
+
+  <object name="Twinkly Box" id="336" script="190C" pointer="80A8" />
+
+  <object name="Twinkly Muncher" id="337" script="190C" pointer="8348" />
+
+  <object name="Christmas Tree Switch" id="338" script="190C" pointer="82C8" />
+
+  <object name="?" id="339" script="190C"/>
+
+  <object name="Blue Present" id="33A" script="190C" pointer="8290" />
+
+  <object name="Green Present" id="33B" script="190C" pointer="8298" />
+
+  <object name="Red Present" id="33C" script="190C" pointer="82A0" />
+
+  <object name="Boggy on Sled 3" id="33D" script="190C" pointer="7AE8" />
+
+  <object name="Wozza 2" id="33F" script="190C" pointer="8338" />
+
+  <object name="Ice Tree" id="340" script="190C" pointer="8528" />
+
+  <object name="?" id="341" script="190C"/>
+
+  <object name="Brentilda" id="348" script="190C" pointer="8860" />
+
+  <object name="Bees" id="34D" script="190C"/>
+
+  <object name="Skeleton" id="34E" script="190C" pointer="84F8" />
+
+  <object name="Mummy" id="34F" script="190C" pointer="84D0" />
+
+  <object name="Sea Grublin" id="350" script="190C" pointer="8380" />
+
+  <object name="Grunty after first note door" id="352" script="190C"/>
+
+  <object name="Weird green ball" id="353" script="190C" pointer="7EA8" />
+
+  <object name="Purple ice pole" id="355" script="190C" pointer="85C0" />
+
+  <object name="Green Ice Pole" id="356" script="190C" pointer="85D0" />
+
+  <object name="Big Ice Pole" id="357" script="190C" pointer="85D8" />
+
+  <object name="Ice Pole" id="358" script="190C" pointer="85E0" />
+
+  <object name="Ice Pole" id="35D" script="190C" pointer="85E0" />
+
+  <object name="Race rostrum" id="35E" script="190C" pointer="85F8" />
+
+  <object name="Finish banner" id="35F" script="190C" pointer="85E8" />
+
+  <object name="Start banner" id="360" script="190C" pointer="85F0" />
+
+  <object name="Gruntling" id="367" script="190C" pointer="88E8" />
+
+  <object name="Mumbo Token Sign (5)" id="368" script="190C" pointer="76A0" />
+
+  <object name="Mumbo Token Sign (20)" id="369" script="190C" pointer="76B8" />
+
+  <object name="Mumbo Token Sign (15)" id="36A" script="190C" pointer="76B0" />
+
+  <object name="Mumbo Token Sign (10)" id="36B" script="190C" pointer="76A8" />
+
+  <object name="Mumbo Token Sign (25)" id="36C" script="190C" pointer="76C0" />
+
+  <object name="Colliwobble" id="36D" script="190C" pointer="8608" />
+
+  <object name="Bawl" id="36E" script="190C" pointer="8610" />
+
+  <object name="Topper" id="36F" script="190C" pointer="8600" />
+
+  <object name="Gold Feather" id="370" script="190C" pointer="1" modelfile=".\resources\gold_feather.mw"/>
+
+  <object name="????" id="374" script="190C"/>
+
+  <object name="Grublin Hood" id="375" script="190C" pointer="87F8" />
+
+  <object name="Bottles Mound (with Event)" id="37A" script="190C" pointer="7AD8" />
+
+  <object name="Ice Cube" id="37D" script="190C" pointer="86B8" />
+
+  <object name="Dead Venus Flytrap" id="37E" script="190C" pointer="86C8" />
+
+  <object name="Loggo" id="37F" script="190C" pointer="8760" />
+
+  <object name="Beetle" id="380" script="190C" pointer="8770" />
+
+  <object name="Portrait Grunty" id="382" script="190C" pointer="87A8" />
+
+  <object name="Flame" id="384" script="190C" pointer="7868" />
+
+  <object name="Portrait Blackeye" id="385" script="190C" pointer="87D0" />
+
+  <object name="Portrait Tower" id="386" script="190C" pointer="87D8" />
+
+  <object name="Portrait Tree" id="387" script="190C" pointer="87E0" />
+
+  <object name="Portrait Ghosts" id="388" script="190C" pointer="87E8" />
+
+  <object name="Fireball" id="389" script="190C" pointer="8950" />
+
+  <object name="Green Blast" id="38A" script="190C" pointer="8958" />
+
+  <object name="Grunty" id="38B" script="190C" pointer="8880" />
+
+  <object name="Kazooie fly disk" id="39F" script="190C" pointer="75D8" />
+
+  <object name="Ice Cube" id="3A0" script="190C" pointer="86B8" />
+
+  <object name="Jinjonator Stand" id="3A1" script="190C" pointer="88B8" />
+
+  <object name="Jinjo Stand" id="3A2" script="190C" pointer="88B0" />
+
+  <object name="Orange Jinjo" id="3A5" script="190C" pointer="7C78" />
+
+  <object name="Green Jinjo" id="3A6" script="190C" pointer="7CA8" />
+
+  <object name="Purple Jinjo" id="3A7" script="190C" pointer="7CA0" />
+
+  <object name="Yellow Jinjo" id="3A8" script="190C" pointer="7C70" />
+
+  <object name="Big Green Blast" id="3AA" script="190C" pointer="8958" />
+
+  <object name="Jinjonator" id="3AC" script="190C" pointer="8920" />
+
+  <object name="Rock Smash" id="3AD" script="190C" pointer="76E8" />
+
+  <object name="Boggy's Igloo" id="3AE" script="190C" pointer="8970" />
+
+  <object name="Shadow" id="3AF" script="190C" pointer="88A8" />
+
+  <object name="House chimney" id="3B0" script="190C" pointer="89E8" />
+
+  <object name="Fireball" id="3BB" script="190C" pointer="8960" />
+
+  <object name="Jiggy Podium" id="3BC" script="190C" pointer="8858" />
+
+  <object name="Gruntling 2" id="3BF" script="190C" pointer="89A0" />
+
+  <object name="Gruntling 3" id="3C0" script="190C" pointer="89A8" />
+
+  <object name="Purple Tee-Hee" id="3C1" script="190C" pointer="89B8" />
+
+
+
+  <object name="RIP Tombstone (Enemy)" id="3C2" script="190C" pointer="7CE0" />
+
+  
+
+  <object name="Banjo Falling in Witch Statue" id="3C3" script="190C"/>
+  <object name="Washing machine Cauldron" id="3C4" script="190C" pointer="8990" />
+
+  <object name="Grunty" id="3C5" script="190C" pointer="8880" />
+
+  <object name="Furnace Fun Podium" id="3C6" script="190C" pointer="78F8" />
+
+  <object name="Grunty Doll" id="3C7" script="190C" pointer="8998" />
+
+  <object name="Tooty" id="3C8" script="190C" pointer="7970" />
+
+  <object name="Note Door - Door 1" id="203" script="8C" pointer="8320" />
+  <object name="Note Door - Door 2" id="203" script="10C" pointer="8320" />
+  <object name="Note Door - Door 3" id="203" script="18C" pointer="8320" />
+  <object name="Note Door - Door 4" id="203" script="20C" pointer="8320" />
+  <object name="Note Door - Door 5" id="203" script="28C" pointer="8320" />
+  <object name="Note Door - Door 6" id="203" script="30C" pointer="8320" />
+  <object name="Note Door - Door 7" id="203" script="38C" pointer="8320" />
+  <object name="Note Door - Door 8" id="203" script="40C" pointer="8320" />
+  <object name="Note Door - Door 9" id="203" script="48C" pointer="8320" />
+  <object name="Note Door - Door 10" id="203" script="50C" pointer="8320" />
+  <object name="Note Door - Door 11" id="203" script="58C" pointer="8320" />
+  <object name="Note Door - Door 12" id="203" script="60C" pointer="8320" />
+
+
+  <object name="Mumbo Pad - Termite" id="23D" script="28C" pointer="8580" />
+  <object name="Mumbo Pad - Crocodile" id="23D" script="50C" pointer="8580" />
+  <object name="Mumbo Pad - Walrus" id="23D" script="78C" pointer="8580" />
+  <object name="Mumbo Pad - Pumpkin" id="23D" script="A0C" pointer="8580" />
+  <object name="Mumbo Pad - Bee" id="23D" script="c8C" pointer="8580" />
+
+  <object name="Fire Pain" id="383" script="190C"/>
+
+
+  <object name="Brentilda (GL 2)" id="348" script="8C" pointer="8860" />
+  <object name="Brentilda (GL 3)" id="348" script="10C" pointer="8860" />
+  <object name="Brentilda (GL CC)" id="348" script="50C" pointer="8860" />
+  <object name="Brentilda (GL 4)" id="348" script="38C" pointer="8860" />
+  <object name="Brentilda (GL BGS)" id="348" script="18C" pointer="8860" />
+  <object name="Brentilda (GL 5)" id="348" script="30C" pointer="8860" />
+  <object name="Brentilda (GL 6)" id="348" script="20C" pointer="8860" />
+  <object name="Brentilda (GL Lava)" id="348" script="28C" pointer="8860" />
+  <object name="Brentilda (GL CCW)" id="348" script="40C" pointer="8860" />
+  <object name="Brentilda (GL MMM)" id="348" script="48C" pointer="8860" />
+
+
+  <object name="Cauldron Pipe Room" id="23B" script="28C" pointer="8590" />
+  <object name="Cauldron CCW Area" id="23B" script="30C" pointer="8590" />
+  <object name="Cauldron GL Room 6" id="23B" script="10C" pointer="8590" />
+  <object name="Cauldron RBB Area" id="23B" script="20C" pointer="8590" />
+
+  <object name="House" id="229" script="8C" pointer="84B0" />
+
+  <object name="Bottles Mound (Beak Bomb)" id="37A" script="48C" pointer="7AD8" cameraID="F" />
+
+
+  <object name="Bottles Mound (Eggs)" id="37A" script="50C" pointer="7AD8" cameraID="16" />
+
+
+  <object name="Bottles Mound (Beak Buster)" id="37A" script="58C" pointer="7AD8" cameraID="17" />
+
+
+  <object name="Bottles Mound (Talon Trot)" id="37A" script="60C" pointer="7AD8" cameraID="18" />
+
+
+  <object name="Bottles Mound (Spring Jump)" id="37A" script="68C" pointer="7AD8" cameraID="C" />
+
+
+  <object name="Bottles Mound (Fly)" id="37A" script="70C" pointer="7AD8" cameraID="D" />
+
+
+  <object name="Bottles Mound (Wonder Wing)" id="37A" script="78C" pointer="7AD8" cameraID="1" />
+
+
+  <object name="Bottles Mound (Wading Boots)" id="37A" script="80C" pointer="7AD8" cameraID="10" />
+
+
+  <object name="Bottles Mound (Running Shoes)" id="37A" script="88C" pointer="7AD8" cameraID="19" />
+
+
+  <object name="Bottles Mound (Note Door)" id="37A" script="90C" pointer="7AD8" cameraID="E" />
+
+  <object name="Bottles Mound (Start)" id="12B" script="8C" pointer="7AD8" cameraID="12" />
+
+
+  <object name="Bottles Mound (Camera)" id="12B" script="10C" pointer="7AD8" cameraID="29" />
+
+
+  <object name="Bottles Mound (Swim)" id="12B" script="18C" pointer="7AD8" cameraID="5" />
+
+
+  <object name="Bottles Mound (Claw Swipe)" id="12B" script="20C" pointer="7AD8" cameraID="6" />
+
+
+  <object name="Bottles Mound (Beak Barge)" id="12B" script="28C" pointer="7AD8" cameraID="8" />
+
+
+  <object name="Bottles Mound (Jump)" id="12B" script="30C" pointer="7AD8" cameraID="4" />
+
+
+  <object name="Bottles Mound (Climb)" id="12B" script="38C" pointer="7AD8" cameraID="7" />
+
+
+  <object name="Bottles Mound (Top)" id="12B" script="40C" pointer="7AD8" cameraID="11" />
+
+
+  <struct name="Conga's Tree" id="22" script="0" pointer="7530"/>
+
+  <struct name="SM Tree" id="2E4" script="0" pointer="7680"/>
+
+  <object name="MM Start Pad" id="2E4" script="8C" pointer="8968" />
+
+  <object name="TTC Start Pad" id="2E4" script="10C" pointer="8968" />
+
+  <object name="CC Start Pad" id="2E4" script="18C" pointer="8968" />
+
+  <object name="BGS Start Pad" id="2E4" script="20C" pointer="8968" />
+
+  <object name="GV Start Pad" id="2E4" script="28C" pointer="8968" />
+
+  <object name="FP Start Pad" id="2E4" script="30C" pointer="8968" />
+
+  <object name="MMM Start Pad" id="2E4" script="38C" pointer="8968" />
+
+  <object name="RBB Start Pad" id="2E4" script="40C" pointer="8968" />
+
+  <object name="CCW Start Pad" id="2E4" script="48C" pointer="8968" />
+
+  <struct name="SM Tree" id="2E5" script="0" pointer="7690"/>
+
+  <struct name="MM Tree" id="2E7" script="0" pointer="7690"/>
+
+  <struct name="TTC Tree" id="90" script="0" pointer="7568"/>
+
+  <struct name="TTC Tree" id="92" script="0" pointer="7568"/>
+
+  <struct name="TTC Tree" id="93" script="0" pointer="7568"/>
+
+  <struct name="TTC Tree" id="97" script="0" pointer="7568"/>
+
+
+  <struct name="Light Crate" id="E6" script="0" pointer="7590"/>
+
+
+  <struct name="Dark Crate" id="F2" script="0" pointer="7598"/>
+
+
+  <struct name="Dark Crate" id="F6" script="0" pointer="7598"/>
+
+
+  <struct name="Dark Crate" id="F7" script="0" pointer="7598"/>
+
+
+
+  <struct name="Another Crate" id="104" script="0" pointer="75A0"/>
+
+
+  <struct name="Another Crate" id="107" script="0" pointer="75A0"/>
+
+
+  <struct name="Another Crate" id="10A" script="0" pointer="75A0"/>
+
+  <object name="Yellow SNS Egg" id="25E" script="8C" pointer="8700" />
+  <object name="Red SNS Egg" id="25E" script="10C" pointer="8700" />
+  <object name="Green SNS Egg" id="25E" script="18C" pointer="8700" />
+  <object name="Blue SNS Egg" id="25E" script="20C" pointer="8700" />
+  <object name="Pink SNS Egg" id="25E" script="28C" pointer="8700" />
+  <object name="Cyan SNS Egg" id="25E" script="30C" pointer="8700" />
+  
+  <struct name="Fire 2D" id="1660" script="0" modelfile=".\resources\flame.mw" />
+  <struct name="Small Fire" id="1450" script="0" />
+  <object name="Chimpy's Tree Stump" id="C5" script="170C" pointer="7CD8" />
+
+  <struct name="Orange 2D" id="D60" script="0" pointer="1" modelfile=".\resources\orange.mw"/>
+
+  <struct name="Blue Flowers" id="465" script="0" pointer="1" modelfile=".\resources\blueFlowers.mw"/>
+
+  <struct name="Blue Flowers" id="467" script="0" pointer="1" modelfile=".\resources\blueFlowers.mw"/>
+
+  <struct name="Yellow Red Flowers" id="470" script="0" pointer="1" modelfile=".\resources\yellowRedFlowers.mw"/>
+
+  <struct name="Red Flowers" id="500" script="0" pointer="1" modelfile=".\resources\redFlowers.mw"/>
+
+  <struct name="Note" id="1640" script="0" pointer="1" modelfile=".\resources\note.mw"/>
+
+  <struct name="Gold Feather" id="15F0" script="0" pointer="1" modelfile=".\resources\gold_feather.mw"/>
+
+  <struct name="Red Feather" id="E0" script="0" pointer="1" modelfile=".\resources\red_feather.mw"/>
+
+  <struct name="Blue Egg" id="1650" script="0" pointer="1" modelfile=".\resources\egg.mw"/>
+
+  <object name="Portrait Chompa - Grunty" id="381" script="190C" pointer="87A0" pointer2="87A8" />
+  <object name="Portrait Chompa - Blackeye" id="381" script="198C" pointer="87A0" pointer2="87D0" />
+  <object name="Portrait Chompa - Tower" id="381" script="1A0C" pointer="87A0" pointer2="87D8" />
+  <object name="Portrait Chompa - Tree" id="381" script="1A8C" pointer="87A0" pointer2="87D8" />
+  <object name="Portrait Chompa - Ghouls" id="381" script="1B0C" pointer="87A0" pointer2="87E8" />
+
+  <object name="Portrait Chompa - 3 Enemies" id="381" script="1B8C" pointer="87A0" pointer2="87E8" />
+
+  <struct name="BGS - Pole" id="640" script="0" pointer="7840"/>
+
+  <struct name="BGS - Pole" id="642" script="0" pointer="7840"/>
+
+  <struct name="BGS - Pole" id="644" script="0" pointer="7840"/>
+
+  <struct name="BGS - Walkway" id="610" script="0" pointer="7828"/>
+
+  <struct name="BGS - Walkway" id="614" script="0" pointer="7828"/>
+
+  <struct name="GV Tree" id="630" script="0" pointer="7838"/>
+
+  <struct name="GV Tree" id="632" script="0" pointer="7838"/>
+
+  <struct name="GV Tree" id="634" script="0" pointer="7838"/>
+
+  <object name="GL - MM Sign" id="2E3" script="8C" pointer="89B0" />
+
+
+  <object name="GL - TTC Sign" id="2E3" script="10C" pointer="89B0" />
+
+
+  <object name="GL - CC Sign" id="2E3" script="18C" pointer="89B0" />
+
+
+  <object name="GL - BGS Sign" id="2E3" script="20C" pointer="89B0" />
+
+
+  <object name="GL - FP Sign" id="2E3" script="28C" pointer="89B0" />
+
+
+  <object name="GL - GV Sign" id="2E3" script="30C" pointer="89B0" />
+
+
+  <object name="GL - MMM Sign" id="2E3" script="38C" pointer="89B0" />
+
+
+  <object name="GL - RBB Sign" id="2E3" script="40C" pointer="89B0" />
+
+
+  <object name="GL - CCW Sign" id="2E3" script="48C" pointer="89B0" />
+
+  <object name="GL - MM Jiggy Podium" id="3B7" script="8C" pointer="8858" />
+
+
+
+  <object name="GL - CC Jiggy Podium" id="3B7" script="18C" pointer="8858" />
+
+
+  <object name="GL - BGS Jiggy Podium" id="3B7" script="20C" pointer="8858" />
+
+
+  <object name="GL - FP Jiggy Podium" id="3B7" script="28C" pointer="8858" />
+
+
+  <object name="GL - GV Jiggy Podium" id="3B7" script="30C" pointer="8858" />
+
+
+  <object name="GL - MMM Jiggy Podium" id="3B7" script="38C" pointer="8858" />
+
+
+  <object name="GL - RBB Jiggy Podium" id="3B7" script="40C" pointer="8858" />
+
+
+  <object name="GL - CCW Jiggy Podium" id="3B7" script="48C" pointer="8858" />
+
+
+  <object name="GL - TTC Jiggy Podium" id="3BC" script="10C" pointer="8858" />
+
+  <object name="Bees" id="34D" script="190C"/>
+</objects>

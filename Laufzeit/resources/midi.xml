@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Midi list updated by pokechu22 to use official names -->
+<midis>
+  <midi id="00" name="Nothing" pointer="10748" />
+  <midi id="01" name="Final Battle with Grunty" pointer="10750" />
+  <midi id="02" name="Mumbo's Mountain" pointer="10758" />
+  <midi id="03" name="Freezeezy Peak" pointer="10760" />
+  <midi id="04" name="Mad Monster Mansion - Church door opens" pointer="10768" /> <!-- or is it closes? -->
+  <midi id="05" name="Treasure Trove Cove" pointer="10770" />
+  <midi id="06" name="Bubblegloop Swamp" pointer="10778" />
+  <midi id="07" name="Clanker's Cavern - Mutie-Snippets battle" pointer="10780" />
+  <midi id="08" name="Main Title" pointer="10788" />
+  <midi id="09" name="Note collect sound" pointer="10790" />
+  <midi id="0A" name="Jinjo collect sound" pointer="10798" />
+  <midi id="0B" name="Red Feather collect sound" pointer="107A0" />
+  <midi id="0C" name="Blue Egg collect sound" pointer="107A8" />
+  <midi id="0D" name="Jiggy collect sound" pointer="107B0" />
+  <midi id="0E" name="Wind Blowing - Start Rare Logo" pointer="107B8" /> <!-- ? -->
+  <midi id="0F" name="Mad Monster Mansion" pointer="107C0" />
+  <midi id="10" name="Spiral Mountain" pointer="107C8" />
+  <midi id="11" name="Treasure Trove Cove - Lighthouse winds" pointer="107D0" />
+  <midi id="12" name="Treasure Trove Cove - Nipper battle" pointer="107D8" />
+  <midi id="13" name="Treasure Trove Cove - Inside Nipper" pointer="107E0" />
+  <midi id="14" name="Gold Feather collect sound" pointer="107E8" />
+  <midi id="15" name="Extra Life collect sound" pointer="107F0" />
+  <midi id="16" name="Honeycomb collect sound" pointer="107F8" />
+  <midi id="17" name="Empty honeycomb collect sound" pointer="10800" />
+  <midi id="18" name="Complete extra honeycomb jingle" pointer="10808" />
+  <midi id="19" name="Unknown beta sound" pointer="10810" /> <!-- Seems like short version of the open level theme -->
+  <midi id="1A" name="Lose life sound" pointer="10818" />
+  <midi id="1B" name="Mumbo's Mountain - Ticker's tower" pointer="10820" />
+  <midi id="1C" name="Clanker's Cavern" pointer="10828" />
+  <midi id="1D" name="Mumbo's Magic sound" pointer="10830" />
+  <midi id="1E" name="Grunty's Lair - Mumbo's Mountain" pointer="10838" />
+  <midi id="1F" name="Clanker's Cavern - Inside Clanker" pointer="10840" />
+  <midi id="20" name="Gobi's Valley" pointer="10848" />
+  <midi id="21" name="Mad Monster Mansion - In the mansion" pointer="10850" />
+  <midi id="22" name="Mad Monster Mansion - Cemetery" pointer="10858" />
+  <midi id="23" name="Mad Monster Mansion - Inside the church" pointer="10860" />
+  <midi id="24" name="Gobi's Valley - Inside the pyramid" pointer="10868" />
+  <midi id="25" name="Wonderwing (invulnerability)" pointer="10870" />
+  <midi id="26" name="Gobi's Valley - King Sandybutt's Maze" pointer="10878" />
+  <midi id="27" name="Gobi's Valley - Hissup" pointer="10880" />
+  <midi id="28" name="Treasure Trove Cove - Inside the sandcastle" pointer="10888" />
+  <midi id="29" name="Click Clock Wood - Summer" pointer="10890" />
+  <midi id="2A" name="Click Clock Wood - Winter" pointer="10898" />
+  <midi id="2B" name="Right noise" pointer="108A0" />
+  <midi id="2C" name="Wrong noise" pointer="108A8" />
+  <midi id="2D" name="Correct fanfare" pointer="108B0" />
+  <midi id="2E" name="Click Clock Wood - Autumn" pointer="108B8" />
+  <midi id="2F" name="Click Clock Wood - Lobby" pointer="108C0" />
+  <midi id="30" name="All Jinjos collected fanfare" pointer="108C8" />
+  <midi id="31" name="Game Over" pointer="108D0" />
+  <midi id="32" name="Nintendo and Rare logos" pointer="108D8" /> <!-- Before title screen -->
+  <midi id="33" name="Rusty Bucket Bay" pointer="108E0" />
+  <midi id="34" name="Snacker tune" pointer="108E8" />
+  <midi id="35" name="Rusty Bucket Bay - Engine room" pointer="108F0" /> <!-- Or machine room -->
+  <midi id="36" name="100 notes fanfare" pointer="108F8" />
+  <midi id="37" name="World door opening" pointer="10900" />
+  <midi id="38" name="Mad Monster Mansion - Complete Motzand's song" pointer="10908" />
+  <midi id="39" name="Advent (unused beta song)" pointer="10910" />
+  <midi id="3A" name="Freezeezy Peak - Boggy's Race" pointer="10918" />
+  <midi id="3B" name="Freezeezy Peak - Win Boggy's Race fanfare" pointer="10920" />
+  <midi id="3C" name="Freezeezy Peak - Lose Boggy's Race fanfare" pointer="10928" /> <!-- Is it a fanfare when you failed? -->
+  <midi id="3D" name="Jiggy Appearance" pointer="10930" />
+  <midi id="3E" name="Gobi's Valley - Fail King Sandybutt's maze fanfare" pointer="10938" /> <!-- see above -->
+  <midi id="3F" name="Dingpot launch sound" pointer="10940" />
+  <midi id="40" name="Grunty Falls" pointer="10948" />
+  <midi id="41" name="Mumbo's Hut" pointer="10950" />
+  <midi id="42" name="Open Note Door fanfare" pointer="10958" />
+  <midi id="43" name="Warp in to level sound" pointer="10960" />
+  <midi id="44" name="Click Clock Wood - Nabnut's theme" pointer="10968" />
+  <midi id="45" name="Click Clock Wood - Zubba's nest" pointer="10970" />
+  <midi id="46" name="Click Clock Wood - Top of the tree" pointer="10978" />
+  <midi id="47" name="Bubblegloop Swamp - Interiors" pointer="10980" />
+  <midi id="48" name="Click Clock Wood - Unused theme 1 (beta)" pointer="10988" /> <!-- "Summer house" -->
+  <midi id="49" name="Click Clock Wood - Unused theme 2 (beta)" pointer="10990" /> <!-- "Autumn house" -->
+  <midi id="4A" name="Rusty Bucket Bay - Inside the warehouse" pointer="10998" />
+  <midi id="4B" name="Click Clock Wood - Zubba battle" pointer="109A0" />
+  <midi id="4C" name="Rusty Bucket Bay - Inside crew quarters" pointer="109A8" />
+  <midi id="4D" name="Mumbo's Raindance (unused beta song)" pointer="109B0" />
+  <midi id="4E" name="Whistle pitch bend up" pointer="109B8" /> <!-- Don't know what either of these are.  Maybe something from the intro screen? -->
+  <midi id="4F" name="Whistle pitch bend down" pointer="109C0" /> <!-- See above -->
+  <midi id="50" name="Grunty's Lair - Treasure Trove Cove and Clanker's Cavern" pointer="109C8" />
+  <midi id="51" name="Grunty's Lair - Treasure Trove Cove and Click Clock Wood" pointer="109D0" />
+  <midi id="52" name="Grunty's Lair - Clanker's Cavern and Bubblegloop Swamp" pointer="109D8" />
+  <midi id="53" name="Grunty's Lair - Bubblegloop Swamp and Freezeezy Peak" pointer="109E0" />
+  <midi id="54" name="Grunty's Lair - Gobi's Valley" pointer="109E8" />
+  <midi id="55" name="Bubblegloop Swamp - Mr Vile's minigame" pointer="109F0" />
+  <midi id="56" name="Spiral Mountain - Bridge to Grunty's Lair" pointer="109F8" />
+  <midi id="57" name="Turbo Trainers" pointer="10A00" />
+  <midi id="58" name="Wading Boots" pointer="10A08" />
+  <midi id="59" name="Grunty's Lair - Freezeezy Peak" pointer="10A10" />
+  <midi id="5A" name="Freezeezy Peak - Boggy's Igloo - Sad" pointer="10A18" />
+  <midi id="5B" name="Freezeezy Peak - Boggy's Igloo - Happy" pointer="10A20" />
+  <midi id="5C" name="Short game over (unused beta sound)" pointer="10A28" />
+  <midi id="5D" name="Grunty's Lair - Gobi's Valley and Mad Monster Mansion" pointer="10A30" />
+  <midi id="5E" name="Grunty's Lair - Mad Monster Mansion and Rusty Bucket Bay" pointer="10A38" />
+  <midi id="5F" name="Click Clock Wood - Spring" pointer="10A40" />
+  <midi id="60" name="Click Clock Wood - Nabnut's storage room" pointer="10A48" />
+  <midi id="61" name="Freezeezy Peak - Light the tree jingle" pointer="10A50" />
+  <midi id="62" name="Rusty Bucket Bay - Boss Boom Box" pointer="10A58" />
+  <midi id="63" name="Grunty's Lair - Click Clock Wood and Furnace Fun" pointer="10A60" />
+  <midi id="64" name="World door opening jingle" pointer="10A68" />
+  <midi id="65" name="World puzzle completed fanfare" pointer="10A70" />
+  <midi id="66" name="Freezeezy Peak - Inside the Christmas tree" pointer="10A78" />
+  <midi id="67" name="Start - Rare Logo" pointer="10A80" /> <!-- ? -->
+  <midi id="68" name="Freezeezy Peak - Twinklies Journey" pointer="10A88" />
+  <midi id="69" name="Enter dingpot sound" pointer="10A90" />
+  <midi id="6A" name="Mad Monster Mansion - Tubular's Oujia" pointer="10A98" />
+  <midi id="6B" name="Freezeezy Peak - Wozza's Cave" pointer="10AA0" />
+  <midi id="6C" name="New game overture" pointer="10AA8" />
+  <midi id="6D" name="Click Clock Wood - Gnawty's house" pointer="10AB0" />
+  <midi id="6E" name="Start Select screen - Game 1 and Game 2" pointer="10AB8" />
+  <midi id="6F" name="Pause menu" pointer="10AC0" />
+  <midi id="70" name="Mad Monster - Down loggo" pointer="10AC8" />
+  <midi id="71" name="Grunty's Furnace Fun" pointer="10AD0" />
+  <midi id="72" name="Bubblegloop Swamp - Flibbits Battle" pointer="10AD8" />
+  <midi id="73" name="Start Select screen - Game 3" pointer="10AE0" />
+  <midi id="74" name="Top of the Grunty's lair" pointer="10AE8" /> <!-- Cauldron keep? -->
+  <midi id="75" name="Red Feather Pillow fanfare" pointer="10AF0" />
+  <midi id="76" name="Gold Feather Pillow fanfare" pointer="10AF8" />
+  <midi id="77" name="Blue Egg Pillow fanfare" pointer="10B00" />
+  <midi id="78" name="Open a Note door fanfare" pointer="10B08" />
+  <midi id="79" name="Cheato's theme" pointer="10B10" />
+  <midi id="7A" name="Brentilda's theme" pointer="10B18" />
+  <midi id="7B" name="Furnace Fun - Skull Square" pointer="10B20" />
+  <midi id="7C" name="Furnace Fun - Grunty square" pointer="10B28" />
+  <midi id="7D" name="Furnace Fun - Banjo square" pointer="10B30" />
+  <midi id="7E" name="Furnace Fun - Joker square" pointer="10B38" />
+  <midi id="7F" name="Furnace Fun - Music square" pointer="10B40" />
+  <midi id="80" name="Grunty's Beauty Steal Machine" pointer="10B48" /> <!-- First enter grunty's lair cutscene -->
+  <midi id="81" name="Near Brentilda strum" pointer="10B50" />
+  <midi id="82" name="Remove puzzle peace" pointer="10B58" />
+  <midi id="83" name="Gobi's Valley - SNS Secrets Fanfare" pointer="10B60" /> <!-- Stop 'n Swop - Secret Fanfare #3 -->
+  <midi id="84" name="Treasure Trove Cove - SNS Secrets Fanfare" pointer="10B68" /> <!-- Stop 'n Swop - Secret Fanfare #1 -->
+  <midi id="85" name="Freezeezy Peak - SNS Secrets Fanfare" pointer="10B70" /> <!-- Stop 'n Swop - Secret Fanfare #2 -->
+  <midi id="86" name="Mad Monster Mansion - SNS Secrets Fanfare" pointer="10B78" /> <!-- Stop 'n Swop - Secret Fanfare #4 -->
+  <midi id="87" name="Click Clock Wood - SNS Secrets Fanfare" pointer="10B80" /> <!-- Stop 'n Swop - Secret Fanfare #5 -->
+  <midi id="88" name="Collection of SNS Item fanfare" pointer="10B88" />
+  <midi id="89" name="Jinjo charge" pointer="10B90" /> <!-- ? -->
+  <midi id="8A" name="Turbo Trainers short" pointer="10B98" /> <!-- Used in transformations (Mr. Vile's game) to keep background music going -->
+  <midi id="8B" name="Strum" pointer="10BA0" /> <!-- ? -->
+  <midi id="8C" name="Jinjonator" pointer="10BA8" /> <!-- ? -->
+  <midi id="8D" name="Jinjonator appears" pointer="10BB0" />
+  <midi id="8E" name="End Credits" pointer="10BB8" /> <!-- And cast list -->
+  <midi id="8F" name="Jinjonator charges" pointer="10BC0" />
+  <midi id="90" name="Grunty's Big Door opens fanfare" pointer="10BC8" />
+  <midi id="91" name="Grunty falls" pointer="10BD0" />
+  <midi id="92" name="Grunty's spell sound" pointer="10BD8" />
+  <midi id="93" name="Bottles game piece" pointer="10BE0" />
+  <midi id="94" name="Bottles game music" pointer="10BE8" />
+  <midi id="95" name="Start of bottles game" pointer="10BF0" />
+  <midi id="96" name="Pick a piece up" pointer="10BF8" />
+  <midi id="97" name="Put a piece down" pointer="10C00" />
+  <midi id="98" name="Start of Bottles game" pointer="10C08" />
+  <midi id="99" name="Barbeque tune" pointer="10C10" />
+  <midi id="9A" name="Jinjonator hitting Grunty" pointer="10C18" />
+  <midi id="9B" name="Jinjonator hitting Grunty 2" pointer="10C20" />
+  <midi id="9C" name="Jinjonator hitting Grunty 3" pointer="10C28" />
+  <midi id="9D" name="Jinjonator hitting Grunty 4" pointer="10C30" />
+  <midi id="9E" name="Jinjonator hitting Grunty 5" pointer="10C38" />
+  <midi id="9F" name="Jinjonator hitting Grunty 6" pointer="10C40" />
+  <midi id="A0" name="Jinjonator hitting Grunty 7" pointer="10C48" />
+  <midi id="A1" name="Jinjonator hitting Grunty 8" pointer="10C50" />
+  <midi id="A2" name="Jinjonator hitting Grunty 9" pointer="10C58" />
+  <midi id="A3" name="Jinjonator hitting Grunty 10" pointer="10C60" />
+  <midi id="A4" name="Barbeque Shock 1" pointer="10C68" />
+  <midi id="A5" name="Barbeque Shock 2" pointer="10C70" />
+  <midi id="A6" name="Barbeque Shock 3" pointer="10C78" />
+  <midi id="A7" name="Barbeque Shock 4" pointer="10C80" />
+  <midi id="A8" name="Furnace Fun - Grunty's Defeat" pointer="10C88" />
+  <midi id="A9" name="Tooty's theme" pointer="10C90" />
+  <midi id="AA" name="Beach theme" pointer="10C98" />
+  <midi id="AB" name="Grunty buried under a rock" pointer="10CA0" />
+  <midi id="AC" name="The End fanfare" pointer="10CA8" />
+</midis>

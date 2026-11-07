@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sprites>
+  <sprite name="Collectable - Red Feather" id="" pointer="8A98" type="collectable"/>
+  <sprite name="Collectable - Gold Feather" id="" pointer="9520" type="collectable"/>
+  <sprite name="Collectable - Note" id="" pointer="9548" type="collectable"/>
+  <sprite name="Collectable - Egg" id="" pointer="9550" type="collectable"/>
+  <sprite name="Palm Tree" id="" pointer="8A28" />  
+  <sprite name="Flower" id="" pointer="8BE0" />
+  <sprite name="Red Mushroom" id="" pointer="8BF8" />
+  <sprite name="Green Mushroom" id="" pointer="8C00" />
+  <sprite name="Blue Mushroom" id="" pointer="8C08" />
+  <sprite name="Pink Mushroom" id="" pointer="8C20" />
+  <sprite name="Purple Mushroom" id="" pointer="8C28" />
+  <sprite name="Flower" id="" pointer="8C58" />
+  <sprite name="Flower" id="" pointer="8C60" />
+  <sprite name="Flower" id="" pointer="8CA8" />
+  <sprite name="Weed" id="" pointer="8D10" />
+  <sprite name="Tree (Intro)" id="" pointer="8D40" />
+  <sprite name="Tree (Intro)" id="" pointer="8D48" />
+  <sprite name="Tree (From where?)" id="" pointer="8D90" />
+  <sprite name="Red Mushroom" id="" pointer="8EC8" />
+  <sprite name="Green Mushroom" id="" pointer="8ED0" />
+  <sprite name="White Circle" id="" pointer="8ED8" />
+  <sprite name="Mushroom (2D)" id="" pointer="8EE0" />
+  <sprite name="Cattail (2D)" id="" pointer="8EF8" />
+  <sprite name="Cattail (2D)" id="" pointer="8F00" />
+  <sprite name="Cattail (2D)" id="" pointer="8F08" />
+  <sprite name="Orange (2D)" id="" pointer="90D8" />
+  <sprite name="Grass (2D)" id="" pointer="92F8" />
+  <sprite name="Seashell (2D)" id="" pointer="9330" />
+  <sprite name="Weed (2D)" id="" pointer="9420" />
+  <sprite name="Purple Weed (2D)" id="" pointer="9428" />
+  <sprite name="White Weed (2D)" id="" pointer="9430" />
+  <sprite name="Fire - (2D)" id="" pointer="9450" />
+  <sprite name="Green Glow (2D)" id="" pointer="9458" />
+  <sprite name="Speck of Steam (2D)" id="" pointer="94A0" />
+  <sprite name="Steam (2D)" id="" pointer="94A8" />
+  <sprite name="Green Blast (2D)" id="" pointer="94B0" />
+  <sprite name="Yellow Blast (2D)" id="" pointer="94B8" />
+  <sprite name="Fire Blast (2D)" id="" pointer="94C0" />
+  <sprite name="Purple Blast (2D)" id="" pointer="94C8" />
+  <sprite name="Green Blast (2D)" id="" pointer="94D0" />
+  <sprite name="Blue Blast (2D)" id="" pointer="94D8" />
+  <sprite name="Big Green Blast (2D)" id="" pointer="94E0" />
+  <sprite name="Seaweed (2D)" id="" pointer="9528" />
+  <sprite name="Seaweed (2D)" id="" pointer="9530" />
+  <sprite name="Seaweed (2D)" id="" pointer="9538" />
+  <sprite name="Seaweed (2D)" id="" pointer="9540" />
+  <sprite name="Fireball (2D)" id="" pointer="9558" />
+  <sprite name="Proppellor (2D)" id="" pointer="9560" />
+  <sprite name="Egg timer (2D)" id="" pointer="9568" />
+  <sprite name="Egg timer (2D) spinning forwards" id="" pointer="9570" />
+  <sprite name="Christmas Tree - BETA" id="" pointer="9578" />
+  <sprite name="Red Triangle" id="" pointer="9588" />
+  <sprite name="Blue/Green Texture (2D)" id="" pointer="9590" />
+  <sprite name="Green Texture" id="" pointer="9598" />
+  <sprite name="Red Down Arrow" id="" pointer="95A0" />
+  <sprite name="Flat arrow" id="" pointer="95A8" />
+  <sprite name="4 Yellow Arrows" id="" pointer="95B0" />
+  <sprite name="Green/Yellow Texture" id="" pointer="95B8" />
+  <sprite name="White/Brown Texture" id="" pointer="95C0" />
+  <sprite name="Purple Texture" id="" pointer="95C8" />
+  <sprite name="Pink Texture" id="" pointer="95D0" />
+  <sprite name="Lines and Square" id="" pointer="95D8" />
+  <sprite name="MM - Hut" id="" pointer="9D50" />
+  <sprite name="MM - Top of hut" id="" pointer="9D58" />
+  <!--sprite name="Note (2D)" id="" pointer="9D60" />
+  <sprite name="Red Feather (2D)" id="" pointer="9D68" />
+  <sprite name="Gold feather (2D)" id="" pointer="9D70" />-->
+  <sprite name="UI - Empty Honeycomb Piece" id="" pointer="9D78" />
+  <sprite name="UI - Honeycomb" id="" pointer="9D80" />
+  <sprite name="Sparkles (2D)" id="" pointer="9D88" />
+  <sprite name="Purple Jinjo (2D)" id="" pointer="9D90" />
+  <sprite name="UI - Banjo Kazooie (2D) (5-8)" id="" pointer="9D98" />
+  <sprite name="UI - Banjo Kazooie (2D) (4)" id="" pointer="9DA0" />
+  <sprite name="UI - Banjo Kazooie (2D) (3)" id="" pointer="9DA8" />
+  <sprite name="UI - Banjo Kazooie (2D) (2)" id="" pointer="9DB0" />
+  <sprite name="UI - Banjo Kazooie (2D) (1)" id="" pointer="9DB8" />
+  <sprite name="UI - Water Honeycomb" id="" pointer="9DC0" />
+  <sprite name="Mr Vile talking" id="8B" pointer="9DC8" />
+  <sprite name="Green crocc talking" id="D9" pointer="9DD0" />
+  <sprite name="Shadow (2D)" id="" pointer="9DE8" />
+  <sprite name="Control Stick (2D)" id="" pointer="9DF0" />
+  <sprite name="X" id="" pointer="9DF8" />
+  <sprite name="B button" id="" pointer="9E00" />
+  <sprite name="UI - Joker Card" id="" pointer="9E08" />
+  <sprite name="Talking - Banjo" id="80" pointer="9E10" />
+  <sprite name="Talking - Bottles" id="83" pointer="9E18" />
+  <sprite name="Talking - Blubber" id="87" pointer="9E20" />
+  <sprite name="Talking - Conga" id="86" pointer="9E28" />
+  <sprite name="Talking - Napper" id="93" pointer="9E30" />
+  <sprite name="Talking - Kazooie" id="81" pointer="9E38" />
+  <sprite name="Talking - Kazooie 2" id="82" pointer="9E38" />
+  <sprite name="Talking - Chimpy" id="85" pointer="9E40" />
+  <sprite name="Talking - Flibbit" id="8E" pointer="9E48" />
+  <sprite name="Talking - Gobi" id="91" pointer="9E50" />
+  <sprite name="Talking - Tortoise" id="8D" pointer="9E58" />
+  <sprite name="Talking - Tip-Tup" id="8C" pointer="9E60" />
+  <sprite name="Talking - Cauldron" id="CA" pointer="9E68" />
+  <sprite name="Talking - Rubee" id="90" pointer="9E70" />
+  <sprite name="Talking - Mumbo" id="84" pointer="9E78" />
+  <sprite name="Talking - Nipper" id="88" pointer="9E80" />
+  <sprite name="Talking - Clanker" id="89" pointer="9E88" />
+  <sprite name="Talking - Grabba" id="92" pointer="9E90" />
+  <sprite name="Talking - Snippet" id="8A" pointer="9E98" />
+  <sprite name="Talking - Trunker" id="8F" pointer="9EA0" />
+  <sprite name="Talking - Yellow Jinjo" id="94" pointer="9EA8" />
+  <sprite name="Talking - Green Jinjo" id="95" pointer="9EB0" />
+  <sprite name="Talking - Blue Jinjo" id="96" pointer="9EB8" />
+  <sprite name="Talking - Purple Jinjo" id="97" pointer="9EC0" />
+  <sprite name="Talking - Orange Jinjo" id="98" pointer="9EC8" />
+  <sprite name="Talking - Coconut" id="" pointer="9ED0" />
+  <sprite name="Talking - Mumbo Token" id="9A" pointer="9ED8" />
+  <sprite name="Talking - Running shoes" id="A6" pointer="9EE0" />
+  <!--sprite name="X" id="" pointer="9EE8" />
+  <sprite name="X" id="" pointer="9EF0" /-->
+  <sprite name="Talking - Swamp Boots" id="A5" pointer="9EF8" />
+  <sprite name="Talking - Jiggy" id="A3" pointer="9F00" />
+  <sprite name="Talking - Extra Life" id="A2" pointer="9F08" />
+  <sprite name="Gold" id="9F" pointer="9F10" />
+  <sprite name="Talking - Honeycomb" id="" pointer="9F18" />
+  <sprite name="Talking - Empty Honeycomb Beta" id="" pointer="9F20" />
+  <sprite name="Talking - Beehive" id="A0" pointer="9F28" />
+  <sprite name="Talking - Piranha" id="A7" pointer="9F30" />
+  <sprite name="Talking - Snacker" id="AF" pointer="9F38" />
+  <sprite name="Talking - Tooty" id="CC" pointer="9F40" />
+  <sprite name="Talking - Grunty" id="B5" pointer="9F48" />
+  <sprite name="Talking - Sphinx" id="B3" pointer="9F50" />
+  <sprite name="Talking - Twinkly Muncher" id="C0" pointer="9F58" />
+  <sprite name="X" id="" pointer="9F60" />
+  <sprite name="X" id="" pointer="9F68" />
+  <sprite name="Talking - Musical Note" id="99" pointer="9F70" />
+  <sprite name="X" id="" pointer="9F78" />
+  <sprite name="Talking - Extra Honeycomb" id="" pointer="9F80" />
+  <sprite name="Talking - Blue egg" id="" pointer="9F88" />
+  <sprite name="Talking - Gold Feather" id="" pointer="9F90" />
+  <sprite name="Talking - Red Feather" id="" pointer="9F98" />
+  <sprite name="Talking - Twinkly" id="BF" pointer="9FA0" />
+  <sprite name="Talking - Present" id="D0" pointer="9FA8" />
+  <sprite name="Talking - Present" id="D1" pointer="9FB0" />
+  <sprite name="Talking - Present" id="" pointer="9FB8" />
+  <sprite name="Talking - Orange" id="9E" pointer="9FC0" />
+  <sprite name="Talking - Tumbler" id="BA" pointer="9FC8" />
+  <sprite name="Talking - Clock" id="" pointer="9FD0" />
+  <sprite name="Talking - Juju" id="A9" pointer="9FD8" />
+  <sprite name="Talking - Leaky" id="AC" pointer="9FE8" />
+  <sprite name="Talking - Klungo" id="D2" pointer="9FF0" />
+  <sprite name="Talking - Mummy" id="BB" pointer="9FF8" />
+  <sprite name="Talking - Zubba" id="C3" pointer="A000" />
+  <sprite name="Talking - Brentilda" id="CB" pointer="A008" />
+  <sprite name="Talking - Tip Tup" id="AE" pointer="A010" />
+  <sprite name="Talking - Jinxy" id="B0" pointer="A018" />
+  <sprite name="Talking - Nabnut" id="C4" pointer="A020" />
+  <sprite name="Talking - TTC Gold Treasure Box" id="AB" pointer="A028" />
+  <sprite name="Talking - Dingpot" id="D8" pointer="A030" />
+  <sprite name="Talking - Termite" id="A8" pointer="A038" />
+  <sprite name="Talking - Wozza" id="B8" pointer="A040" />
+  <sprite name="Talking - Gloop" id="AD" pointer="A048" />
+  <sprite name="Talking - Gnawty" id="C1" pointer="A050" />
+  <sprite name="Talking - Snorkel" id="B2" pointer="A058" />
+  <sprite name="Talking - Yum-Yum" id="AA" pointer="A060" />
+  <sprite name="Talking - Croctus" id="B4" pointer="A068" />
+  <sprite name="Talking - Motzand" id="B9" pointer="A070" />
+  <sprite name="Talking - Boggy" id="B7" pointer="A078" />
+  <sprite name="Talking - Loggo" id="CE" pointer="A080" />
+  <sprite name="Talking - Young Eerie" id="C6" pointer="A088" />
+  <sprite name="Talking - Adult Eerie" id="C9" pointer="A090" />
+  <sprite name="Talking - Zingbot" id="" pointer="A098" />
+  <sprite name="Talking - Sexy Grunty" id="D3" pointer="A0A0" />
+  <sprite name="Talking - Cheato" id="CF" pointer="A0A8" />
+  <sprite name="Talking - Boggy's Kids" id="C5" pointer="A0B0" />
+  <sprite name="Talking - Tooty" id="CC" pointer="A0B8" />
+  <sprite name="Talking - Black Snippet" id="CD" pointer="A0C0" />
+  <sprite name="Talking - Caterpillar" id="BD" pointer="A0C8" />
+  <sprite name="Talking - Boss Boom Box" id="C2" pointer="A0D0" />
+  <sprite name="Talking - Ice Water" id="BE" pointer="A0D8" />
+  <sprite name="Talking - Lockup" id="DB" pointer="A0E0" />
+  <!--sprite name="(2D) Fish" id="" pointer="A278" />
+  <sprite name="(2D) Fish" id="" pointer="A280" /-->
+  <sprite name="(2D) Red-White-Green" id="" pointer="A288" />
+  <sprite name="(2D) Wall Texture" id="" pointer="A290" />
+  <sprite name="(2D) Boxes / Menus?!" id="" pointer="A298" />  
+  <!--sprite name="?" id="" pointer="4B4E88" compressed="false"/-->
+</sprites>

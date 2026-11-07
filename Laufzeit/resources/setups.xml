@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<setups>
+  <setup name="SM - Spiral Mountain" pointer="9780" sceneID="1" modelAPointer="10510" modelBPointer="10518" />
+  <setup name="SM - Banjo's House" pointer="9BD8" sceneID="8C" modelAPointer="103A8" modelBPointer="103B8" />
+  <setup name="MM - Mumbo's Mountain" pointer="9788" sceneID="2" modelAPointer="103E8" modelBPointer="103F0" />
+  <setup name="MM - Ticker's Tower" pointer="97D8" sceneID="C" modelAPointer="103F8" modelBPointer="10400" />
+  <setup name="MM - Mumbo's Skull" pointer="97E8" sceneID="E" modelAPointer="10408" modelBPointer="0" />
+  <setup name="TTC - Treasure Trove Cove" pointer="97B0" sceneID="7" modelAPointer="101F0" modelBPointer="101F8" />
+  <setup name="TTC - Blubber's Ship" pointer="97A0" sceneID="5" modelAPointer="10210" modelBPointer="10218" />
+  <setup name="TTC - Nipper's Shell" pointer="97A8" sceneID="6" modelAPointer="10200" modelBPointer="10208" />
+  <setup name="TTC - Sandcastle" pointer="97C8" sceneID="A" modelAPointer="10220" modelBPointer="10228" />
+  <setup name="TTC - Sharkfood Island" pointer="9BF0" sceneID="8F" modelAPointer="10230" modelBPointer="0" />  
+  <setup name="CC - Clanker's Cavern" pointer="97D0" sceneID="B" modelAPointer="10600" modelBPointer="10608" />
+  <setup name="CC - Inside Clanker" pointer="9888" sceneID="22" modelAPointer="10618" modelBPointer="10620" />
+  <setup name="CC - Inside Clanker - Witch Switch" pointer="9880" sceneID="21" modelAPointer="10610" modelBPointer="0" />
+  <setup name="CC - Inside Clanker - Gold Feathers" pointer="9890" sceneID="23" modelAPointer="10628" modelBPointer="0" />
+  <setup name="BGS - Bubblegloop Swamp" pointer="97E0" sceneID="D" modelAPointer="10520" modelBPointer="10528" />
+  <setup name="BGS - Mr. Vile" pointer="97F8" sceneID="10" modelAPointer="10530" modelBPointer="0" />
+  <setup name="BGS - TipTup Chior" pointer="9800" sceneID="11" modelAPointer="10538" modelBPointer="10540" />
+  <setup name="BGS - Mumbo's Skull" pointer="99B0" sceneID="47" modelAPointer="10408" modelBPointer="0" />
+  <setup name="FP - Freezeezy Peak" pointer="98B0" sceneID="27" modelAPointer="104D8" modelBPointer="104E0" />
+  <setup name="FP - Boggy's Igloo" pointer="9980" sceneID="41" modelAPointer="104E8" modelBPointer="10508" />
+  <setup name="FP - Mumbo's Skull" pointer="99B8" sceneID="48" modelAPointer="10408" modelBPointer="0" />
+  <setup name="FP - Christmas Tree" pointer="9A10" sceneID="53" modelAPointer="104F0" modelBPointer="0" />
+  <setup name="FP - Wozza's Cave" pointer="9B70" sceneID="7F" modelAPointer="104F8" modelBPointer="10500" />
+  <setup name="GV - Gobi's Valley" pointer="9808" sceneID="12" modelAPointer="10238" modelBPointer="10240" />
+  <setup name="GV - Puzzle Room" pointer="9810" sceneID="13" modelAPointer="10248" modelBPointer="0" />
+  <setup name="GV - King Sandybutt's Tomb" pointer="9818" sceneID="14" modelAPointer="10258" modelBPointer="10260" />
+  <setup name="GV - Water Room" pointer="9820" sceneID="15" modelAPointer="10268" modelBPointer="10270" />
+  <setup name="GV - Rupee" pointer="9828" sceneID="16" modelAPointer="10278" modelBPointer="0" />
+  <setup name="GV - Jinxy" pointer="9848" sceneID="1A" modelAPointer="10280" modelBPointer="0" />
+  <setup name="GV - Secret Blue Egg" pointer="9C08" sceneID="92" modelAPointer="10288" modelBPointer="0" />
+  <setup name="MMM - Mad Monster Mansion" pointer="9850" sceneID="1B" modelAPointer="10290" modelBPointer="10298" />
+  <setup name="MMM - Septic Tank" pointer="9BE0" sceneID="8D" modelAPointer="10358" modelBPointer="10360" />
+  <setup name="MMM - Church" pointer="9858" sceneID="1C" modelAPointer="102C8" modelBPointer="102D0" />
+  <setup name="MMM - Cellar" pointer="9860" sceneID="1D" modelAPointer="102A8" modelBPointer="10370" />
+  <setup name="MMM - Tumblar's Shed" pointer="9898" sceneID="24" modelAPointer="102D8" modelBPointer="0" />
+  <setup name="MMM - Well" pointer="98A0" sceneID="25" modelAPointer="10340" modelBPointer="10348" />
+  <setup name="MMM - Dining Room" pointer="98A8" sceneID="26" modelAPointer="102C0" modelBPointer="10368" />
+  <setup name="MMM - Egg Room" pointer="98B8" sceneID="28" modelAPointer="102E0" modelBPointer="102E8" />
+  <setup name="MMM - Note Room" pointer="98C0" sceneID="29" modelAPointer="102F0" modelBPointer="102F8" />
+  <setup name="MMM - Feather Room" pointer="98C8" sceneID="2A" modelAPointer="10300" modelBPointer="10308" />
+  <setup name="MMM - Secret Church Room" pointer="98D0" sceneID="2B" modelAPointer="102B0" modelBPointer="102B8" />
+  <setup name="MMM - Bathroom" pointer="98D8" sceneID="2C" modelAPointer="10310" modelBPointer="10318" />
+  <setup name="MMM - Bedroom" pointer="98E0" sceneID="2D" modelAPointer="10320" modelBPointer="10328" />
+  <setup name="MMM - Gold Feather Room" pointer="98E8" sceneID="2E" modelAPointer="10330" modelBPointer="10338" />
+  <setup name="MMM - Drainpipe" pointer="98F0" sceneID="2F" modelAPointer="102A0" modelBPointer="10350" />
+  <setup name="MMM - Mumbo's Hut" pointer="98F8" sceneID="30" modelAPointer="10408" modelBPointer="0" />
+  <setup name="RBB - Rusty Bucket Bay" pointer="9900" sceneID="31" modelAPointer="10418" modelBPointer="10420" />
+  <setup name="RBB - Anchor Room" pointer="9BD0" sceneID="8B" modelAPointer="104C0" modelBPointer="104C8" />
+  <setup name="RBB - Machine Room" pointer="9918" sceneID="34" modelAPointer="10428" modelBPointer="10430" />
+  <setup name="RBB - Big Fish Warehouse" pointer="9920" sceneID="35" modelAPointer="10438" modelBPointer="10440" />
+  <setup name="RBB - Boat Room" pointer="9928" sceneID="36" modelAPointer="10448" modelBPointer="10450" />
+  <setup name="RBB - First Blue Container" pointer="9930" sceneID="37" modelAPointer="10458" modelBPointer="0" />
+  <setup name="RBB - Third Blue Container" pointer="9938" sceneID="38" modelAPointer="10468" modelBPointer="0" />
+  <setup name="RBB - Sea-Grublin's Cabin" pointer="9940" sceneID="39" modelAPointer="10480" modelBPointer="0" />
+  <setup name="RBB - Kaboom's Room" pointer="9948" sceneID="3A" modelAPointer="10488" modelBPointer="10490" />
+  <setup name="RBB - Mini Kaboom's Room" pointer="9950" sceneID="3B" modelAPointer="104A0" modelBPointer="104A8" />
+  <setup name="RBB - Kitchen" pointer="9958" sceneID="3C" modelAPointer="104B0" modelBPointer="104B8" />
+  <setup name="RBB - Navigation Room" pointer="9960" sceneID="3D" modelAPointer="10498" modelBPointer="104D0" />
+  <setup name="RBB - Second Blue Container" pointer="9968" sceneID="3E" modelAPointer="10460" modelBPointer="0" />
+  <setup name="RBB - Captain's Room" pointer="9970" sceneID="3F" modelAPointer="10470" modelBPointer="10478" />
+  <setup name="CCW - Click Clock Wood" pointer="9978" sceneID="40" modelAPointer="10558" modelBPointer="105B0" />
+  <setup name="CCW - Spring" pointer="9990" sceneID="43" modelAPointer="10560" modelBPointer="105B8" />
+  <setup name="CCW - Summer" pointer="9998" sceneID="44" modelAPointer="10568" modelBPointer="105C0" />
+  <setup name="CCW - Fall" pointer="99A0" sceneID="45" modelAPointer="10570" modelBPointer="105C8" />
+  <setup name="CCW - Winter" pointer="99A8" sceneID="46" modelAPointer="10578" modelBPointer="105D0" />
+  <setup name="CCW - Mumbo - Spring" pointer="99C8" sceneID="4A" modelAPointer="10408" modelBPointer="0" />
+  <setup name="CCW - Mumbo - Summer" pointer="99D0" sceneID="4B" modelAPointer="10408" modelBPointer="0" />
+  <setup name="CCW - Mumbo - Fall" pointer="99D8" sceneID="4C" modelAPointer="10408" modelBPointer="0" />
+  <setup name="CCW - Mumbo - Winter" pointer="99E0" sceneID="4D" modelAPointer="10408" modelBPointer="0" />
+  <setup name="CCW - Beehive - Summer" pointer="9A48" sceneID="5A" modelAPointer="10580" modelBPointer="0" />
+  <setup name="CCW - Beehive - Spring" pointer="9A50" sceneID="5B" modelAPointer="10580" modelBPointer="0" />
+  <setup name="CCW - Beehive - Fall" pointer="9A58" sceneID="5C" modelAPointer="10580" modelBPointer="0" />
+  <setup name="CCW - Nabnuts House - Spring" pointer="9A68" sceneID="5E" modelAPointer="10588" modelBPointer="0" />
+  <setup name="CCW - Nabnuts House - Summer" pointer="9A70" sceneID="5F" modelAPointer="10588" modelBPointer="0" />
+  <setup name="CCW - Nabnuts House - Fall" pointer="9A78" sceneID="60" modelAPointer="10588" modelBPointer="0" />
+  <setup name="CCW - Nabnuts House - Winter" pointer="9A80" sceneID="61" modelAPointer="10588" modelBPointer="0" />
+  <setup name="CCW - Nabnut's Attic - Winter" pointer="9A88" sceneID="62" modelAPointer="10598" modelBPointer="0" />
+  <setup name="CCW - Nabnut's Attic - Fall" pointer="9A90" sceneID="63" modelAPointer="10598" modelBPointer="0" />
+  <setup name="CCW - Nabnut's Attic 2 - Winter" pointer="9A98" sceneID="64" modelAPointer="105A0" modelBPointer="105A8" />
+  <setup name="CCW - Whipcrack Room - Spring" pointer="9AA0" sceneID="65" modelAPointer="10590" modelBPointer="0" />
+  <setup name="CCW - Whipcrack Room - Summer" pointer="9AA8" sceneID="66" modelAPointer="10590" modelBPointer="0" />
+  <setup name="CCW - Whipcrack Room - Fall" pointer="9AB0" sceneID="67" modelAPointer="10590" modelBPointer="0" />
+  <setup name="CCW - Whipcrack Room - Winter" pointer="9AB8" sceneID="68" modelAPointer="10590" modelBPointer="0" />
+  <setup name="GL - Floor 1" pointer="9AC0" sceneID="69" modelAPointer="10630" modelBPointer="106F0" />
+  <setup name="GL - Floor 2" pointer="9AC8" sceneID="6A" modelAPointer="10638" modelBPointer="106F8" />
+  <setup name="GL - Floor 3" pointer="9AD0" sceneID="6B" modelAPointer="10640" modelBPointer="10718" />
+  <setup name="GL - Floor 4" pointer="9B00" sceneID="71" modelAPointer="10698" modelBPointer="10708" />
+  <setup name="GL - Floor 5" pointer="9AE8" sceneID="6E" modelAPointer="10658" modelBPointer="0" />
+  <setup name="GL - Floor 6 FP Entrance" pointer="9AF0" sceneID="6F" modelAPointer="10660" modelBPointer="10668" />
+  <setup name="GL - Floor 7" pointer="9B40" sceneID="79" modelAPointer="106C0" modelBPointer="0" />
+  <setup name="GL - Floor 8" pointer="9C10" sceneID="93" modelAPointer="10710" modelBPointer="0" />
+  <setup name="GL - Pipe Room" pointer="9AD8" sceneID="6C" modelAPointer="10648" modelBPointer="10700" />
+  <setup name="GL - TTC Entrance" pointer="9AE0" sceneID="6D" modelAPointer="10650" modelBPointer="10728" />
+  <setup name="GL - CC Entrance" pointer="9AF8" sceneID="70" modelAPointer="10670" modelBPointer="106D0" />
+  <setup name="GL - BGS Entrance" pointer="9B08" sceneID="72" modelAPointer="106A0" modelBPointer="10720" />
+  <setup name="GL - Lava Room" pointer="9B18" sceneID="74" modelAPointer="10680" modelBPointer="0" />
+  <setup name="GL - MMM Entrance" pointer="9B20" sceneID="75" modelAPointer="10688" modelBPointer="0" />
+  <setup name="GL - Floor 6 Water Switch Area" pointer="9B28" sceneID="76" modelAPointer="106A8" modelBPointer="106D8" />
+  <setup name="GL - RBB Entrance" pointer="9B30" sceneID="77" modelAPointer="106B0" modelBPointer="106E0" />
+  <setup name="GL - MMM Puzzle" pointer="9B38" sceneID="78" modelAPointer="106B8" modelBPointer="106E8" />
+  <setup name="GL - Coffin Room" pointer="9B48" sceneID="7A" modelAPointer="10690" modelBPointer="0" />
+  <setup name="GL - Path to Quiz show" pointer="9B78" sceneID="80" modelAPointer="106C8" modelBPointer="10738" />
+  <setup name="GL - Furnace Fun" pointer="9BE8" sceneID="8E" modelAPointer="105D8" modelBPointer="0" />
+  <setup name="GL - Boss" pointer="9BF8" sceneID="90" modelAPointer="10678" modelBPointer="10740" />
+  <setup name="CS - N Cube" pointer="9870" sceneID="1F" modelAPointer="10388" modelBPointer="10398" />
+  <setup name="CS - Intro" pointer="9868" sceneID="1E" modelAPointer="10380" modelBPointer="103A0" />
+  <setup name="CS - Game Select" pointer="9C00" sceneID="91" modelAPointer="0" modelBPointer="0" />
+  <setup name="CS - Going through Grunty's hallway, then to door!" pointer="9B50" sceneID="7B" modelAPointer="10710" modelBPointer="0" />
+  <setup name="CS - Tooty Running to Bottles" pointer="9B60" sceneID="7D" modelAPointer="10510" modelBPointer="10518" />
+  <setup name="CS - Banjo Sleeping" pointer="9B58" sceneID="7C" modelAPointer="103A8" modelBPointer="103B8" />
+  <setup name="CS - Grunty rides outside her lair" pointer="9BA8" sceneID="86" modelAPointer="10510" modelBPointer="10518" />
+  <setup name="CS - Tooty's being captured" pointer="9BC0" sceneID="89" modelAPointer="10510" modelBPointer="10518" />
+  <setup name="CS - Grunty running out door" pointer="9B80" sceneID="81" modelAPointer="10710" modelBPointer="0" />
+  <setup name="CS - Outside tower, thunder" pointer="9BA0" sceneID="85" modelAPointer="10510" modelBPointer="10518" />
+  <setup name="CS - Witch falling towards ground" pointer="9BB0" sceneID="87" modelAPointer="103C8" modelBPointer="0" />
+  <setup name="CS - Grunty hits ground" pointer="9BB8" sceneID="88" modelAPointer="10510" modelBPointer="10518" />
+  <setup name="CS - Mumbo's Barbaque" pointer="9C18" sceneID="94" modelAPointer="10510" modelBPointer="10518" />
+  <setup name="CS - Beach Ending - Have 100 Jiggies" pointer="9C20" sceneID="95" modelAPointer="103E0" modelBPointer="103C0" />
+  <setup name="CS - Beach, about to show cast list" pointer="9C28" sceneID="96" modelAPointer="103E0" modelBPointer="103C0" />
+  <setup name="CS - Beach, - after Pictures" pointer="9C30" sceneID="97" modelAPointer="103E0" modelBPointer="103C0" />
+  <setup name="CS - Klungo Cant move Boulder w/out 100 Jiggies" pointer="9C38" sceneID="98" modelAPointer="10390" modelBPointer="103B0" />
+  <setup name="CS - Klungo Cant Move Boulder w/ 100 Jiggies" pointer="9C40" sceneID="99" modelAPointer="10390" modelBPointer="103B0" />
+  <setup name="CS - Beach Ending w/out 100 jiggies" pointer="9878" sceneID="20" modelAPointer="103E0" modelBPointer="103C0" />
+  <setup name="CS - Tooty and Grunty in machines" pointer="9B88" sceneID="82" modelAPointer="10710" modelBPointer="0" />
+  <setup name="CS - You lose" pointer="9B90" sceneID="83" modelAPointer="10710" modelBPointer="0" />
+  <!--setup name="?" pointer="9B68" sceneID="0" modelAPointer="0" modelBPointer="0" -->
+  <!--setup name="?" pointer="9B98" sceneID="84" modelAPointer="0" modelBPointer="0"  -->
+  <!--setup name="?? - Test house" pointer="9BC8" sceneID="8A" modelAPointer="0" modelBPointer="0"   -->
+</setups>

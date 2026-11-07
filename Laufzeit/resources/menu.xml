@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <menu name="Global" level="">
+    <submenu name="Actions">
+      <menuitem name="Start Climb" type=""/>
+      <menuitem name="End Climb" type=""/>
+      <menuitem name="End Climb Can't Go Higher" type=""/>
+    </submenu>
+    <submenu name="Characters">
+      <menuitem name="Mumbo" type=""/>
+      <menuitem name="Gloop" type=""/>
+      <menuitem name="Bottles" type=""/>
+    </submenu>
+    <submenu name="Collectibles">
+      <menuitem name="1-up" type=""/>
+      <menuitem name="Blubber's Gold" type=""/>
+      <menuitem name="Blue Egg" type="struct"/>
+      <menuitem name="Gold Feather" type="struct"/>
+      <menuitem name="Red Feather" type="struct"/>
+      <menuitem name="Blue Egg" type="struct"/>
+      <menuitem name="Honeycomb" type=""/>
+      <menuitem name="Empty Honeycomb" type=""/>
+      <menuitem name="Jiggy" type=""/>
+      <submenu name="Jinjos">
+        <menuitem name="Yellow Jinjo" type=""/>
+        <menuitem name="Orange Jinjo" type=""/>
+        <menuitem name="Blue Jinjo" type=""/>
+        <menuitem name="Green Jinjo" type=""/>
+        <menuitem name="Purple Jinjo" type=""/>
+      </submenu>
+      <menuitem name="Mumbo Token" type=""/>
+      <menuitem name="Note" type="struct"/>
+      <menuitem name="Orange" type=""/>
+      <submenu name="SNS">
+        <menuitem name="Ice Key" type=""/>
+        <menuitem name="SNS Egg" type=""/>
+      </submenu>
+    </submenu>
+    <submenu name="Enemies">
+      <menuitem name="Ticker" type=""/>
+      <menuitem name="Bee Hive" type=""/>
+      <menuitem name="Beetle" type=""/>
+      <menuitem name="Big Clucker" type=""/>
+      <menuitem name="Bull" type=""/>
+      <menuitem name="Chompa" type=""/>
+      <menuitem name="Floatsam" type=""/>
+      <menuitem name="Ice Cube" type=""/>
+      <menuitem name="Piranha Fish" type=""/>
+      <menuitem name="RIP Tombstone (Enemy)" type=""/>
+      <menuitem name="Sea Grublin" type=""/>
+      <menuitem name="Skeleton" type=""/>
+      <menuitem name="Shrapnel" type=""/>
+      <menuitem name="Snacker" type=""/>
+      <menuitem name="Mutant Snippet" type=""/>
+      <menuitem name="Snowman" type=""/>
+      <menuitem name="Mummy" type=""/>
+      <menuitem name="Tee-Hee" type=""/>
+      <menuitem name="Purple Tee-Hee" type=""/>
+      <menuitem name="Whip Crack" type=""/>
+      <menuitem name="Underwater Whip Crack" type=""/>     
+    </submenu>
+    <submenu name="Floors">
+      <menuitem name="Lava Floor" type=""/>
+    </submenu>
+    <submenu name="Shoes">
+      <menuitem name="Running Shoes" type=""/>
+      <menuitem name="Wading Boots" type=""/>
+    </submenu>
+    <submenu name="Witch Switches">
+      <menuitem name="Witch Switch (MM)" type=""/>
+      <menuitem name="Witch Switch (TTC)" type=""/>
+      <menuitem name="Witch Switch (CC)" type=""/>
+      <menuitem name="Witch Switch (BGS)" type=""/>
+      <menuitem name="Witch Switch (MMM)" type=""/>
+      <menuitem name="Witch Switch (FP)" type=""/>
+      <menuitem name="Witch Switch (GV)" type=""/>
+      <menuitem name="Witch Switch (RBB)" type=""/>
+      <menuitem name="Witch Switch (CCW)" type=""/>
+    </submenu> 
+    <submenu name="Trees">
+      <menuitem name="Conga's Tree" type="struct"/>
+      <menuitem name="SM Tree" type="struct"/>
+      <menuitem name="MM Tree" type="struct"/>
+      <menuitem name="TTC Tree" type="struct"/>
+      <menuitem name="GV Tree" type="struct"/>
+      <menuitem name="Climbable SM Tree" type=""/>
+      <menuitem name="Climbable MM Tree" type=""/>
+      <menuitem name="Climbable TTC Tree" type=""/>
+      <menuitem name="Climbable GV Tree" type=""/>
+    </submenu>
+    <submenu name="Mumbo Pads and Transfromations">
+      <menuitem name="Mumbo Pad - Termite" type=""/>
+      <menuitem name="Mumbo Pad - Pumpkin" type=""/>
+      <menuitem name="Mumbo Pad - Crocodile" type=""/>
+      <menuitem name="Mumbo Pad - Walrus" type=""/>
+      <menuitem name="Mumbo Pad - Bee" type=""/>
+      <menuitem name="Pumpkin Transformation" type=""/>
+      <menuitem name="Croc Transformation" type=""/>
+      <menuitem name="Walrus Transformation" type=""/>
+      <menuitem name="Bee Transformation" type=""/>
+    </submenu>
+    <submenu name="Pads">
+      <menuitem name="Jump Pad" type=""/>      
+      <menuitem name="Flight Pad" type=""/>
+      <menuitem name="Warp Disk" type=""/>
+    </submenu>
+    <submenu name="Bottles Mound">
+      <menuitem name="Bottles Mound (Beak Bomb)" type=""/>
+      <menuitem name="Bottles Mound (Eggs)" type=""/>
+      <menuitem name="Bottles Mound (Beak Buster)" type=""/>
+      <menuitem name="Bottles Mound (Talon Trot)" type=""/>
+      <menuitem name="Bottles Mound (Spring Jump)" type=""/>
+      <menuitem name="Bottles Mound (Fly)" type=""/>
+      <menuitem name="Bottles Mound (Wonder Wing)" type=""/>
+      <menuitem name="Bottles Mound (Wading Boots)" type=""/>
+      <menuitem name="Bottles Mound (Running Shoes)" type=""/>
+      <menuitem name="Bottles Mound (Note Door)" type=""/>
+      </submenu>
+    <submenu name="Objects">      
+      <menuitem name="Gloop Bubbles" type=""/>
+      <menuitem name="RIP Tombstone" type=""/>
+      <menuitem name="School of Fish" type=""/>
+      <menuitem name="Vent" type=""/>
+      <menuitem name="Fire 2D" type="struct"/>
+      <submenu name="Flowers">
+        <menuitem name="Blue Flowers" type="struct"/>
+        <menuitem name="Red Flowers" type="struct"/>
+        <menuitem name="Yellow Red Flowers" type="struct"/>
+      </submenu>
+    </submenu>
+    <submenu name="Weather">
+      <menuitem name="Leaves Falling" type=""/>
+      <menuitem name="Rain" type=""/>
+      <menuitem name="Snow" type=""/>
+    </submenu>
+    <submenu name="Warping">
+      <menuitem name="Warp" type=""/>
+      <submenu name="Warp Entry Point">
+        <menuitem name="Entry Point 1" type=""/>
+        <menuitem name="Entry Point 2" type=""/>
+        <menuitem name="Entry Point 3" type=""/>
+        <menuitem name="Entry Point 4" type=""/>
+        <menuitem name="Entry Point 5" type=""/>
+        <menuitem name="Entry Point 6" type=""/>
+        <menuitem name="Entry Point 7" type=""/>
+        <menuitem name="Entry Point 8" type=""/>
+        <menuitem name="Entry Point 9" type=""/>
+        <menuitem name="Entry Point 10" type=""/>
+        <menuitem name="Entry Point 11" type=""/>
+        <menuitem name="Entry Point 12" type=""/>
+        <menuitem name="Entry Point 13" type=""/>
+        <menuitem name="Entry Point 14" type=""/>
+        <menuitem name="Entry Point 15" type=""/>
+        <menuitem name="Entry Point 16" type=""/>
+        <menuitem name="Entry Point 17" type=""/>
+        <menuitem name="Entry Point 18" type=""/>
+        <menuitem name="Entry Point 19" type=""/>
+      </submenu>
+      <menuitem name="Entry Point 1" type=""/>
+      <menuitem name="Warp To - Start of Level" type=""/>
+      <menuitem name="Place near warp, makes Banjo walk in" type=""/>
+    </submenu>
+    <menuitem name="Enemy Boundary" type=""/>
+    <menuitem name="Magic Boundary" type=""/>
+    <submenu name="Sound Effects">
+      <menuitem name="Reverb" type=""/>
+      <menuitem name="Sound Spawner: Waterfall" type=""/>
+      <menuitem name="Sound Spawner: Boiling Water" type=""/>
+      <menuitem name="Reverb" type=""/>
+    </submenu>
+    <submenu name="Emitters">
+      <menuitem name="Emitter: Green Bubbles" type=""/>
+      <menuitem name="Emitter: Snow Explosion" type=""/>
+      <menuitem name="Emitter: Green Smoke" type=""/>
+      <menuitem name="Emitter: White Smoke" type=""/>
+      <menuitem name="Emitter: Black Smoke" type=""/>
+      <menuitem name="Emitter: White Smoke (small)" type=""/>
+      <menuitem name="Emitter: Gray Smoke" type=""/>
+      <menuitem name="Emitter: Dust Cloud" type=""/>
+      <menuitem name="Emitter: Leaves" type=""/>
+      <menuitem name="Emitter: Green Balls" type=""/>
+	  <menuitem name="Emitter: Rising Green Smoke" type=""/>
+	  <menuitem name="Emitter: Outward Sparks" type=""/>
+	  <menuitem name="Emitter: Rocks" type=""/>
+    </submenu>
+    <submenu name="Camera Paths">
+      <menuitem name="Camera Release" type=""/>
+      <submenu name="Camera Path Triggers">
+        <menuitem name="Camera Path Trigger 1" type=""/>
+        <menuitem name="Camera Path Trigger 2" type=""/>
+        <menuitem name="Camera Path Trigger 3" type=""/>
+        <menuitem name="Camera Path Trigger 4" type=""/>
+        <menuitem name="Camera Path Trigger 5" type=""/>
+        <menuitem name="Camera Path Trigger 6" type=""/>
+        <menuitem name="Camera Path Trigger 7" type=""/>
+        <menuitem name="Camera Path Trigger 8" type=""/>
+        <menuitem name="Camera Path Trigger 9" type=""/>
+        <menuitem name="Camera Path Trigger 10" type=""/>
+        <menuitem name="Camera Path Trigger 11" type=""/>
+        <menuitem name="Camera Path Trigger 12" type=""/>
+        <menuitem name="Camera Path Trigger 13" type=""/>
+        <menuitem name="Camera Path Trigger 14" type=""/>
+        <menuitem name="Camera Path Trigger 15" type=""/>
+        <menuitem name="Camera Path Trigger 16" type=""/>
+        <menuitem name="Camera Path Trigger 17" type=""/>
+        <menuitem name="Camera Path Trigger 18" type=""/>
+        <menuitem name="Camera Path Trigger 19" type=""/>
+        <menuitem name="Camera Path Trigger 20" type=""/>
+      </submenu>
+      <submenu name="Camera Path Controllers">
+        <menuitem name="Cutscene Camera Controller" type=""/>
+        <menuitem name="Camera Controller 1" type=""/>
+        <menuitem name="Camera Controller 2" type=""/>
+        <menuitem name="Camera Controller 3" type=""/>
+        <menuitem name="Camera Controller 4" type=""/>
+        <menuitem name="Camera Controller 5" type=""/>
+        <menuitem name="Camera Controller 6" type=""/>
+        <menuitem name="Camera Controller 7" type=""/>
+        <menuitem name="Camera Controller 8" type=""/>
+        <menuitem name="Camera Controller 9" type=""/>
+        <menuitem name="Camera Controller 10" type=""/>
+        <menuitem name="Camera Controller 11" type=""/>
+        <menuitem name="Camera Controller 12" type=""/>
+        <menuitem name="Camera Controller 13" type=""/>
+        <menuitem name="Camera Controller 14" type=""/>
+        <menuitem name="Camera Controller 15" type=""/>
+        <menuitem name="Camera Controller 16" type=""/>
+        <menuitem name="Camera Controller 17" type=""/>
+        <menuitem name="Camera Controller 18" type=""/>
+        <menuitem name="Camera Controller 19" type=""/>
+        <menuitem name="Camera Controller 20" type=""/>
+      </submenu>
+    </submenu>
+  </menu>
+  <menu name="Grunty's Lair" level="Grunty's Lair">
+    <submenu name="Character">
+      <submenu name="Brentilda">
+        <menuitem name="Brentilda (GL 2)" type=""/>
+        <menuitem name="Brentilda (GL 3)" type=""/>
+        <menuitem name="Brentilda (GL CC)" type=""/>
+        <menuitem name="Brentilda (GL 4)" type=""/>
+        <menuitem name="Brentilda (GL BGS)" type=""/>
+        <menuitem name="Brentilda (GL 5)" type=""/>
+        <menuitem name="Brentilda (GL 6)" type=""/>
+        <menuitem name="Brentilda (GL Lava)" type=""/>
+        <menuitem name="Brentilda (GL MMM)" type=""/>
+        <menuitem name="Brentilda (GL CCW)" type=""/>
+        </submenu>
+      <submenu name="Cauldron">
+        <menuitem name="Cauldron Pipe Room" type=""/>
+        <menuitem name="Cauldron CCW Area" type=""/>
+        <menuitem name="Cauldron GL Floor 6" type=""/>
+        <menuitem name="Cauldron RBB Area" type=""/>
+      </submenu>
+      <submenu name="Cheato">
+        <menuitem name="Cheato 1" type=""/>
+        <menuitem name="Cheato 2" type=""/>
+        <menuitem name="Cheato 3" type=""/>
+      </submenu>
+      <menuitem name="Dingpot" type=""/>
+      <menuitem name="Grunty" type=""/>
+      <menuitem name="Tooty" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Dragon Fly" type=""/>
+      <menuitem name="Gruntling" type=""/>
+      <menuitem name="Gruntling 2" type=""/>
+      <menuitem name="Gruntling 3" type=""/>
+    </submenu>
+    <submenu name="Objects">
+      <submenu name="Doors | Gates">
+        <menuitem name="Note Door" type=""/>
+        <submenu name="Entance Doors">
+          <menuitem name="RBB Entrance Door" type=""/>
+          <menuitem name="BGS Entrance Door" type=""/>
+          <menuitem name="Entrance door to MM" type=""/>
+          <menuitem name="Big Iron Bars" type=""/>
+          <menuitem name="Big Iron Bars" type=""/>
+          <menuitem name="CCW Entrance Door" type=""/>
+          <menuitem name="FP Entrance Door" type=""/>
+          <menuitem name="FP Entrance Door 2" type=""/>
+          <menuitem name="GV Entrance Door" type=""/>
+        </submenu>
+        <menuitem name="Locked Gate" type=""/>
+        <submenu name="Green Drains">
+          <menuitem name="Green Drain" type=""/>
+          <menuitem name="Green Drain 2" type=""/>
+          <menuitem name="Green Drain 3" type=""/>
+        </submenu>
+        <menuitem name="Gate" type=""/>
+        <menuitem name="Hatch" type=""/>
+        <menuitem name="Iron Gate" type=""/>
+        <menuitem name="Chest Lid" type=""/>
+        <menuitem name="Big Iron Bars" type=""/>
+        <submenu name="Circular Grates">
+          <menuitem name="Circular Grate" type=""/>
+          <menuitem name="Circular Green Grate" type=""/>
+          <menuitem name="Circular Brown Grate" type=""/>
+        </submenu>
+        <menuitem name="Brick wall" type=""/>
+        <menuitem name="RBB Jigsaw grate" type=""/>
+        <menuitem name="Invisible Wall" type=""/>
+      </submenu>
+      <menuitem name="Rareware box" type=""/>
+      <submenu name="Cobwebs">
+        <menuitem name="Cobweb" type=""/>
+        <menuitem name="Big yellow cobweb" type=""/>
+      </submenu>
+      <menuitem name="Tomb" type=""/>
+      <menuitem name="Tomb Top" type=""/>
+      <submenu name="Machine Room">
+        <menuitem name="Machine Room booth" type=""/>
+        <menuitem name="Machine Room Console" type=""/>
+        <menuitem name="Machine Room Door" type=""/>
+      </submenu>
+      <submenu name="Switches">
+        <menuitem name="Grate Switch" type=""/>
+        <submenu name="Water Switches">
+          <menuitem name="Water Switch" type=""/>
+          <menuitem name="Water Switch 2" type=""/>
+          <menuitem name="Water Switch 3" type=""/>
+          <menuitem name="Water Level Switch" type=""/>
+        </submenu>
+        <menuitem name="Grunty eye switch" type=""/>
+        <menuitem name="Grunty eye switch 2" type=""/>
+        <menuitem name="Pipe Switch" type=""/>
+        <menuitem name="Pipe Switch 2" type=""/>
+        <menuitem name="CCW Switch" type=""/>
+        <menuitem name="Flying Pad Switch" type=""/>
+        <menuitem name="Shock Jump Switch" type=""/>
+      </submenu>
+      <menuitem name="Grunty Doll" type=""/>
+      <submenu name="Pipes">
+        <menuitem name="Tall Pipe" type=""/>
+        <menuitem name="Tall Pipe 2" type=""/>
+        <menuitem name="Pipe" type=""/>
+      </submenu>
+      <menuitem name="Phantom Glow" type=""/>
+      <menuitem name="Ice Ball" type=""/>
+      <menuitem name="Empty wooden coffin" type=""/>
+      <menuitem name="Furnace Fun Podium" type=""/>
+      <menuitem name="Washing machine Cauldron" type=""/>
+      <menuitem name="Jiggy Podium" type=""/>
+    </submenu>
+    <submenu name="Collectable Items">
+      <menuitem name="Blue Egg Upgrade" type=""/>
+      <menuitem name="Red Feather Upgrade" type=""/>
+      <menuitem name="Gold Feather Upgrade" type=""/>
+    </submenu>
+    <submenu name="Witch Switch Jiggies">
+      <menuitem name="Witch Switch Jiggy (MM)" type=""/>
+      <menuitem name="Witch Switch Jiggy (TTC)" type=""/>
+      <menuitem name="Witch Switch Jiggy (CC)" type=""/>
+      <menuitem name="Witch Switch Jiggy (MMM)" type=""/>
+      <menuitem name="Witch Switch Jiggy (RBB)" type=""/>
+      <menuitem name="Witch Switch Jiggy (CCW)" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Spiral Mountain" level="Spiral Mountain">
+    <menuitem name="SM Boulder" type=""/>
+    <menuitem name="Bawl"/>
+    <menuitem name="Cauliwobble" type=""/>
+    <menuitem name="Topper" type=""/>
+    <submenu name="Bottles Mound SM">
+      <menuitem name="Bottles Mound (Start)" type=""/>
+      <menuitem name="Bottles Mound (Camera)" type=""/>
+      <menuitem name="Bottles Mound (Swim)" type=""/>
+      <menuitem name="Bottles Mound (Claw Swipe)" type=""/>
+      <menuitem name="Bottles Mound (Beak Barge)" type=""/>
+      <menuitem name="Bottles Mound (Jump)" type=""/>
+      <menuitem name="Bottles Mound (Climb)" type=""/>
+      <menuitem name="Bottles Mound (Top)" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Mumbo's Mountain" level="Mumbo's Mountain">
+    <submenu name="Character">
+      <menuitem name="Chimpy" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Grublin" type=""/>
+      <menuitem name="Conga" type=""/>
+    </submenu>
+    <submenu name="Object">
+      <menuitem name="Ju-Ju" type=""/>
+      <menuitem name="Orange Pad" type=""/>
+      <menuitem name="MM Hut" type=""/>
+      <menuitem name="Chimpy's Tree Stump" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Treasure Trove Cove" level="Treasure Trove Cove">
+    <submenu name="Character">
+      <menuitem name="Leaky" type=""/>
+      <menuitem name="Blubber" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Black Snippet" type=""/>
+      <menuitem name="Yum-Yum" type=""/>
+      <menuitem name="Nipper's Shell" type=""/>
+      <menuitem name="Lockup" type=""/>
+      <menuitem name="Gold Chest" type=""/>
+    </submenu>
+    <submenu name="Object">
+      <submenu name="Crates">
+        <menuitem name="Light Crate" type="struct"/>
+        <menuitem name="Dark Crate" type="struct"/>
+        <menuitem name="Another Crate" type="struct"/>
+      </submenu>
+      <menuitem name="Lighthouse" type=""/>
+      <menuitem name="Sharkfood Island" type=""/>
+      <menuitem name="Red Arrow" type=""/>
+      <menuitem name="Red Cross" type=""/>
+      <menuitem name="Red Question Mark" type=""/>
+      <menuitem name="Hatch" type=""/>
+      <menuitem name="Stairs" type=""/>
+      <menuitem name="Stairs 2" type=""/>
+    </submenu>
+    <submenu name="Collectable Items">
+      <menuitem name="Blubber's Gold" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Clanker's Cavern" level="Clanker's Cavern">
+    <submenu name="Object">
+      <submenu name="Propellers">
+        <menuitem name="Black Propeller" type=""/>
+        <menuitem name="Propeller 2" type=""/>
+        <menuitem name="Propeller 3" type=""/>
+        <menuitem name="Propeller 4" type=""/>
+        <menuitem name="Propeller 5" type=""/>
+        <menuitem name="Propeller 6" type=""/>
+        <menuitem name="Propeller 7" type=""/>
+        <menuitem name="Propeller 8" type=""/>
+        <menuitem name="Propeller 9" type=""/>
+        <menuitem name="Propeller 10" type=""/>
+        <menuitem name="Propeller 11" type=""/>
+        <menuitem name="Propeller 12" type=""/>
+        </submenu>
+      <menuitem name="Big Key" type=""/>
+      <menuitem name="Screw" type=""/>
+      <menuitem name="Rock" type=""/>
+      <menuitem name="Green Drain" type=""/>
+      <menuitem name="Green Drain 2" type=""/>
+      <menuitem name="Green Drain 3" type=""/>
+      <menuitem name="Gold Tooth" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Bubblegloop Swamp" level="Bubblegloop Swamp">
+    <submenu name="Object">
+      <submenu name="BGS Egg">
+        <menuitem name="BGS Egg 1" type=""/>
+        <menuitem name="Egg 2" type=""/>
+        <menuitem name="Egg 3" type=""/>
+        <menuitem name="Egg 4" type=""/>
+      </submenu>
+      <submenu name="Tanktup Parts">
+        <menuitem name="Tanktup Leg 1" type=""/>
+        <menuitem name="Tanktup Leg 2" type=""/>
+        <menuitem name="Tanktup Leg 3" type=""/>
+      </submenu>
+      <submenu name="Croctus">
+        <menuitem name="Croctus 1" type=""/>
+        <menuitem name="Croctus 2" type=""/>
+        <menuitem name="Croctus 3" type=""/>
+        <menuitem name="Croctus 4" type=""/>
+        <menuitem name="Croctus 5" type=""/>
+      </submenu>
+      <menuitem name="Big Alligator" type=""/>
+      <menuitem name="Red Yumblie" type=""/>
+      <menuitem name="Yumblie" type=""/>
+      <menuitem name="Leaf" type=""/>
+      <menuitem name="Green Jiggy Switch" type=""/>
+      <menuitem name="Destroyed Jiggy" type=""/>
+      <menuitem name="BGS Hut" type=""/>
+    </submenu>
+    <submenu name="Character">
+      <menuitem name="Choir Member" type=""/>
+      <menuitem name="Mr. Vile" type=""/>
+      <menuitem name="Tiptup" type=""/>
+      <menuitem name="Tanktup" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Dragon Fly" type=""/>
+      <menuitem name="Flibbit" type=""/>
+      <menuitem name="Yellow Flibbit" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Freezeezy Peak" level="Freezeezy Peak">
+    <submenu name="Character">
+      <submenu name="Polar bear kids">
+        <menuitem name="Polar bear kid 1" type=""/>
+        <menuitem name="Polar bear kid 2" type=""/>
+        <menuitem name="Polar bear kid 3" type=""/>
+      </submenu>
+      <menuitem name="Boggy on Sled" type=""/>
+      <menuitem name="Wozza" type=""/>
+    </submenu>
+    <submenu name="Object">
+      <menuitem name="House" type=""/>
+      <menuitem name="Boggy's Igloo" type=""/>
+      <submenu name="Twinkly">
+        <menuitem name="Blue Twinkly" type=""/>
+        <menuitem name="Green Twinkly" type=""/>
+        <menuitem name="Orange Twinkly" type=""/>
+        <menuitem name="Red Twinkly" type=""/>
+        <menuitem name="Twinkly Box" type=""/>
+      </submenu>
+      <menuitem name="Christmas Present Stack" type=""/>
+      <menuitem name="Blue Present (static)" type=""/>
+      <menuitem name="Green Present (static)" type=""/>
+      <menuitem name="Red Present (static)" type=""/>
+      <menuitem name="Snowy Bridge" type=""/>
+      <menuitem name="Snowy Bridge 2" type=""/>
+      <menuitem name="Snowy Bridge 3" type=""/>
+      <menuitem name="Frozen Mumbo Hut" type=""/>
+      <menuitem name="Snowball" type=""/>
+      <menuitem name="Snowman's Hat" type=""/>    
+    <submenu name="Ice Poles">
+      <menuitem name="Purple ice pole" type=""/>
+      <menuitem name="Green Ice Pole" type=""/>
+      <menuitem name="Big Ice Pole" type=""/>
+      <menuitem name="Ice Pole" type=""/>
+    </submenu>
+      <menuitem name="Christmas Tree" type=""/>
+      <menuitem name="Twinkly Muncher" type=""/>
+      <menuitem name="Race rostrum" type=""/>
+      <menuitem name="House chimney" type=""/>
+      <menuitem name="Piece of glass panel" type=""/>
+      <menuitem name="Piece of glass panel2" type=""/>
+      <submenu name="Sleds">
+        <menuitem name="Sled" type=""/>
+        <menuitem name="Sled 2" type=""/>
+      </submenu>
+      <menuitem name="Finish banner" type=""/>
+      <menuitem name="Start banner" type=""/>
+      <menuitem name="Ice Tree" type=""/>
+      <menuitem name="Bullseye" type=""/>
+      <menuitem name="Christmas Tree Switch" type=""/>
+    </submenu>
+    <submenu name="Collectable Item">
+      <menuitem name="Blue Present" type=""/>
+      <menuitem name="Green Present" type=""/>
+      <menuitem name="Red Present" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Snowman" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Gobi's Valley" level="Gobi's Valley">
+    <submenu name="Character">
+      <menuitem name="Gobi" type=""/>
+      <menuitem name="Gobi 2" type=""/>
+      <menuitem name="Gobi 3" type=""/>
+      <menuitem name="Rubee" type=""/>
+      <menuitem name="Histup" type=""/>
+      <menuitem name="Toots" type=""/>
+      <menuitem name="Trunker" type=""/>
+    </submenu>
+    <submenu name="Object">
+      <menuitem name="Magic Carpet" type=""/>
+      <menuitem name="Magic Carpet Triggered" type=""/>
+      <menuitem name="Sarcophagus" type=""/>
+      <menuitem name="Kazooie Target" type=""/>
+      <menuitem name="Pyramid" type=""/>
+      <menuitem name="Cactus" type=""/>
+      <menuitem name="Gobi's Rock" type=""/>
+      <menuitem name="Pot" type=""/>
+      <menuitem name="Star Hatch" type=""/>
+      <menuitem name="Sun Door" type=""/>
+      <menuitem name="Star Switch" type=""/>
+      <menuitem name="Sun Switch" type=""/>
+      <menuitem name="Banjo Door" type=""/>
+      <submenu name="Big Jinxy Head">
+        <menuitem name="Big Jinxy Head" type=""/>
+        <menuitem name="Big Jinxy Head 2" type=""/>
+        <menuitem name="Big Jinxy Head 3" type=""/>
+      </submenu>
+      <menuitem name="Jinxy" type=""/>
+      <menuitem name="Kazooie Door" type=""/>
+      <menuitem name="Kazooie Door 2" type=""/>
+      <menuitem name="Gold Honeycomb Switch" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Grey Slappa" type=""/>
+      <menuitem name="Purple Slappa" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Mad Monstrer Mansion" level="Mad Monstrer Mansion">
+    <submenu name="Character">
+      <menuitem name="Loggo" type=""/>
+      <menuitem name="Napper" type=""/>
+      <menuitem name="Motzand" type=""/>
+      <menuitem name="Tumblar" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Bat" type=""/>
+      <submenu name="Portrait Chompa">
+        <menuitem name="Portrait Chompa - Grunty" type=""/>
+        <menuitem name="Portrait Chompa - Blackeye" type=""/>
+        <menuitem name="Portrait Chompa - Tower" type=""/>
+        <menuitem name="Portrait Chompa - Tree" type=""/>
+        <menuitem name="Portrait Chompa - Ghouls" type=""/>
+        <menuitem name="Portrait Chompa - 3 Enemies" type=""/>
+      </submenu>
+      <menuitem name="Skeleton" type=""/>
+      <menuitem name="Tee-Hee" type=""/>
+      <menuitem name="Purple Tee-Hee" type=""/>
+      <menuitem name="RIP Tombstone" type=""/>
+    </submenu>
+    <submenu name="Object">
+      <submenu name="Doors | Gates">
+        <menuitem name="MMM - Main Door" type=""/>
+        <menuitem name="Secret X Barrel Top" type=""/>
+        <menuitem name="Normal Barrel Top" type=""/>
+        <menuitem name="MMM - Big Door" type=""/>
+        <menuitem name="Basement Door" type=""/>
+        <menuitem name="Locked Gate" type=""/>
+        <menuitem name="Gate" type=""/>
+        <menuitem name="Church Door" type=""/>
+        <menuitem name="Door" type=""/>
+        <submenu name="Windows">
+          <menuitem name="Window" type=""/>
+          <menuitem name="Short Window" type=""/>
+          <menuitem name="Tall Window" type=""/>
+        </submenu>
+        <submenu name="Portraits">
+          <menuitem name="Portrait Grunty" type=""/>
+          <menuitem name="Portrait Blackeye" type=""/>
+          <menuitem name="Portrait Tower" type=""/>
+          <menuitem name="Portrait Tree" type=""/>
+          <menuitem name="Portrait Ghosts" type=""/>
+        </submenu>
+        <menuitem name="Cemetary Pot" type=""/>
+        <menuitem name="Clock Switch" type=""/>
+      </submenu>
+    </submenu>
+  </menu>
+  <menu name="Rusty Bucket Bay" level="Rusty Bucket Bay">
+    <submenu name="Character">
+      <menuitem name="Snorkel" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Floatsam" type=""/>
+      <submenu name="Kaboom">
+        <menuitem name="Kaboom Part 1" type=""/>
+        <menuitem name="Kaboom Part 2" type=""/>
+        <menuitem name="Kaboom Part 3" type=""/>
+        <menuitem name="Kaboom Part 4" type=""/>
+      </submenu>
+      <menuitem name="TNT Box Part 1" type=""/>
+      <menuitem name="TNT Box Part 2" type=""/>
+    </submenu>
+    <submenu name="Object">
+      <submenu name="Toxic Barrels">
+        <menuitem name="Toxic Barrel 1" type="struct"/>
+        <menuitem name="Toxic Barrel 2" type="struct"/>
+        <menuitem name="Toxic Barrel 3" type="struct"/>
+        <menuitem name="Yellow Toxic Barrel" type="struct"/>
+        <menuitem name="Toxic Barrel Effect" type=""/>
+      </submenu>
+      <submenu name="Propellers">
+        <menuitem name="RBB Propeller 1" type=""/>
+        <menuitem name="RBB Propeller 2" type=""/>
+        <menuitem name="RBB Propeller 3" type=""/>
+        <menuitem name="Ship Propeller" type=""/>        
+      </submenu>
+      <submenu name="Gold Whistles">
+        <menuitem name="Gold Whistle 1" type=""/>
+        <menuitem name="Gold Whistle 2" type=""/>
+        <menuitem name="Gold Whistle 3" type=""/>
+      </submenu>
+      <menuitem name="Anchorand Chain" type=""/>
+      <menuitem name="Safety Boat" type=""/>
+      <menuitem name="Bell Buoy" type=""/>
+      <menuitem name="Row Boat" type=""/>
+      <submenu name="Cogs">
+        <menuitem name="Grey Cog 1" type=""/>
+        <menuitem name="Grey Cog 2" type=""/>
+        <menuitem name="Grey Cog 3" type=""/>
+      </submenu>
+      <submenu name="Platforms">
+        <menuitem name="Spinning Platform 1" type=""/>
+        <menuitem name="Spinning Platform 2" type=""/>
+        <menuitem name="Spinning Platform 3" type=""/>
+      </submenu>
+      <submenu name="Switches">
+        <menuitem name="1 Switch" type=""/>
+        <menuitem name="2 Switch" type=""/>
+        <menuitem name="3 Switch" type=""/>
+        <menuitem name="Boat Propeller Switch" type=""/>
+        <menuitem name="Honeycomb Switch" type=""/>
+        <menuitem name="Anchor Switch" type=""/>
+        <menuitem name="Green Propeller Switch" type=""/>
+      </submenu>
+      <menuitem name="Skylights" type=""/>
+      <menuitem name="Rareware Flag Pole" type=""/>
+      <menuitem name="Pipe" type=""/>
+      <menuitem name="Steel Door" type=""/>
+      <submenu name="Shafts">
+        <menuitem name="Shaft 1" type=""/>
+        <menuitem name="Shaft 2" type=""/>
+        <menuitem name="Shaft 3" type=""/>
+      </submenu>
+      <menuitem name="Wooden Door" type=""/>
+    </submenu>
+    <submenu name="Action">
+      <menuitem name="Toll Both Event" type=""/>
+      <menuitem name="Jiggy Cage Button Event" type=""/>
+      <menuitem name="TNT Box Button Event" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Click Clock Wood" level="Click Clock Wood">
+    <submenu name="Character">
+      <menuitem name="Eyrie" type=""/>
+      <submenu name="Nabnut">
+        <menuitem name="Nabnut" type=""/>
+        <menuitem name="Nabnut 2" type=""/>
+        <menuitem name="Nabnut 3" type=""/>
+        <menuitem name="Nabnut 4" type=""/>
+      </submenu>
+      <menuitem name="Nabnut's Wife" type=""/>
+      <menuitem name="Big Eyrie" type=""/>
+      <submenu name="Gnawty">
+        <menuitem name="Gnawty" />
+        <menuitem name="Gnawty 2" />
+        <menuitem name="Gnawty 3" />
+      </submenu>
+      <menuitem name="Gobi" type=""/>
+      <menuitem name="Zubba" type=""/>
+    </submenu>
+    <submenu name="Object">
+      <menuitem name="Dead Venus Flytrap" type=""/>
+      <submenu name="Gnawty's House">
+        <menuitem name="Gnawty's Shelves" type=""/>
+        <menuitem name="Gnawty's House" type=""/>
+        <menuitem name="Gnawty's Bed" type=""/>
+      </submenu>
+      <menuitem name="Gnawty's Boulder" type=""/>
+      <menuitem name="Nabnut's Bed Covers" type=""/>
+      <menuitem name="Nabnut's Duvet" type=""/>
+      <submenu name="Nabnut's Parts">
+      </submenu>
+      <menuitem name="Acorn Mound" type=""/>
+      <menuitem name="Dead Beanstalk" type=""/>
+      <menuitem name="Lump of Honey" type=""/>
+      <menuitem name="Beanstalk" type=""/>
+      <menuitem name="'Z' Logo" type=""/>
+      <submenu name="Window">
+        <menuitem name="Nabnut's Window Spring" type=""/>
+        <menuitem name="Nabnut's Window Summer" type=""/>
+        <menuitem name="Nabnut's Window Winter" type=""/>
+      </submenu>
+      <menuitem name="Mumbo's Hut" type=""/>
+      <submenu name="Switches">
+        <menuitem name="Winter Switch" type=""/>
+        <menuitem name="Summer Switch" type=""/>
+        <menuitem name="Autumn Switch" type=""/>
+        <menuitem name="Spring Switch" type=""/>
+      </submenu>
+      <submenu name="Doors">
+        <menuitem name="Door" type=""/>
+        <menuitem name="Nabnut's Door" type=""/>
+        <menuitem name="Wooden Door" type=""/>
+      </submenu>
+      <menuitem name="Small Leaf" type=""/>
+      <menuitem name="Flat Board" type=""/>
+    </submenu>
+    <submenu name="Collectable Item">
+      <menuitem name="Caterpiller" type=""/>
+      <menuitem name="Acorn" type=""/>
+    </submenu>
+    <submenu name="Enemy">
+      <menuitem name="Dragon Fly" type=""/>
+      <menuitem name="Grublin Hood" type=""/>
+      <menuitem name="Venus Flytrap" type=""/>
+      <menuitem name="Zubba (Attacker)" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Final Battle" level="Final Battle">
+    <submenu name="Enemy">
+      <menuitem name="Grunty" type=""/>
+      <menuitem name="Grunty on Broomstick" type=""/>      
+    </submenu>
+    <submenu name="Object">
+      <menuitem name="Big Green Blast" type=""/>
+      <menuitem name="Fireball" type=""/>
+      <menuitem name="Green Blast" type=""/>
+      <menuitem name="Jinjonator Stand" type=""/>
+      <menuitem name="Jinjo Stand" type=""/>
+    </submenu>
+    <submenu name="Character">
+      <menuitem name="Jinjonator" type=""/>
+    </submenu>
+  </menu>
+  <menu name="Cutscene" level="Cutscene">
+    <menuitem name="Concert Banjo and Kazooie" type=""/>
+    <menuitem name="Concert Mumbo" type=""/>
+    <menuitem name="Concert Tooty" type=""/>
+    <menuitem name="Concert Bull" type=""/>
+    <menuitem name="Concert Frog" type=""/>
+    <menuitem name="Banjo Sleeping" type=""/>
+    <menuitem name="Kazooie Backpack Stand" type=""/>
+    <menuitem name="Sexy Grunty" type=""/>
+    <menuitem name="Ugly Tooty" type=""/>
+    <menuitem name="Banjo Cooking" type=""/>
+    <menuitem name="BBQ Mumbo" type=""/>
+    <menuitem name="BBQ" type=""/>
+    <menuitem name="Rareware Logo" type=""/>
+    <menuitem name="Nintendo Cube" type=""/>
+    <menuitem name="Klungo" type=""/>
+    <menuitem name="Tooty" type=""/>
+    <menuitem name="Grunty's Broomstick" type=""/>
+    <menuitem name="Grunty on Broomstick" type=""/>
+    <menuitem name="Dragon Fly" type=""/>
+    <menuitem name="Red Yumblie" type=""/>
+    <menuitem name="Dingpot" type=""/>
+    <menuitem name="Bat" type=""/>
+    <menuitem name="Banjo" type=""/>
+    <menuitem name="Lightning" type=""/>
+    <menuitem name="Blubber" type=""/>
+    <menuitem name="Rock" type=""/>
+    <menuitem name="Jiggy Cutout Board" type=""/>
+    <menuitem name="Bottles Mound" type=""/>
+  </menu>
+</root>

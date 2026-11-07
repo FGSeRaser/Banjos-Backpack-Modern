@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Original animation list compiled by TheEpicGamehero offsets by Skill -->
+<animations>
+  <animation id="0001" name="Banjo/Duck" offset="0" modelpointer="7900"/>
+  <animation id="0002" name="Banjo/Sneak" offset="2" modelpointer="7900"/>
+  <animation id="0003" name="Banjo/Walk" offset="4" modelpointer="7900"/>
+  <animation id="0004" name="X" offset="6" />
+  <animation id="0005" name="Banjo/Punch" offset="8" modelpointer="7900"/>
+  <animation id="0006" name="X" offset="A" />
+  <animation id="0007" name="Kazooie/Talon-Trot End" offset="C" modelpointer="7900"/>
+  <animation id="0008" name="Banjo/Jump" offset="E" modelpointer="7900"/>
+  <animation id="0009" name="Banjo/Die" offset="10" modelpointer="7900"/>
+  <animation id="000a" name="Banjo/Climb" offset="12" modelpointer="7900"/>
+  <animation id="000b" name="Banjo/Sneak (Unused?)" offset="" modelpointer="7900">
+  <animation id="000c" name="Banjo/Run" offset="16" modelpointer="7900"/>
+  <!--animation id="000d" name="X" offset="0x18" -->
+  <animation id="000e" name="Banjo/Skid" offset="1A" modelpointer="7900"/>
+  <animation id="000f" name="Banjo/Collision Backflip" offset="" modelpointer="7900">
+  <animation id="0010" name="Bull/Charge(bull)" offset="1E" modelpointer="7930,7938"/>
+  <animation id="0011" name="Banjo-GoldFeather/Run" offset="20" modelpointer="7900"/>
+  <animation id="0012" name="X" offset="22" />
+  <animation id="0013" name="X" offset="24" />
+  <animation id="0014" name="X" offset="26" />
+  <animation id="0015" name="Kazooie/TalonTrot Walk" offset="28" modelpointer="7900"/>
+  <animation id="0016" name="Kazooie/TalonTrot Start" offset="2A" modelpointer="7900"/>
+  <animation id="0017" name="Kazooie/Breee Loop" offset="2C" modelpointer="7900"/>
+  <animation id="0018" name="Kazooie/Breeeee Start" offset="2E" modelpointer="7900"/>
+  <animation id="0019" name="Kazooie/Rattatat Loop" offset="30" modelpointer="7900"/>
+  <animation id="001a" name="Kazooie/Rattatat StartEnd" offset="32" modelpointer="7900"/>
+  <animation id="001b" name="Banjo/GoldFeather Jump?" offset="34" modelpointer="7900"/>
+  <animation id="001c" name="Kazooie/Beak-Barge" offset="36" modelpointer="7900"/>
+  <animation id="001d" name="Kazooie/Beak Buster" offset="38" modelpointer="7900"/>
+  <animation id="001e" name="X" offset="3A" />
+  <animation id="001f" name="X" offset="3C" />
+  <animation id="0020" name="X" offset="3E" />
+  <animation id="0021" name="Bull/Skid" offset="40" modelpointer="7930,7938"/>
+  <animation id="0022" name="Banjo/GoldFeather Start" offset="42" modelpointer="7900"/>
+  <animation id="0023" name="Banjo/GoldFeather Idle" offset="44" modelpointer="7900"/>
+  <animation id="0024" name="Yum-Yum/Hop" offset="4C" modelpointer="7920"/>
+  <animation id="0025" name="X" offset="52" />
+  <animation id="0026" name="Kazooie/TalonTrot Idle" offset="54" modelpointer="7900"/>
+  <animation id="0027" name="Kazooie/TalonTrot Jump" offset="56" modelpointer="7900"/>
+  <animation id="0028" name="TermiteBanjo/Hurt" offset="" modelpointer="7910"/>
+  <animation id="0029" name="TermiteBanjo/Die" offset="" modelpointer="7910"/>
+  <animation id="002a" name="Kazooie/Egg-Shoot" offset="5C" modelpointer="7900"/>
+  <animation id="002b" name="Kazooie/Egg-Poot" offset="5E" modelpointer="7900"/>
+  <animation id="002c" name="Snippet/Walk" offset="60" modelpointer="7958,89C8"/>
+  <animation id="002d" name="Jinjo/Whistle" offset="62" pointer="7C70,7C78,7C98,7CA0,7CA8"/>
+  <animation id="002e" name="Banjo/Jiggy-Jig" offset="" modelpointer="7900"/>
+  <animation id="002f" name="Jinjo/HELP" offset="66" pointer="7C70,7C78,7C98,7CA0,7CA8"/>
+  <animation id="0030" name="GrippedJiggy/Jiggy-Jig" offset="" modelpointer="7900"/>
+  <animation id="0031" name="Jinjo/Hop" offset="6A" pointer="7C70,7C78,7C98,7CA0,7CA8"/>
+  <animation id="0032" name="Bull/Attack" offset="6C" modelpointer="7930,7938"/>
+  <animation id="0033" name="Bull/Eating" offset="6E" modelpointer="7930,7938"/>
+  <animation id="0034" name="Bull/Beta Defeat" offset="70" modelpointer="7930,7938"/>
+  <animation id="0035" name="Bull/Prepare Attack" offset="72" modelpointer="7930,7938"/>
+  <animation id="0036" name="Bull/Walk(bull)" offset="74" modelpointer="7930,7938"/>
+  <animation id="0037" name="X" offset="76" />
+  <animation id="0038" name="Banjo/Flying" offset="78" modelpointer="7900"/>
+  <animation id="0039" name="Banjo/Swim (Surface)" offset="7A" modelpointer="7900"/>
+  <animation id="003a" name="X" offset="7C" />
+  <animation id="003b" name="X" offset="7E" />
+  <animation id="003c" name="BanjoKazooie/Go underwater (Start)" offset="80" modelpointer="7900"/>
+  <animation id="003d" name="BanjoKazooie/Shock-Spring(Start?)" offset="82" modelpointer="7900"/>
+  <animation id="003e" name="BanjoKazooieFlying/CRASH on ground" offset="84" modelpointer="7900"/>
+  <animation id="003f" name="BanjoKazooieUnderwater/Kazooie swim" offset="86" modelpointer="7900"/>
+  <animation id="0040" name="Kazooie-WadingBoots/Start" offset="88" modelpointer="7900"/>
+  <animation id="0041" name="Kazooie-WadingBoots/Idle" offset="8A" modelpointer="7900"/>
+  <animation id="0042" name="Kazooie-WadingBoots/Walk" offset="8C" modelpointer="7900"/>
+  <animation id="0043" name="BanjoKazooie-Flying/PRECharge" offset="8E" modelpointer="7900"/>
+  <animation id="0044" name="Running-Shoe-Kazooie/" offset="90" modelpointer="7900"/>
+  <animation id="0045" name="BanjoKazooieFlying/Start" offset="92" modelpointer="7900"/>
+  <animation id="0046" name="X" offset="94" />
+  <animation id="0047" name="BanjoKazooieFlying/CHARGE Attack" offset="96" modelpointer="7900"/>
+  <animation id="0048" name="BanjoKazooie/ShockSpring Start" offset="98" modelpointer="7900"/>
+  <animation id="0049" name="BanjoKazooie/ShockSpring Jump" offset="9A" modelpointer="7900"/>
+  <animation id="004a" name="X" offset="9C" />
+  <animation id="004b" name="Banjo/Backflip" offset="9E" modelpointer="7900"/>
+  <animation id="004c" name="Banjo/Backflip (MilsecondsBeforeFall)" offset="A0" modelpointer="7900"/>
+  <animation id="004d" name="Banjo/Hurt" offset="A2" modelpointer="7900"/>
+  <animation id="004e" name="MMHut/Smash" offset="A4" modelpointer="9D50"/>
+  <animation id="004f" name="Banjo/Splash In Water" offset="A6" modelpointer="7900"/>
+  <animation id="0050" name="X" offset="A8" />
+  <animation id="0051" name="Conga/Idle" offset="AA" modelpointer="7978"/>
+  <animation id="0052" name="Conga/Hit" offset="AC" modelpointer="7978"/>
+  <animation id="0053" name="Conga/Lost" offset="AE" modelpointer="7978"/>
+  <animation id="0054" name="Conga/Throw Down" offset="B0" modelpointer="7978"/>
+  <animation id="0055" name="Conga/Beat Chest" offset="B2" modelpointer="7978"/>
+  <animation id="0056" name="Conga/BeatCStart" offset="B4" modelpointer="7978"/>
+  <animation id="0057" name="Banjo/SwimIdle" offset="B6" modelpointer="7900"/>
+  <animation id="0058" name="Banjo/SwimIdle2" offset="B8" modelpointer="7900"/>
+  <animation id="0059" name="Banjo/Sliding-On-Bum" offset="BA" modelpointer="7900"/>
+  <animation id="005a" name="Banjo/Sliding-On-Belly" offset="BC" modelpointer="7900"/>
+  <animation id="005b" name="Chimpy/Hop" offset="BE" modelpointer="7980"/>
+  <animation id="005c" name="Chimpy/Idle" offset="C0" modelpointer="7980"/>
+  <animation id="005d" name="Chimpy/Walk" offset="C2" modelpointer="7980"/>
+  <animation id="005e" name="Ticker/Idle (ant)" offset="C4" modelpointer="7918"/>
+  <animation id="005f" name="Ticker/Walk" offset="C6" modelpointer="7918"/>
+  <animation id="0060" name="TermiteBanjo/Jump" offset="C8" modelpointer="7910"/>
+  <animation id="0061" name="Banjo/AfterBackflip (falling)" offset="CA" modelpointer="7900"/>
+  <animation id="0062" name="Grublin/Walk" offset="CC" modelpointer="7CC0"/>
+  <animation id="0063" name="Grublin/Sneak" offset="CE" modelpointer="7CC0"/>
+  <animation id="0064" name="Grublin/Jump (sees you)" offset="D0" modelpointer="7CC0"/>
+  <animation id="0065" name="BeeHive/Cushed" offset="D2" modelpointer="79B8"/>
+  <animation id="0066" name="Kazooie-TalonTrot/Hurt" offset="" modelpointer="7900"/>
+  <animation id="0067" name="WadingBoots/Hopping" offset="" modelpointer="79C8"/>
+  <animation id="0068" name="Banjo/FallingToDoom" offset="" modelpointer="7900"/>
+  <animation id="0069" name="Banjo/On Tublar" offset="" modelpointer="7900"/>
+  <animation id="006a" name="Mumbo/Sleep" offset="DC" modelpointer="7CC8" />
+  <animation id="006b" name="Mumbo/Wake" offset="DE" modelpointer="7CC8" />
+  <animation id="006c" name="Mumbo/Sitting" offset="E0" modelpointer="7CC8" />
+  <animation id="006d" name="Mumbo/TransformYou" offset="E2" modelpointer="7CC8" />
+  <animation id="006e" name="Mumbo?" offset="E4" modelpointer="7CC8" />
+  <animation id="006f" name="Banjo/Idle" offset="E6" modelpointer="7900"/>
+  <animation id="0070" name="BanjoKazooie/Idle (Underwater)" offset="E8" modelpointer="7900"/>
+  <animation id="0071" name="BanjoKazooie/Banjo little swim (Underwater)" offset="EA" modelpointer="7900"/>
+  <animation id="0072" name="Banjo/Stand (Carrying item)" offset="EC" modelpointer="7900"/>
+  <animation id="0073" name="Banjo/Walk (Carrying item)" offset="EE" modelpointer="7900"/>
+  <animation id="0074" name="X" offset="F0" />
+  <animation id="0075" name="X" offset="F2" />
+  <animation id="0076" name="GrippedJiggy/Before Jig" offset="F4" modelpointer="7900"/>
+  <animation id="0077" name="Banjo/Lose" offset="" modelpointer="7900">
+  <animation id="0078" name="Snacker/Swim" offset="FE" modelpointer="7C18"/>
+  <animation id="0079" name="ConcertMumbo/PlayingManyInstruments" offset="100" modelpointer="7C20"/>
+  <animation id="007a" name="ConcertBanjo/AngryAtMumbo+Doooh" offset="" modelpointer="7940">
+  <animation id="007b" name="ConcertBanjo/play" offset="104" modelpointer="7940"/>
+  <animation id="007c" name="ConcertBanjo/play end" offset="106" modelpointer="7940"/>
+  <animation id="007d" name="ConcertTooty/Playing (Start)" offset="108" modelpointer="7968"/>
+  <animation id="007e" name="ConcertBanjo/Start>PlayingBanjo>Lookattooty" offset="10A" modelpointer="7940"/>
+  <animation id="007f" name="ArmsSpreadOut,turningslowly (Cutscene Concert)" offset="10C" />
+  <animation id="0080" name="Grow real big, shrink till invisible ((Concert) Plays here and there) CutsceneTimer......" offset="10E" />
+  <animation id="0081" name="too small.. (Cutscene TimerPlaysthisbeforeLoad) (ConcertBugPlaysThisToo) (And Bottles)" offset="110" />
+  <animation id="0082" name="ConcertMumbo/Dance" offset="112" modelpointer="7C20"/>
+  <animation id="0083" name="Tooty/Dance" offset="114" modelpointer="7970"/>
+  <animation id="0084" name="ConcertMumbo/End" offset="116" modelpointer="7C20"/>
+  <animation id="0085" name="Tooty/Hopping" offset="118" modelpointer="7970"/>
+  <!--animation id="0086" name="X" offset="" />
+  <animation id="0087" name="X" offset="" />
+  <animation id="0088" name="X" offset="" />
+  <animation id="0089" name="X" offset="" />
+  <animation id="008a" name="X" offset="" />
+  <animation id="008b" name="X" offset="" -->
+  <animation id="008c" name="RarewareLogo/Appear>Fall" offset="126" modelpointer="7BD0"/>
+  <!--animation id="008d" name="X" offset="12A" />
+  <animation id="008e" name="X" offset="128" -->
+  <animation id="008f" name="NintendoLogo/Walk" offset="F8" modelpointer="7BC8"/>
+  <animation id="0090" name="NintendoLogo/LookAround>Shrug" offset="FA" modelpointer="7BC8"/>
+  <animation id="0091" name="ConcertFrog/Hop" offset="12C" modelpointer="79E0"/>
+  <animation id="0092" name="Shrapnel/Chasing (Bomb)" offset="" modelpointer="7DF8"/>
+  <animation id="0093" name="Tooty/Running" offset="12E" modelpointer="7970"/>
+  <animation id="0094" name="Grublin/Die" offset="" modelpointer="7CC0"/>
+  <animation id="0095" name="Kazooie/Annoy Banjo" offset="" modelpointer="7900"/>
+  <animation id="0096" name="Snippet/upsidedown (crab)" offset="" modelpointer="7958,89C8"/>
+  <animation id="0097" name="Snippet/hit" offset="" modelpointer="7958,89C8"/>
+  <animation id="0098" name="what.... move down-right, and nose grows." offset="130" />
+  <animation id="0099" name="X" offset="" />
+  <animation id="009a" name="Ripper/Appear (RIP Gravestone)" offset="" modelpointer="7CE0"/>
+  <animation id="009b" name="Ripper/Walk" offset="" modelpointer="7CE0"/>
+  <animation id="009c" name="X" offset="" />
+  <animation id="009d" name="Nibbly/Flying(Bat)" offset="14A" modelpointer="7CE8"/>
+  <animation id="009e" name="Tee-hee/Idle" offset="" modelpointer="7CF0,89B8"/>
+  <animation id="009f" name="Tee-hee/Sees you" offset="" modelpointer="7CF0,89B8"/>
+  <animation id="00a0" name="PumpkinBanjo/Idle+WalkBounce" offset="" modelpointer="7A10"/>
+  <animation id="00a1" name="Pumpkin/Jump" offset="" modelpointer="7A10"/>
+  <animation id="00a2" name="Conga/(Hard throw)" offset="" modelpointer="7978"/>
+  <animation id="00a3" name="Napper/Sleeping" offset="" modelpointer="8988"/>
+  <animation id="00a4" name="Napper/Lookaround" offset="" modelpointer="8988"/>
+  <animation id="00a5" name="Napper/(Wakes up In fear)" offset="" modelpointer="8988"/>
+  <animation id="00a6" name="Napper/Sees you" offset="" modelpointer="8988"/>
+  <animation id="00a7" name="Motzhand/Idle" offset="" modelpointer="A2F8"/>
+  <animation id="00a8" name="Motzhand/Push Key" offset="" modelpointer="A2F8"/>
+  <animation id="00a9" name="Flowerpot/Flowers appear" offset="" modelpointer="7C08"/>
+  <animation id="00aa" name="Yum-yum/Idle" offset="" modelpointer="7920"/>
+  <animation id="00ab" name="Yum-yum/Eating" offset="" modelpointer="7920"/>
+  <animation id="00ac" name="Tee-hee/Chases you (Ghost)" offset="" modelpointer="7CF0,89B8"/>
+  <animation id="00ad" name="Nibbly/BeginFlight (Bat)" offset="14C" modelpointer="7CE8"/>
+  <animation id="00ae" name="Nibbly/Upsidedown (Bat Idle)" offset="148" modelpointer="7CE8"/>
+  <animation id="00af" name="X" offset="" />
+  <animation id="00b0" name="BanjoFalling (not to doom)" offset="" modelpointer="7900"/>
+  <animation id="00b1" name="Banjo/Climb (Idle)" offset="" modelpointer="7900"/>
+  <animation id="00b2" name="Banjo/climb freeze" offset="" modelpointer="7900"/>
+  <animation id="00b3" name="Piranna/Swim" offset="" modelpointer="79F0"/>
+  <animation id="00b4" name="Piranna/Bite" offset="" modelpointer="79F0"/>
+  <animation id="00b5" name="Blubber/Sad Walk" offset="" modelpointer="7A18"/>
+  <animation id="00b6" name="Blubber/Crying" offset="" modelpointer="7A18"/>
+  <animation id="00b7" name="Blubber/HappyDance" offset="" modelpointer="7A18"/>
+  <animation id="00b8" name="Blubber/RunHappy" offset="" modelpointer="7A18"/>
+  <animation id="00b9" name="Banjo/Drown" offset="" modelpointer="7900"/>
+  <animation id="00ba" name="X" offset="" />
+  <animation id="00bb" name="X" offset="" />
+  <animation id="00bc" name="TreasureChestLockup/Open+Close" offset="" modelpointer="7D38"/>
+  <animation id="00bd" name="Nipper/Tired" offset="" modelpointer="7D40"/>
+  <animation id="00be" name="Nipper/Hurt" offset="" modelpointer="7D40"/>
+  <animation id="00bf" name="Nipper/Attack" offset="" modelpointer="7D40"/>
+  <animation id="00c0" name="Nipper/Idle" offset="" modelpointer="7D40"/>
+  <animation id="00c1" name="littlebounce" offset="" />
+  <animation id="00c2" name="wobblybounce" offset="" />
+  <animation id="00c3" name="Clanker/Idle" offset="" />
+  <animation id="00c4" name="Clanker/(Mouth open)" offset="" />
+  <animation id="00c5" name="Grabba/Appear" offset="" modelpointer="7A20"/>
+  <animation id="00c6" name="Grabba/Hide" offset="" modelpointer="7A20"/>
+  <animation id="00c7" name="Grabba/Idle" offset="" modelpointer="7A20"/>
+  <animation id="00c8" name="Grabba/Defeated" offset="" modelpointer="7A20"/>
+  <animation id="00c9" name="Gobi's Valley carpet" offset="" modelpointer="7D78"/>
+  <animation id="00ca" name="Gloop/Swim" offset="" modelpointer="7A28"/>
+  <animation id="00cb" name="Gloop/Bubble" offset="" modelpointer="7A28"/>
+  <animation id="00cc" name="BanjoKazooie/Finished Flying Attack" offset="" modelpointer="7900"/>
+  <animation id="00cd" name="Circular green grate near RBB... (4B1)" offset="" />
+  <animation id="00ce" name="Rubee/SnakeCharmer (Loop)" offset="" modelpointer="7D80"/>
+  <animation id="00cf" name="Histup/Up high (snake)" offset="" modelpointer="7D88"/>
+  <animation id="00d0" name="Histup/Rising up high" offset="" modelpointer="7D88"/>
+  <animation id="00d1" name="Histup/Hide" offset="" modelpointer="7D88"/>
+  <animation id="00d2" name="Banjo/(Get Up)" offset="" modelpointer="7900"/>
+  <animation id="00d3" name="BanjoKazooie/Ram into wall (Fly attack OW)" offset="" modelpointer="7900"/>
+  <animation id="00d4" name="Switch/Down" offset="" modelpointer="8650,8458,8080,83F0,8058,8010,7E40,83E0,83E8,8640,8648,7D50,7E98,8440,8428,8418,8658,8578,8740"/>
+  <animation id="00d5" name="Switch/Up" offset="" modelpointer="8650,8458,8080,83F0,8058,8010,7E40,83E0,83E8,8640,8648,7D50,7E98,8440,8428,8418,8658,8578,8740"/>
+  <animation id="00d6" name="RunningShoes" offset="" modelpointer="79D0"/>
+  <animation id="00d7" name="X" offset="" />
+  <animation id="00d8" name="molehill? (nope)" offset="" modelpointer="7AD8"/>
+  <animation id="00d9" name="Gobi/Idle" offset="" modelpointer="7D98"/>
+  <animation id="00da" name="Gobi/PullBack" offset="" modelpointer="7D98"/>
+  <animation id="00db" name="Flibbit/Hop" offset="" modelpointer="7A40,7AC0"/>
+  <animation id="00dc" name="Gobi's-Rope/Pull" offset="" modelpointer="7DB0"/>
+  <animation id="00dd" name="Gobi's-Rope/Idle" offset="" modelpointer="7DB0"/>
+  <animation id="00de" name="X" offset="" />
+  <animation id="00df" name="Rubee/Petting toots (GV)" offset="" modelpointer="7D80"/>
+  <animation id="00e0" name="CrocodileBanjo/Walk" offset="" modelpointer="7A38"/>
+  <animation id="00e1" name="CrocodileBanjo/Idle" offset="" modelpointer="7A38"/>
+  <animation id="00e2" name="Histup/Peek (snake)" offset="" modelpointer="7D88"/>
+  <animation id="00e3" name="Rubee/Sitting" offset="" modelpointer="7D80"/>
+  <animation id="00e4" name="Rubee/Playing snake charmer" offset="" modelpointer="7D80"/>
+  <animation id="00e5" name="GrabbaShadow/Spawn" offset="" />
+  <animation id="00e6" name="GrabbaShadow/Idle" offset="" />
+  <animation id="00e7" name="GrabbaShadow/Hide" offset="" />
+  <animation id="00e8" name="GrabbaShadow/Defeated" offset="" />
+  <animation id="00e9" name="Slappa/Spawn" offset="" modelpointer="7A48"/>
+  <animation id="00ea" name="Slappa/Moving (Purple Hand)" offset="" modelpointer="7A48"/>
+  <animation id="00eb" name="Slappa/Slap" offset="" modelpointer="7A48"/>
+  <animation id="00ec" name="Slappa/Get up" offset="" modelpointer="7A48"/>
+  <animation id="00ed" name="AncientOnes/Leave (And appear?)" offset="" />
+  <animation id="00ee" name="Slappa/Dies.. (Plays 0.001 seconds before he falls apart)" offset="" modelpointer="7A48"/>
+  <animation id="00ef" name="Slappa/Ouch?" offset="" modelpointer="7A48"/>
+  <animation id="00f0" name="Mini-Jinxy/Eat" offset="" modelpointer="7DC8"/>
+  <animation id="00f1" name="Square shadow... (Gobi's Valley)" offset="" />
+  <animation id="00f2" name="X" offset="" />
+  <animation id="00f3" name="X" offset="" />
+  <animation id="00f4" name="Gobi Relaxing" offset="" modelpointer="7D98"/>
+  <animation id="00f5" name="what the heck... (Gobi's valley?)" offset="" />
+  <animation id="00f6" name="Banjo/Punish Kazooie" offset="" modelpointer="7900"/>
+  <animation id="00f7" name="Happy/Gobi" offset="" modelpointer="7D98"/>
+  <animation id="00f8" name="Gobi/Run" offset="" modelpointer="7D98"/>
+  <animation id="00f9" name="Buzzbomb/Fly (cutscene dragonfly)" offset="136" modelpointer="7E00"/>
+  <animation id="00fa" name="Flibbit/Idle (Frog)" offset="" modelpointer="7A40,7AC0"/>
+  <animation id="00fb" name="Flibbit/Turning" offset="" modelpointer="7A40,7AC0"/>
+  <animation id="00fc" name="Gobi/Giving water" offset="" modelpointer="7D98"/>
+  <animation id="00fd" name="Gobi/Get up" offset="" modelpointer="7D98"/>
+  <animation id="00fe" name="Trunker/Short" offset="" modelpointer="7D90"/>
+  <animation id="00ff" name="Trunker/Grow" offset="" modelpointer="7D90"/>
+  <animation id="0100" name="blagh.noidea (Gobi's Water? 80387CBC)" offset="" />
+  <animation id="0101" name="Tanktup/LookAround" offset="" modelpointer="7E08"/>
+  <animation id="0102" name="Tanktup/OW" offset="" modelpointer="7E08"/>
+  <animation id="0103" name="Tanktup/BLLeg into body" offset="" modelpointer="7E08"/>
+  <animation id="0104" name="Tanktup/FLLeg into body" offset="" modelpointer="7E08"/>
+  <animation id="0105" name="Tanktup/FRLeg into body" offset="" modelpointer="7E08"/>
+  <animation id="0106" name="Tanktup/BRLeg into body" offset="" modelpointer="7E08"/>
+  <animation id="0107" name="Tanktup/MouthOpen" offset="" modelpointer="7E08"/>
+  <animation id="0108" name="SirSlush/Idle (Snowman bouncing)" offset="" modelpointer="7A50"/>
+  <animation id="0109" name="SirSlush/Attack" offset="" modelpointer="7A50"/>
+  <animation id="010a" name="anifreeze" offset="" />
+  <animation id="010b" name="???? debrie?" offset="" />
+  <animation id="010c" name="Banjo/Duck (turning)" offset="" modelpointer="7900"/>
+  <animation id="010d" name="Banjo/Flying (Hit)" offset="" modelpointer="7900"/>
+  <animation id="010e" name="Buzzbomb/Prepare charge" offset="138" modelpointer="7E00"/>
+  <animation id="010f" name="Buzzbomb/Charge" offset="13A" modelpointer="7E00"/>
+  <animation id="0110" name="Buzzbomb/FallingFromSky (Concert Cutscene)" offset="13E" />
+  <animation id="0111" name="Buzzbomb/Dead" offset="" modelpointer="7E00"/>
+  <animation id="0112" name="Flibbit/Die (Start) (Frog)" offset="" modelpointer="7A40,7AC0"/>
+  <animation id="0113" name="Flibbit/Die (Finish)" offset="" modelpointer="7A40,7AC0"/>
+  <animation id="0114" name="X" offset="" />
+  <animation id="0115" name="X" offset="" />
+  <animation id="0116" name="Banjo/Look around (while ducking)" offset="" modelpointer="7900"/>
+  <animation id="0117" name="jellyish... slowly get stronger." offset="" />
+  <animation id="0118" name="X" offset="" />
+  <animation id="0119" name="X" offset="" />
+  <animation id="011a" name="X" offset="" />
+  <animation id="011b" name="Banjo/givethrow? (confirm)" offset="" modelpointer="7900"/>
+  <animation id="011c" name="CrocodileBanjo/Jump" offset="" modelpointer="7A38"/>
+  <animation id="011d" name="CrocodileBanjo/Hurt" offset="" modelpointer="7A38"/>
+  <animation id="011e" name="CrocodileBanjo/Die" offset="" modelpointer="7A38"/>
+  <animation id="011f" name="WalrusBanjo/Idle" offset="" modelpointer="7960"/>
+  <animation id="0120" name="WalrusBanjo/Hop" offset="" modelpointer="7960"/>
+  <animation id="0121" name="WalrusBanjo/Jump" offset="" modelpointer="7960"/>
+  <animation id="0122" name="CrocodileBanjo/Bite" offset="" modelpointer="7A38"/>
+  <animation id="0123" name="CrocodileBanjo/GrossedOut" offset="" modelpointer="7A38"/>
+  <animation id="0124" name="MrVile/Eating" offset="" modelpointer="7A30"/>
+  <animation id="0125" name="RedYumblie/Spawn" offset="" modelpointer="7E48"/>
+  <animation id="0126" name="RedYumblie/Leave" offset="" modelpointer="7E48"/>
+  <animation id="0127" name="RedYumlie/Idle" offset="" modelpointer="7E48"/>
+  <animation id="0128" name="YellowGrumblie/Spawn" offset="" modelpointer="7E50"/>
+  <animation id="0129" name="YellowGrumbie/Leave" offset="" modelpointer="7E50"/>
+  <animation id="012a" name="YellowGrumblie/Idle" offset="" modelpointer="7E50"/>
+  <animation id="012b" name="Tiptup/look around, shrug" offset="" modelpointer="7E58"/>
+  <animation id="012c" name="Tiptup/Tap" offset="" modelpointer="7E58"/>
+  <animation id="012d" name="Choir/Idle" offset="" modelpointer="7E60"/>
+  <animation id="012e" name="Choir/Sing" offset="" modelpointer="7E60"/>
+  <animation id="012f" name="Choir/Ouch!" offset="" modelpointer="7E60"/>
+  <animation id="0130" name="Jinjo/Fly start" offset="" modelpointer="7C70,7C78,7C98,7CA0,7CA8"/>
+  <animation id="0131" name="Jinjo/Fly end" offset="" modelpointer="7C70,7C78,7C98,7CA0,7CA8"/>
+  <animation id="0132" name="Floatsam/Bounce" offset="" modelpointer="7EA0"/>
+  <animation id="0133" name="Nipper/Die" offset="" modelpointer="7D40"/>
+  <animation id="0134" name="nose move slightly, bodyrotateforward." offset="" />
+  <animation id="0135" name="nose move slightly, bodymovedownward." offset="" />
+  <animation id="0136" name="X" offset="" />
+  <animation id="0137" name="Grimlet/ATTACK (evil pipe)" offset="" modelpointer="7F60"/>
+  <animation id="0138" name="TextboxShadow/Animate (Begin/End)" offset="" />
+  <animation id="0139" name="Bottles/Going in hole" offset="158" modelpointer="7AD0"/>
+  <animation id="013a" name="Bottles/Out of hill" offset="154" modelpointer="7AD0"/>
+  <animation id="013b" name="Bottles/Idle (He's Got Flees!!!)" offset="156" modelpointer="7AD0"/>
+  <animation id="013c" name="MoleHole/(Bottles going in)" offset="15C" modelpointer="7AD8"/>
+  <animation id="013d" name="MoleHole/(Bottles coming out)" offset="15A" modelpointer="7AD8"/>
+  <animation id="013e" name="Snorkel/Swim" offset="" modelpointer="7F78"/>
+  <animation id="013f" name="Snorkel/Stuck" offset="" modelpointer="7F78"/>
+  <animation id="0140" name="jellygarbage. (Whipcrack? =P)" offset="" modelpointer="8680,8028"/>
+  <animation id="0141" name="Anchor/OnSnorkel" offset="" modelpointer="7F80"/>
+  <animation id="0142" name="Anchor/RiseUpward" offset="" modelpointer="7F80"/>
+  <animation id="0143" name="nose moveupslightly (Switch?)" offset="" />
+  <animation id="0144" name="Jinxy/Sniff" offset="" modelpointer="7FA8"/>
+  <animation id="0145" name="Jinxy/Sneeze" offset="" modelpointer="7FA8"/>
+  <animation id="0146" name="BossBoomBox/Piece together" offset="" modelpointer="7FD8"/>/>
+  <animation id="0147" name="Boombox/Hop (Boom Crate Box)" offset="" modelpointer="7FD8,82F8"/>/>
+  <animation id="0148" name="Boombox/Explode" offset="" modelpointer="7FD8,82F8"/>/>
+  <animation id="0149" name="Banjo/LandHardOnGround" offset="" modelpointer="7900"/>
+  <animation id="014a" name="Banjo/Listening" offset="" modelpointer="7900"/>
+  <animation id="014b" name="Croctus Mouth Open-Close" offset="" modelpointer="7FC0"/>
+  <animation id="014c" name="Boggy/Idle" offset="" modelpointer="7AE8"/>
+  <animation id="014d" name="Boggy/HitBySled" offset="" modelpointer="7AE8"/>
+  <animation id="014e" name="Boggy/LayingDown (Ate jiggy)" offset="" modelpointer="7AE8"/>
+  <animation id="014f" name="Boggy/Run" offset="" modelpointer="7AE8"/>
+  <animation id="0150" name="Boggy/OnSled" offset="" modelpointer="7AE8"/>
+  <animation id="0151" name="RaceFlag/Hit" offset="" />
+  <animation id="0152" name="RaceFlag/Normal" offset="" />
+  <animation id="0153" name="GoldChest/Spawn" offset="" modelpointer="7FF8"/>/>
+  <animation id="0154" name="Snacker/Eat (shark)" offset="" modelpointer="7C18"/>
+  <animation id="0155" name="Snippet/Get Up (crab)" offset="" modelpointer="7958,89C8"/>
+  <animation id="0156" name="MutieSnippet/Walk" offset="" modelpointer="7958,89C8"/>
+  <animation id="0157" name="MutieSnippet/Flip upside down" offset="" modelpointer="7958,89C8"/>
+  <animation id="0158" name="MutieSnippet/Stuck upside down" offset="" modelpointer="7958,89C8"/>
+  <animation id="0159" name="MutieSnippet/Get up" offset="" modelpointer="7958,89C8"/>
+  <animation id="015a" name="GrilleChompa/Attack" offset="" modelpointer="8018"/>
+  <animation id="015b" name="GrilleChompa/Die" offset="" modelpointer="8018"/>
+  <animation id="015c" name="Whiplash/Idle" offset="" modelpointer="8680,8028"/>
+  <animation id="015d" name="Whiplash/Attack" offset="" modelpointer="8680,8028"/>
+  <animation id="015e" name="inground.. Startcutscne" offset="134" />
+  <animation id="015f" name="ConcertBanjo/BeforeStart (Keeps him  off screen)" offset="13C" modelpointer="7940"/>
+  <animation id="0160" name="ConcertBug/Crawling" offset="142" modelpointer="7B58"/>
+  <animation id="0161" name="?" offset="132" />
+  <animation id="0162" name="Toots/Petted (Speak)" offset="" modelpointer="8038"/>
+  <animation id="0163" name="Cutscene Buzzbomb/SMACK" offset="140" modelpointer="7E00"/>
+  <animation id="0164" name="rotatetowardground+nosegrowning and shrinking. (Toots/Happy?)" offset="" modelpointer="8038"/>
+  <animation id="0165" name="BeeHive Idle (Bouncing)" offset="" modelpointer="79B8"/>
+  <animation id="0166" name="Gold Chest Bouncing" offset="" />
+  <animation id="0167" name="Banjo/MoveVeryLittle (used in small cutscenes)" offset="" />
+  <animation id="0168" name="twisted, nose really tiny. (BeforeRareLogoAppears)" offset="" />
+  <animation id="0169" name="BetaVent/Open (Shooting out smoke)" offset="" modelpointer="8020"/>
+  <animation id="016a" name="X" offset="" />
+  <animation id="016b" name="Snarebear CCW (Snap)" offset="" modelpointer="8098"/>
+  <animation id="016c" name="Snarebear CCW (Idle)" offset="" modelpointer="8098"/>
+  <animation id="016d" name="Twinkly Box Opening" offset="" modelpointer="80A8"/>
+  <animation id="016e" name="Mumbo/With fan" offset="" modelpointer="7CC8"/>
+  <animation id="016f" name="Zubba/Flying>moving around little" offset="" modelpointer="80C8"/>
+  <animation id="0170" name="Zubba flying Idle" offset="" modelpointer="80C8"/>
+  <animation id="0171" name="Zubba falls" offset="" modelpointer="80C8"/>
+  <animation id="0172" name="Zubba Hits ground" offset="" modelpointer="80C8"/>
+  <animation id="0173" name="Flower/SproutSpring" offset="" modelpointer="80D0"/>
+  <animation id="0174" name="Flower/SproutSummer" offset="" modelpointer="80D0"/>
+  <animation id="0175" name="Flower/SproutFall" offset="" modelpointer="80D0"/>
+  <animation id="0176" name="Gobi/Yawning" offset="" modelpointer="7D98"/>
+  <animation id="0177" name="Gobi/Sleeping" offset="" modelpointer="7D98"/>
+  <animation id="0178" name="Twinklies/Jumps out from box" offset="" modelpointer="80E8,80D8,80E0,80F0"/>
+  <animation id="0179" name="Boggy/Signaling (Speed up slowpoke!)" offset="" modelpointer="7AE8"/>
+  <animation id="017a" name="Boggy/Lookingback (On sled)" offset="" modelpointer="7AE8"/>
+  <animation id="017b" name="Boggy/Something.." offset="" modelpointer="7AE8"/>
+  <animation id="017c" name="Twinklies" offset="" modelpointer="80E8,80D8,80E0,80F0"/>
+  <animation id="017d" name="Kids/Happy (Groggy Moggy Soggy)" offset="" modelpointer="80F8,8100,8108"/>
+  <animation id="017e" name="Kids/Sad" offset="" modelpointer="80F8,8100,8108"/>
+  <animation id="017f" name="Mumbo/Sweeping leaves" offset="" modelpointer="7CC8"/>
+  <animation id="0180" name="Mumbo/Turn with broom" offset="" modelpointer="7CC8"/>
+  <animation id="0181" name="Flower/SpringIdle" offset="" modelpointer="80D0"/>
+  <animation id="0182" name="Flower/SummerIdle" offset="" modelpointer="80D0"/>
+  <animation id="0183" name="Flower/FallIdle" offset="" modelpointer="80D0"/>
+  <animation id="0184" name="Big Clucker/Attack" offset="" modelpointer="82A8"/>
+  <animation id="0185" name="Big Clucker/LongAttack (CCW Evil bird)" offset="" modelpointer="82A8"/>
+  <animation id="0186" name="Big Clucker Die" offset="" modelpointer="82A8"/>
+  <animation id="0187" name="rotateodd and go in ground." offset="" />
+  <animation id="0188" name="PumpkinBanjoDIE" offset="" modelpointer="7A10"/>
+  <animation id="0189" name="Floatsam/Die" offset="" modelpointer="7EA0"/>
+  <animation id="018a" name="Present/Bounce" offset="" modelpointer="82A0,8298,8290"/>
+  <animation id="018b" name="X" offset="" />
+  <animation id="018c" name="X" offset="" />
+  <animation id="018d" name="rotatetostandingmode, and back." offset="" />
+  <animation id="018e" name="rock sideways gently" offset="" />
+  <animation id="018f" name="SPRING EyrieYawnFalltosleep (BabyBirdy)" offset="" modelpointer="82B8"/>
+  <animation id="0190" name="SPRING EyrieBabySleep" offset="" modelpointer="82B8"/>
+  <animation id="0191" name="SUMMER EyrieWaitingForFood" offset="" modelpointer="82B8"/>
+  <animation id="0192" name="SUMMER Eyrie/FinishedEating+Grow" offset="" modelpointer="82B8"/>
+  <animation id="0193" name="SUMMER Eyrie/YawnFalltoGround" offset="" modelpointer="82B8"/>
+  <animation id="0194" name="SUMMER Eyrie/Sleeping" offset="" modelpointer="82B8"/>
+  <animation id="0195" name="FALL Eyrie/WaitingForFood" offset="" modelpointer="82B8"/>
+  <animation id="0196" name="FALL Eyrie/FinishedEating+Grow" offset="" modelpointer="82B8"/>
+  <animation id="0197" name="FALL Eyrie/YawnFalltoGround" offset="" modelpointer="82B8"/>
+  <animation id="0198" name="FALL EyrieSleeping" offset="" modelpointer="82B8"/>
+  <animation id="0199" name="WINTER Eyrie/Tweet-Tweet (Bird)" offset="" modelpointer="82D0"/>
+  <animation id="019a" name="WINTER Eyire/Tweet>Flying" offset="" modelpointer="82D0"/>
+  <animation id="019b" name="Banjo/transform" offset="" modelpointer="7900"/>
+  <animation id="019c" name="WalrusBanjo/Hurt" offset="" modelpointer="7960"/>
+  <animation id="019d" name="WalrusBanjo/Die" offset="" modelpointer="7960"/>
+  <animation id="019e" name="WalrusBanjo/OnSled" offset="" modelpointer="7960"/>
+  <animation id="019f" name="WalrusBanjo/BeforeLoseRace" offset="" modelpointer="7960"/>
+  <animation id="01a0" name="SomeoneDie" offset="" />
+  <animation id="01a1" name="Sled/Animation (FP)" offset="" modelpointer="7928"/>
+  <animation id="01a2" name="NabnutSleeping" offset="" modelpointer="86A8,86B0"/>
+  <animation id="01a3" name="Nabnut" offset="" modelpointer="86A8,86B0"/>
+  <animation id="01a4" name="NabnutEating" offset="" modelpointer="86A8,86B0"/>
+  <animation id="01a5" name="X" offset="" />
+  <animation id="01a6" name="Gnawty/Normal (Beaver)" offset="" modelpointer="8310"/>
+  <animation id="01a7" name="Gnawty/Happy (Jump around arms in air)" offset="" modelpointer="8310"/>
+  <animation id="01a8" name="Gnawty/Walk" offset="" modelpointer="8310"/>
+  <animation id="01a9" name="BanjoWalrus/LoseRace" offset="" />
+  <animation id="01aa" name="Boggy/WonRace" offset="" modelpointer="7AE8"/>
+  <animation id="01ab" name="Boggy/LostRace" offset="" modelpointer="7AE8"/>
+  <animation id="01ac" name="Wozza/Holding Jiggy (Walrus)" offset="" />
+  <animation id="01ad" name="Wozza/Flipping out (Handing out Jiggy)" offset="" />
+  <animation id="01ae" name="Wozza/Hop away" offset="" />
+  <animation id="01af" name="TwinklyMuncher/Die" offset="" modelpointer="8348"/>
+  <animation id="01b0" name="TwinklyMuncher/Appear" offset="" modelpointer="8348"/>
+  <animation id="01b1" name="TwinklyMuncher/Idle" offset="" modelpointer="8348"/>
+  <animation id="01b2" name="TwinklyMuncher/Eat" offset="" modelpointer="8348"/>
+  <animation id="01b3" name="Wozza/BeforeStop" offset="" modelpointer="8338"/>
+  <animation id="01b4" name="WozzasJiggy/HeldDown" offset="" modelpointer="8338"/>
+  <animation id="01b5" name="Wozza/GiveJiggy" offset="" modelpointer="8338"/>
+  <animation id="01b6" name="Wozza/Throw...Freezehalfway" offset="" modelpointer="8338"/>
+  <animation id="01b7" name="GreenMist/Animate (Grunty Intro)" offset="146" modelpointer="8110"/>
+  <animation id="01b8" name="Door/Open (Intro)" offset="14E" modelpointer="78D0"/>
+  <animation id="01b9" name="Grunty/Start (Intro) (GCutscene)" offset="150" />
+  <animation id="01ba" name="X (At start Cutscene2)" offset="152" />
+  <animation id="01bb" name="Grunty/Picknose (Intro)" offset="15E" modelpointer="8120"/>
+  <animation id="01bc" name="TootyImage/Wobble(?)" offset="160" />
+  <animation id="01bd" name="Grunty/Angry at Dingpot>Wapwap (Intro)" offset="162" modelpointer="8120"/>
+  <animation id="01be" name="Grunty/Picknose>Gotboogie>Throw (Intro)" offset="164" modelpointer="8120"/>
+  <animation id="01bf" name="Grunty/Shocked>Confused (Intro)" offset="166" modelpointer="8120"/>
+  <animation id="01c0" name="Grunty/Walk (Intro)" offset="168" modelpointer="8120"/>
+  <animation id="01c1" name="armsspreadout, growtall, shrink down." offset="1C4" />
+  <animation id="01c2" name="Door/Close" offset="16C" modelpointer="86E0"/>
+  <animation id="01c3" name="Facingrightfrozen" offset="16E" />
+  <animation id="01c4" name="Grunty's Broomstick/Flying" offset="170" modelpointer="8148"/>
+  <animation id="01c5" name="Grunty/(On broomstick)" offset="172" modelpointer="8120,8150"/>
+  <animation id="01c6" name="Armstwistaroumd, look around, twist normal." offset="174" />
+  <animation id="01c7" name="CutsceneBanjo/ZZZzz" offset="176" modelpointer="7900"/>
+  <animation id="01c8" name="CutsceneBanjo/Wakes up" offset="178" modelpointer="7900"/>
+  <animation id="01c9" name="BedSheets/Banjo sleeping (Intro)" offset="17A" />
+  <animation id="01ca" name="BedSheets/Banjo awake (Intro)" offset="17C" />
+  <animation id="01cb" name="Kazooie/Appear (Intro)" offset="17E" modelpointer="8170"/>
+  <animation id="01cc" name="wired..flying?swimming? around slowly waving around." offset="180" />
+  <animation id="01cd" name="Kazooie/InsideBackpack (Intro)" offset="182" modelpointer="8170"/>
+  <animation id="01ce" name="Drapes/Move" offset="184" />
+  <animation id="01cf" name="CutsceneKazooie/Uneasy" offset="186" modelpointer="8170"/>
+  <animation id="01d0" name="Tooty/Hopping (Excited)" offset="188" modelpointer="7970"/>
+  <animation id="01d1" name="turnleftright,nosestrech" offset="18A" />
+  <animation id="01d2" name="very very little movement (CutsceneTimer GruntyAttacksTootyCutscene)" offset="18C" />
+  <animation id="01d3" name="Kazooie/Wake up Banjo" offset="18E" modelpointer="8170"/>
+  <animation id="01d4" name="Kazooie/Fall down" offset="190" modelpointer="8170"/>
+  <animation id="01d5" name="Tooty/Shiver" offset="192" modelpointer="7970"/>
+  <animation id="01d6" name="SeamanGrublin/Walk" offset="" modelpointer="8380"/>
+  <animation id="01d7" name="SeamanGrublin/HI (found you)" offset="" modelpointer="8380"/>
+  <animation id="01d8" name="SeamanGrublin/Chase" offset="" modelpointer="8380"/>
+  <animation id="01d9" name="SeamanGrublin/Die" offset="" modelpointer="8380"/>
+  <animation id="01da" name="Snippet/Idle (crab)" offset="" modelpointer="7958,89C8"/>
+  <animation id="01db" name="Mutie-Snippet/Idle (clanker crab)" offset="" modelpointer="7958,89C8"/>
+  <animation id="01dc" name="HoneybeeBanjo/Fly" offset="" modelpointer="79A8"/>
+  <animation id="01dd" name="HoneybeeBanjo/Walk" offset="" modelpointer="79A8"/>
+  <animation id="01de" name="HoneybeeBanjo/Idle" offset="" modelpointer="79A8"/>
+  <animation id="01df" name="HoneybeeBanjo/tiyhop.. (find this)" offset="" modelpointer="79A8"/>
+  <animation id="01e0" name="HoneybeeBanjo/Hurt" offset="" modelpointer="79A8"/>
+  <animation id="01e1" name="HoneybeeBanjo/Die" offset="" modelpointer="79A8"/>
+  <animation id="01e2" name="HoneybeeBanjo/Jump" offset="" modelpointer="79A8"/>
+  <animation id="01e3" name="Brick Wall/Smash" offset="" modelpointer="83A0"/>
+  <animation id="01e4" name="Limbo/Walk (Skeleton)" offset="" modelpointer="84F8"/>
+  <animation id="01e5" name="Limbo/Find" offset="" modelpointer="84F8"/>
+  <animation id="01e6" name="Limbo/Chase" offset="" modelpointer="84F8"/>
+  <animation id="01e7" name="Limbo/Fall apart" offset="" modelpointer="84F8"/>
+  <animation id="01e8" name="Limbo/Rise" offset="" modelpointer="84F8"/>
+  <animation id="01e9" name="Mum-Mum/Walk-Idle? (Mummy)" offset="" modelpointer="84D0"/>
+  <animation id="01ea" name="Mum-Mum/Curl" offset="" modelpointer="84D0"/>
+  <animation id="01eb" name="Mum-Mum/PopBack" offset="" modelpointer="84D0"/>
+  <animation id="01ec" name="X" offset="" />
+  <animation id="01ed" name="Ripper/Hurt" offset="" modelpointer="7CE0"/>
+  <animation id="01ee" name="Ripper/Die" offset="" modelpointer="7CE0"/>
+  <animation id="01ef" name="noseforward>back (Switch?)" offset="" />
+  <animation id="01f0" name="SpiderwebFloor/Moving" offset="" modelpointer="8540"/>
+  <animation id="01f1" name="SpiderwebFloor/Destroy" offset="" modelpointer="8540"/>
+  <animation id="01f2" name="SpiderwebWall/Moving" offset="" modelpointer="8540"/>
+  <animation id="01f3" name="Spiderwebwall/Destroy" offset="" modelpointer="8540"/>
+  <animation id="01f4" name="Shrapnel/Idle (bomb)" offset="" modelpointer="7DF8"/>
+  <animation id="01f5" name="Jiggys Piecing Together (World Spawn Start)" offset="19E" />
+  <animation id="01f6" name="looks like some diver hitting a ground of play-doh." offset="" />
+  <animation id="01f7" name="KazooieFeathers/Poof (End intro)" offset="19C" />
+  <animation id="01f8" name="Bottles/PointAtGrunty" offset="198" modelpointer="7AD0"/>
+  <animation id="01f9" name="Tooty/Confused" offset="19A" modelpointer="7970"/>
+  <animation id="01fa" name="SexyGrunty/Walking" offset="1A0" modelpointer="81D8"/>
+  <animation id="01fb" name="SexyGrunty/(Checking her self out)" offset="1A2" modelpointer="81D8"/>
+  <animation id="01fc" name="UglyTooty/Walking" offset="1A4" modelpointer="81E0"/>
+  <animation id="01fd" name="UglyTooty/Punching" offset="1A6" modelpointer="81E0"/>
+  <animation id="01fe" name="MachineDoor/Open" offset="1A8" modelpointer="7898"/>
+  <animation id="01ff" name="MachineDoors/Closing" offset="1AA" modelpointer="7898"/>
+  <animation id="0200" name="StaticMachine/DoorUp" offset="1AC" modelpointer="7898"/>
+  <animation id="0201" name="Klungo/Walk Erm.. Limp." offset="1AE" modelpointer="81E8"/>
+  <animation id="0202" name="Klungo/ButtonPush" offset="1B0" modelpointer="81E8"/>
+  <animation id="0203" name="X" offset="" />
+  <animation id="0204" name="Grunty/Falling" offset="1B2" modelpointer="8120"/>
+  <animation id="0205" name="Dingpot/wap" offset="1B4" modelpointer="8118"/>
+  <animation id="0206" name="Dingpot/still" offset="1B6" modelpointer="8118"/>
+  <animation id="0207" name="Grunty/Crammed in Machine" offset="1B8" modelpointer="8120"/>
+  <animation id="0208" name="Banjo's fish/Swimming>hitting bowl" offset="1BA" modelpointer="8208"/>
+  <animation id="0209" name="CoocooClock/Idle" offset="1BC" modelpointer="8210"/>
+  <animation id="020a" name="CoocooClock/Out" offset="1BE" modelpointer="8210"/>
+  <animation id="020b" name="Grunty/Spinning (SpiralMountain)" offset="1C0" modelpointer="8120"/>
+  <animation id="020c" name="stretch,shrink, arms spread out." offset="" />
+  <animation id="020d" name="Klungo/Leverdown" offset="D4" modelpointer="81E8"/>
+  <animation id="020e" name="Machine/Leverdown (Gameoverscene)" offset="D6" modelpointer="78A0"/>
+  <animation id="020f" name="Klungo/(Banging hand>laughing)" offset="D8" modelpointer="81E8"/>
+  <animation id="0210" name="Machine/(Ugly Tooty trying to get out)" offset="DA" modelpointer="7898"/>
+  <animation id="0211" name="nosemoveleftright" offset="" />
+  <animation id="0212" name="Portal/Wakeup" offset="" />
+  <animation id="0213" name="Portal/Sleeping" offset="" />
+  <animation id="0214" name="Portal/Normal" offset="" />
+  <animation id="0215" name="Portal/AtWork" offset="" />
+  <animation id="0216" name="Portal/Out" offset="" />
+  <animation id="0217" name="MumboSwitch/Down Up" offset="" modelpointer="8580"/>
+  <animation id="0218" name="spin randomly, nose stretch  (Two poles...) " offset="" />
+  <animation id="0219" name="twistedup." offset="" />
+  <animation id="021a" name="SUMMER Eyrie/Eat" offset="" modelpointer="82B8"/>
+  <animation id="021b" name="FALL Eyrie/Eat (Autumn)" offset="" modelpointer="82B8"/>
+  <animation id="021c" name="X" offset="" />
+  <animation id="021d" name="Eyrie/Flying" offset="" modelpointer="82D0"/>
+  <animation id="021e" name="Eyrie/Poop out Jiggy" offset="" modelpointer="82D0"/>
+  <animation id="021f" name="X" offset="" />
+  <animation id="0220" name="X" offset="" />
+  <animation id="0221" name="Wozza/Idle (WozzaInCave)" offset="" modelpointer="8338"/>
+  <animation id="0222" name="Boggy/Sleeping (Sitting)" offset="" modelpointer="7AE8"/>
+  <animation id="0223" name="Topper/alive (Carrot)" offset="" modelpointer="8600"/>
+  <animation id="0224" name="Topper/dead" offset="" modelpointer="8600"/>
+  <animation id="0225" name="Colliwobble/bounce" offset="" modelpointer="8608"/>
+  <animation id="0226" name="Bawl/bounce (Onion)" offset="" modelpointer="8610"/>
+  <animation id="0227" name="Bawl/dead (Onion)" offset="" modelpointer="8610"/>
+  <animation id="0228" name="Banjo/OnSled" offset="" modelpointer="7900"/>
+  <animation id="0229" name="Whipcrack/Attack" offset="" modelpointer="8680,8028"/>
+  <animation id="022a" name="Whipcrack/Idle" offset="" modelpointer="8680,8028"/>
+  <animation id="022b" name="NabnutSummerFatAndFull." offset="" modelpointer="86B0"/>
+  <animation id="022c" name="Nabnut/Crying" offset="" modelpointer="86A8,86B0"/>
+  <animation id="022d" name="Nabnut/Happy (Backflip>Cheer)" offset="" modelpointer="86A8,86B0"/>
+  <animation id="022e" name="Nabnut/Idle" offset="" modelpointer="86A8,86B0"/>
+  <animation id="022f" name="Nabnut/Run" offset="" modelpointer="86A8,86B0"/>
+  <animation id="0230" name="Mrs.Nabnut/Sleep (PinkSquirrel)" offset="" modelpointer="81A8"/>
+  <animation id="0231" name="Nabnut/Bedsheets" offset="" modelpointer="81B0"/>
+  <animation id="0232" name="freezeani" offset="" />
+  <animation id="0233" name="Chinker/Hide (and appear?)" offset="" />
+  <animation id="0234" name="deformed" offset="" />
+  <animation id="0235" name="freezeani?  (Two poles... GV)" offset="" />
+  <animation id="0236" name="PumpkinBanjo/Hurt" offset="" modelpointer="7A10"/>
+  <animation id="0237" name="Twinkly Box Moving" offset="" modelpointer="80A8"/>
+  <animation id="0238" name="LoggoToilet/Hop" offset="" modelpointer="8760"/>
+  <animation id="0239" name="Leaky/Hop" offset="" modelpointer="8768"/>
+  <animation id="023a" name="Beetle/Idle (flying)" offset="" modelpointer="8770"/>
+  <animation id="023b" name="Beetle/PrepareAttack" offset="" modelpointer="8770"/>
+  <animation id="023c" name="Beetle/Charge" offset="" modelpointer="8770"/>
+  <animation id="023d" name="Beetle/Die" offset="" modelpointer="8770"/>
+  <animation id="023e" name="Portrait Chompa (Picture Monster)" offset="" modelpointer="87A0"/>
+  <animation id="023f" name="Portrait/Rip" offset="" modelpointer="87D0,87E8,87A8,87D8,87E0"/>
+  <animation id="0240" name="Loggo/Flush (Toilet)" offset="" modelpointer="8760"/>
+  <animation id="0241" name="noidea.. (moveup from ground, hide in ground)" offset="" />
+  <animation id="0242" name="Gobi/Shout (Relaxing)" offset="" modelpointer="7D98"/>
+  <animation id="0243" name="GrublinHood/Walk" offset="" modelpointer="87F8"/>
+  <animation id="0244" name="GrublinHood/Find" offset="" modelpointer="87F8"/>
+  <animation id="0245" name="GrublinHood/Chase" offset="" modelpointer="87F8"/>
+  <animation id="0246" name="GrublinHood/Die" offset="" modelpointer="87F8"/>
+  <animation id="0247" name="Nosebounce@" offset="" />
+  <animation id="0248" name="Boingboingbacktensely@" offset="" />
+  <animation id="0249" name="Huge.. Turnaround stop wobble wobble@" offset="" />
+  <animation id="024a" name="BanjoCook/Cooking" offset="" modelpointer="7900"/>
+  <animation id="024b" name="BanjoCook/Activated" offset="" modelpointer="7900"/>
+  <animation id="024c" name="BanjoCook/Flip" offset="" modelpointer="7900"/>
+  <animation id="024d" name="BanjoOnBed/Sleeping" offset="" modelpointer="7900"/>
+  <animation id="024e" name="BanjoOnBed/Activated" offset="" modelpointer="7900"/>
+  <animation id="024f" name="BanjoOnBed/Spring" offset="" modelpointer="7900"/>
+  <animation id="0250" name="BanjoOnGameboy/Playing" offset="" modelpointer="7900"/>
+  <animation id="0251" name="BanjoOnGameboy/Activated" offset="" modelpointer="7900"/>
+  <animation id="0252" name="BanjoOnGameboy/Spring" offset="" modelpointer="7900"/>
+  <animation id="0253" name="Bull/Hit (bull)" offset="" modelpointer="7930,7938"/>
+  <animation id="0254" name="Bull/Fall" offset="" modelpointer="7930,7938"/>
+  <animation id="0255" name="Bull/GetUp" offset="" modelpointer="7930,7938"/>
+  <animation id="0256" name="move up from ground, go back down." offset="" />
+  <animation id="0257" name="Grunty/Big magic Blast On broom" offset="" modelpointer="8120,8150"/>
+  <animation id="0258" name="? Grunty On Broom" offset="" modelpointer="8120,8150"/>
+  <animation id="0259" name="Grunty/Hurt" offset="" modelpointer="8120"/>
+  <animation id="025a" name="Grunty/CastFireball" offset="" modelpointer="8120,8150"/>
+  <animation id="025b" name="NabnutAcorn/Bounce" offset="" modelpointer="8308"/>
+  <animation id="025c" name="Grunty/Charge" offset="" modelpointer="8120,8150"/>
+  <animation id="025d" name="Grunty/SmackOnCastle+Fixselfup+Hopup" offset="" modelpointer="8120"/>
+  <animation id="025e" name="Grunty/WapBroomstick" offset="" modelpointer="8120,8150"/>
+  <animation id="025f" name="Grunty/IdleStanding" offset="" modelpointer="8120"/>
+  <animation id="0260" name="Fireball W Standing" offset="" />
+  <animation id="0261" name="NastyFireball" offset="" />
+  <animation id="0262" name="Jinjonator Or JinjoATTACK" offset="" modelpointer="8920"/>
+  <animation id="0263" name="Grunty/Fall off Broom" offset="" modelpointer="8120"/>
+  <animation id="0264" name="Jinjo/Yawning" offset="" modelpointer="7C70,7C78,7C98,7CA0,7CA8"/>
+  <animation id="0265" name="Jinjo/Statue breaking apart" offset="" />
+  <animation id="0266" name="Grunty/Falling down tower" offset="" modelpointer="8120"/>
+  <animation id="0267" name="Grunty?" offset="" modelpointer="8120,8150"/>
+  <animation id="0268" name="BigEgg/Animation (Tower)" offset="" modelpointer="88D0"/>
+  <animation id="0269" name="BigFeather/Animation" offset="" modelpointer="88D8"/>
+  <animation id="026a" name="BigGoldFeather/Animation" offset="" modelpointer="88E0"/>
+  <animation id="026b" name="Brentilda/Idle" offset="" modelpointer="8860"/>
+  <animation id="026c" name="Brentilda/Talk" offset="" modelpointer="8860"/>
+  <animation id="026d" name="Gruntling/Walk" offset="" modelpointer="88E8,89A0,89A8"/>
+  <animation id="026e" name="Gruntling/SeesBanjo" offset="" modelpointer="88E8,89A0,89A8"/>
+  <animation id="026f" name="Gruntling/Walk (Arms in Air)" offset="" modelpointer="88E8,89A0,89A8"/>
+  <animation id="0270" name="Gruntling/DIE" offset="" modelpointer="88E8,89A0,89A8"/>
+  <animation id="0271" name="armsgoback (Two poles... GL)" offset="" />
+  <animation id="0272" name="Cheato/Flap" offset="" modelpointer="8910"/>
+  <animation id="0273" name="Snacker/Ouch" offset="" modelpointer="7C18"/>
+  <animation id="0274" name="Snacker/Die" offset="" modelpointer="7C18"/>
+  <animation id="0275" name="Jinjonator/Yawn" offset="" modelpointer="8920"/>
+  <animation id="0276" name="Jinjonator/Riseup" offset="" modelpointer="8920"/>
+  <animation id="0277" name="Jinjonator/ReadyToAttackPose (I think)" offset="" modelpointer="8920"/>
+  <animation id="0278" name="Jinjonator/Bounce off Grunty" offset="" modelpointer="8920"/>
+  <animation id="0279" name="Grunty/JawDrop > Shiver" offset="" modelpointer="8120"/>
+  <animation id="027a" name="Grunty/Hit by Jinjonator" offset="" modelpointer="8120"/>
+  <animation id="027b" name="Jinjonator? (spin spin spin, stop far way, shake)" offset="" modelpointer="8920"/>
+  <animation id="027c" name="Jinjonator/Powerup" offset="" modelpointer="8920"/>
+  <animation id="027d" name="Jinjonator/Attack final" offset="" modelpointer="8920"/>
+  <animation id="027e" name="Jinjonator/Start flight" offset="" modelpointer="8920"/>
+  <animation id="027f" name="Jinjonator/Flying faster and faster" offset="" modelpointer="8920"/>
+  <animation id="0280" name="Jinjonator/Attack" offset="" modelpointer="8920"/>
+  <animation id="0281" name="Wishy-Washy-Banjo" offset="" />
+  <animation id="0282" name="Banjo/Unlocks note door" offset="" modelpointer="7900"/>
+  <animation id="0283" name="Grunty/Shiver" offset="" modelpointer="8120"/>
+  <animation id="0284" name="PRESS START Falling together" offset="" />
+  <animation id="0285" name="PRESS START Stop" offset="" />
+  <animation id="0286" name="NO CONTROLLER Falling together" offset="" />
+  <animation id="0287" name="NO CONTROLLER Stop" offset="" />
+  <animation id="0288" name="Flibbit/Ouch" offset="" modelpointer="7A40,7AC0"/>
+  <animation id="0289" name="Gnawty/Swim" offset="" modelpointer="8310"/>
+  <animation id="028a" name="GFF Grunty'sWashF" offset="" />
+  <animation id="028b" name="Grunty/Standing at stand (GFF)" offset="" modelpointer="8120"/>
+  <animation id="028c" name="GruntyDoll/Bounce" offset="" modelpointer="8998"/>
+  <animation id="028d" name="Grunty/Walk" offset="" modelpointer="8120"/>
+  <animation id="028e" name="Tooty/Lookaround" offset="" modelpointer="7970"/>
+  <animation id="028f" name="Dingpot/Idle?" offset="" modelpointer="8118"/>
+  <animation id="0290" name="Dingpot/Sendup" offset="" modelpointer="8118"/>
+  <animation id="0291" name="BBQMumbo/FlippingFood" offset="46" modelpointer="8230"/>
+  <animation id="0292" name="BBQFood/Flipping" offset="48" modelpointer="8238"/>
+  <animation id="0293" name="Banjo/Drinking" offset="FC" />
+  <animation id="0294" name="BBQMumbo/Priceless scream" offset="F6" modelpointer="8230"/>
+  <animation id="0295" name="Banjo/Chair break (Also music trigger for N64 Cutscene)" offset="68" modelpointer="7818"/>
+  <animation id="0296" name="Bottles/Eating corn" offset="144" modelpointer="7AD0"/>
+  <animation id="0297" name="Mumbo/Skid>Give flower" offset="1C6" modelpointer="7CC8"/>
+  <animation id="0298" name="What....? (Faaaaag... Mumbo?)" offset="1C8" modelpointer="7CC8"/>
+  <animation id="0299" name="Bottles/Fall off chair" offset="1CA" modelpointer="7AD0"/>
+  <animation id="029a" name="Banjo/Drunk (Beach Cutscene)" offset="1CC" />
+  <animation id="029b" name="Kazooie/Hits drink on Banjo" offset="4A" />
+  <animation id="029c" name="YellowJinjo/Waving (Ending)" offset="1CE" modelpointer="7C70,7C78,7C98,7CA0,7CA8"/>/>
+  <animation id="029d" name="MelonLady/Walking" offset="4E" />
+  <animation id="029e" name="Blubber/On Jetski" offset="14" modelpointer="7A18"/>
+  <animation id="029f" name="Blubber/Cheering on JetSki" offset="0x1C" modelpointer="7A18"/>
+  <animation id="02a0" name="Drapes/BoomUp" offset="194" />
+  <animation id="02a1" name="BanjoHand/DropJiggy" offset="" />
+  <animation id="02a2" name="BanjoHand/Idle" offset="" />
+  <animation id="02a3" name="BanjoHand/TurnJiggy(R)" offset="" />
+  <animation id="02a4" name="BanjoHand/TurnJiggy(L)" offset="" />
+  <animation id="02a5" name="BanjoHand/GrabPuzzle" offset="" />
+  <animation id="02a6" name="BanjoHand/ThumbUp" offset="" />
+  <animation id="02a7" name="BanjoHand/PieceIn" offset="" />
+  <animation id="02a8" name="BanjoHand/ThumbDown" offset="" />
+  <animation id="02a9" name="Nibbly/Falling(Bat)" offset="" modelpointer="7CE8"/>
+  <animation id="02aa" name="Nibbly/CrashDie(Bat)" offset="" modelpointer="7CE8"/>
+  <animation id="02ab" name="Tee-Hee/Die" offset="" modelpointer="7CF0,89B8"/>
+  <animation id="02ac" name="Grunty/Upset (Banjo won GGF)" offset="" modelpointer="8120"/>
+  <animation id="02ad" name="Grunty/Look Shakehead" offset="" modelpointer="8120"/>
+  <animation id="02ae" name="Tree/Shake (Mumbo)" offset="1D0" />
+  <animation id="02af" name="Mumbo/Slide down tree (a little)" offset="1D2" modelpointer="7CC8"/>
+  <animation id="02b0" name="Mumbo/on tree (waving pictures)" offset="1D4" modelpointer="7CC8"/>
+  <animation id="02b1" name="Mumbo/falling from tree" offset="1D6" modelpointer="7CC8"/>
+  <animation id="02b2" name="Bottles/Eating watermelon" offset="50" modelpointer="7AD0"/>
+  <animation id="02b3" name="Mumbo/coconuts hitting head" offset="1D8" modelpointer="7CC8"/>
+  <animation id="02b4" name="Mumbo/shake head sitting down" offset="1DA" modelpointer="7CC8"/>
+  <animation id="02b5" name="Mumbo/JumpingUpDown>Run (After Melon Lady)" offset="1DC" modelpointer="7CC8"/>
+  <animation id="02b6" name="Klungo/Trying to push rock" offset="1DE" modelpointer="81E8"/>
+  <animation id="02b7" name="Klungo/Tierd" offset="1E0" modelpointer="81E8"/>
+  <animation id="02b8" name="Tooty/Drinking coconut" offset="58" modelpointer="7970"/>
+  <animation id="02b9" name="Grunty's rock" offset="5A" />
+  <animation id="02ba" name="Kazooie/telling bottles that they are heros (Banjo Agreeing)" offset="1E2" />
+  <animation id="02bb" name="Mumbo/Running After Melon Lady" offset="1E4" modelpointer="7CC8"/>
+  <animation id="02bc" name="Mumbo/talking about pictures on ground" offset="1E6" modelpointer="7CC8"/>
+  <animation id="02bd" name="twisty, lookaround" offset="" />
+  <animation id="02be" name="similar to above" offset="" />
+  <animation id="02bf" name="similar to above" offset="" />
+  <animation id="02c0" name="Piranna/Die" offset="" modelpointer="79F0"/>
+  <animation id="02c5" name="Grunty/Prepare charge" offset="" />
+</animations>
